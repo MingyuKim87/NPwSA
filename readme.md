@@ -20,6 +20,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Description of experiments : Neural Processes with Stochastic Attention  ##
+</hr>
 
 ### There are 4 experiments in this code.
 * gp / gp_test : 1D regression task
