@@ -14,20 +14,20 @@ Copyright (c) 2020-2022 the authors : Neural Processes with Stochastic Attention
         "./save_models/" : location of model checkpoints in training
         "./test_save_models/" : model path in testing
 
-* In gp / gp_test, we separate train, test codes.
-        gp : train code
+* In `gp` / `gp_test`, we separate train, test codes.
+        `gp` : train code
             "./save_models/" : location of model checkpoints in training
-        gp_test : test code
+        `gp_test` : test code
             "./save_models/" : model path in testing
 
 ### Dataset
-* gp : it is synthetic dataset, so it dose not explicitly requires the data file. 
-* recommend_sys : "./data/movielens"
-* lv_model : only test dataset (hudson's hare lynx) you can assess to "./data/dataset/LynxHare.txt"
+* `gp` : it is synthetic dataset, so it dose not explicitly requires the data file. 
+* `recommend_sys` : "./data/movielens"
+* `lv_model` : only test dataset (hudson's hare lynx) you can assess to "./data/dataset/LynxHare.txt"
          For the training dataset, you should refer "https://github.com/juho-lee/bnp".
             . you have to run "/regression/data/lotka_volterra.py" and then obtain "train.tar" / "val.tar" 
             . you must place "train.tar" and "val.tar" on "./lv_model/data/dataset/"
-    - celebA : you can download at "https://www.kaggle.com/jessicali9530/celeba-dataset"
+* `celebA` : you can download at "https://www.kaggle.com/jessicali9530/celeba-dataset"
             . you should write the absolute root path of celebA dataset on the line 50 and 123 in "./celebA/main.py"
 
 ### Run 
