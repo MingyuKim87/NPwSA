@@ -1,0 +1,1216 @@
+---------- Training loss 149.199 updated ! and save the model! (step:5) ----------
+---------- Training loss 52.081 updated ! and save the model! (step:10) ----------
+---------- Training loss 42.329 updated ! and save the model! (step:15) ----------
+---------- Training loss 34.831 updated ! and save the model! (step:25) ----------
+---------- Training loss 31.329 updated ! and save the model! (step:30) ----------
+---------- Training loss 24.409 updated ! and save the model! (step:40) ----------
+---------- Training loss 23.859 updated ! and save the model! (step:50) ----------
+---------- Training loss 23.849 updated ! and save the model! (step:55) ----------
+---------- Training loss 22.945 updated ! and save the model! (step:60) ----------
+---------- Training loss 21.415 updated ! and save the model! (step:85) ----------
+---------- Training loss 20.226 updated ! and save the model! (step:160) ----------
+iteration : 200 loss : 25.573 NLL : -25.568 KLD : 0.004 KLD_attention : 0.000 
+---------- Training loss 20.206 updated ! and save the model! (step:240) ----------
+---------- Training loss 19.899 updated ! and save the model! (step:270) ----------
+---------- Training loss 19.802 updated ! and save the model! (step:280) ----------
+---------- Training loss 19.346 updated ! and save the model! (step:395) ----------
+iteration : 400 loss : 15.307 NLL : -15.088 KLD : 0.018 KLD_attention : 0.201 
+---------- Training loss 18.280 updated ! and save the model! (step:400) ----------
+iteration : 600 loss : 26.380 NLL : -26.376 KLD : 0.005 KLD_attention : 0.000 
+---------- Training loss 17.978 updated ! and save the model! (step:710) ----------
+iteration : 800 loss : 27.865 NLL : -27.653 KLD : 0.011 KLD_attention : 0.201 
+iteration : 1000 loss : 29.039 NLL : -28.318 KLD : 0.010 KLD_attention : 0.712 
+---------- Training loss 17.766 updated ! and save the model! (step:1055) ----------
+iteration : 1200 loss : 17.978 NLL : -17.904 KLD : 0.001 KLD_attention : 0.073 
+---------- Training loss 17.757 updated ! and save the model! (step:1315) ----------
+iteration : 1400 loss : 24.416 NLL : -24.320 KLD : 0.001 KLD_attention : 0.095 
+iteration : 1600 loss : 14.927 NLL : -14.726 KLD : 0.001 KLD_attention : 0.201 
+---------- Training loss 15.915 updated ! and save the model! (step:1650) ----------
+iteration : 1800 loss : 25.868 NLL : -25.859 KLD : 0.000 KLD_attention : 0.009 
+---------- Training loss 15.851 updated ! and save the model! (step:1855) ----------
+iteration : 2000 loss : 24.571 NLL : -24.488 KLD : 0.000 KLD_attention : 0.083 
+iteration : 2200 loss : 21.065 NLL : -20.919 KLD : 0.000 KLD_attention : 0.145 
+---------- Training loss 15.300 updated ! and save the model! (step:2340) ----------
+---------- Training loss 13.913 updated ! and save the model! (step:2365) ----------
+iteration : 2400 loss : 19.913 NLL : -18.573 KLD : 0.001 KLD_attention : 1.338 
+iteration : 2600 loss : 25.347 NLL : -24.989 KLD : 0.000 KLD_attention : 0.358 
+iteration : 2800 loss : 18.828 NLL : -18.286 KLD : 0.000 KLD_attention : 0.542 
+iteration : 3000 loss : 16.299 NLL : -15.698 KLD : 0.000 KLD_attention : 0.600 
+iteration : 3200 loss : 16.161 NLL : -15.461 KLD : 0.000 KLD_attention : 0.700 
+iteration : 3400 loss : 17.039 NLL : -16.120 KLD : 0.000 KLD_attention : 0.918 
+iteration : 3600 loss : 19.486 NLL : -17.847 KLD : 0.001 KLD_attention : 1.638 
+iteration : 3800 loss : 20.233 NLL : -18.925 KLD : 0.001 KLD_attention : 1.307 
+---------- Training loss 13.710 updated ! and save the model! (step:3825) ----------
+iteration : 4000 loss : 24.046 NLL : -22.311 KLD : 0.001 KLD_attention : 1.734 
+iteration : 4200 loss : 14.845 NLL : -14.054 KLD : 0.000 KLD_attention : 0.790 
+---------- Training loss 13.214 updated ! and save the model! (step:4235) ----------
+---------- Training loss 12.423 updated ! and save the model! (step:4265) ----------
+iteration : 4400 loss : 21.301 NLL : -20.521 KLD : 0.000 KLD_attention : 0.780 
+iteration : 4600 loss : 23.853 NLL : -22.688 KLD : 0.000 KLD_attention : 1.164 
+iteration : 4800 loss : 12.164 NLL : -10.737 KLD : 0.001 KLD_attention : 1.426 
+iteration : 5000 loss : 16.991 NLL : -16.008 KLD : 0.000 KLD_attention : 0.984 
+iteration : 5200 loss : 23.464 NLL : -21.056 KLD : 0.002 KLD_attention : 2.406 
+iteration : 5400 loss : 25.609 NLL : -23.331 KLD : 0.001 KLD_attention : 2.277 
+iteration : 5600 loss : 20.173 NLL : -19.394 KLD : 0.000 KLD_attention : 0.778 
+---------- Training loss 11.862 updated ! and save the model! (step:5690) ----------
+iteration : 5800 loss : 23.650 NLL : -21.221 KLD : 0.004 KLD_attention : 2.425 
+iteration : 6000 loss : 12.456 NLL : -11.593 KLD : 0.000 KLD_attention : 0.863 
+iteration : 6200 loss : 18.420 NLL : -17.238 KLD : 0.001 KLD_attention : 1.181 
+iteration : 6400 loss : 16.946 NLL : -14.199 KLD : 0.001 KLD_attention : 2.746 
+iteration : 6600 loss : 14.142 NLL : -11.196 KLD : 0.001 KLD_attention : 2.945 
+iteration : 6800 loss : 18.452 NLL : -17.663 KLD : 0.000 KLD_attention : 0.789 
+---------- Training loss 11.638 updated ! and save the model! (step:6925) ----------
+iteration : 7000 loss : 16.880 NLL : -15.989 KLD : 0.001 KLD_attention : 0.891 
+iteration : 7200 loss : 15.480 NLL : -13.517 KLD : 0.003 KLD_attention : 1.960 
+iteration : 7400 loss : 19.070 NLL : -17.076 KLD : 0.010 KLD_attention : 1.984 
+iteration : 7600 loss : 14.976 NLL : -14.185 KLD : 0.000 KLD_attention : 0.791 
+---------- Training loss 11.499 updated ! and save the model! (step:7700) ----------
+iteration : 7800 loss : 15.274 NLL : -14.391 KLD : 0.000 KLD_attention : 0.883 
+iteration : 8000 loss : 25.414 NLL : -23.949 KLD : 0.006 KLD_attention : 1.459 
+---------- Training loss 11.377 updated ! and save the model! (step:8060) ----------
+iteration : 8200 loss : 18.615 NLL : -17.802 KLD : 0.001 KLD_attention : 0.812 
+iteration : 8400 loss : 18.337 NLL : -17.466 KLD : 0.001 KLD_attention : 0.869 
+iteration : 8600 loss : 16.692 NLL : -15.772 KLD : 0.000 KLD_attention : 0.920 
+---------- Training loss 11.372 updated ! and save the model! (step:8720) ----------
+iteration : 8800 loss : 11.283 NLL : -10.265 KLD : 0.001 KLD_attention : 1.017 
+iteration : 9000 loss : 15.057 NLL : -14.142 KLD : 0.000 KLD_attention : 0.915 
+iteration : 9200 loss : 20.599 NLL : -19.253 KLD : 0.000 KLD_attention : 1.345 
+iteration : 9400 loss : 16.676 NLL : -13.895 KLD : 0.001 KLD_attention : 2.780 
+iteration : 9600 loss : 12.231 NLL : -11.046 KLD : 0.000 KLD_attention : 1.186 
+iteration : 9800 loss : 15.777 NLL : -14.988 KLD : 0.000 KLD_attention : 0.789 
+---------- Training loss 11.272 updated ! and save the model! (step:9830) ----------
+iteration : 10000 loss : 15.631 NLL : -14.219 KLD : 0.000 KLD_attention : 1.412 
+---------- Training loss 19.752 updated ! and save the model! (step:10000) ----------
+---------- Training loss 17.131 updated ! and save the model! (step:10005) ----------
+---------- Training loss 13.152 updated ! and save the model! (step:10010) ----------
+---------- Training loss 12.485 updated ! and save the model! (step:10020) ----------
+---------- Training loss 11.005 updated ! and save the model! (step:10045) ----------
+---------- Training loss 10.344 updated ! and save the model! (step:10070) ----------
+iteration : 10200 loss : 13.420 NLL : -12.472 KLD : 0.002 KLD_attention : 0.945 
+iteration : 10400 loss : 17.218 NLL : -15.020 KLD : 0.001 KLD_attention : 2.197 
+iteration : 10600 loss : 13.612 NLL : -12.795 KLD : 0.001 KLD_attention : 0.817 
+iteration : 10800 loss : 14.595 NLL : -13.724 KLD : 0.001 KLD_attention : 0.869 
+iteration : 11000 loss : 22.438 NLL : -20.994 KLD : 0.001 KLD_attention : 1.443 
+iteration : 11200 loss : 24.454 NLL : -23.232 KLD : 0.001 KLD_attention : 1.221 
+---------- Training loss 10.249 updated ! and save the model! (step:11285) ----------
+iteration : 11400 loss : 14.763 NLL : -13.845 KLD : 0.002 KLD_attention : 0.916 
+iteration : 11600 loss : 17.974 NLL : -16.890 KLD : 0.000 KLD_attention : 1.084 
+---------- Training loss 9.739 updated ! and save the model! (step:11770) ----------
+iteration : 11800 loss : 17.676 NLL : -16.904 KLD : 0.000 KLD_attention : 0.772 
+iteration : 12000 loss : 15.184 NLL : -13.075 KLD : 0.008 KLD_attention : 2.101 
+iteration : 12200 loss : 11.082 NLL : -10.164 KLD : 0.000 KLD_attention : 0.918 
+iteration : 12400 loss : 16.354 NLL : -15.308 KLD : 0.003 KLD_attention : 1.042 
+iteration : 12600 loss : 8.783 NLL : -7.876 KLD : 0.000 KLD_attention : 0.906 
+iteration : 12800 loss : 25.694 NLL : -24.486 KLD : 0.002 KLD_attention : 1.206 
+iteration : 13000 loss : 20.855 NLL : -19.241 KLD : 0.001 KLD_attention : 1.613 
+iteration : 13200 loss : 7.946 NLL : -6.331 KLD : 0.001 KLD_attention : 1.614 
+iteration : 13400 loss : 9.047 NLL : -8.093 KLD : 0.000 KLD_attention : 0.954 
+iteration : 13600 loss : 13.593 NLL : -12.138 KLD : 0.001 KLD_attention : 1.454 
+iteration : 13800 loss : 25.783 NLL : -23.160 KLD : 0.002 KLD_attention : 2.621 
+iteration : 14000 loss : 13.089 NLL : -12.095 KLD : 0.001 KLD_attention : 0.994 
+iteration : 14200 loss : 17.308 NLL : -16.545 KLD : 0.001 KLD_attention : 0.761 
+iteration : 14400 loss : 8.449 NLL : -7.539 KLD : 0.000 KLD_attention : 0.910 
+iteration : 14600 loss : 12.525 NLL : -11.330 KLD : 0.000 KLD_attention : 1.194 
+iteration : 14800 loss : 12.620 NLL : -11.791 KLD : 0.000 KLD_attention : 0.829 
+iteration : 15000 loss : 15.465 NLL : -14.586 KLD : 0.000 KLD_attention : 0.879 
+iteration : 15200 loss : 25.212 NLL : -23.685 KLD : 0.002 KLD_attention : 1.525 
+iteration : 15400 loss : 20.264 NLL : -17.508 KLD : 0.006 KLD_attention : 2.750 
+iteration : 15600 loss : 9.827 NLL : -7.685 KLD : 0.000 KLD_attention : 2.141 
+---------- Training loss 9.713 updated ! and save the model! (step:15620) ----------
+iteration : 15800 loss : 25.855 NLL : -23.704 KLD : 0.005 KLD_attention : 2.147 
+iteration : 16000 loss : 19.832 NLL : -18.031 KLD : 0.003 KLD_attention : 1.797 
+iteration : 16200 loss : 13.961 NLL : -11.928 KLD : 0.002 KLD_attention : 2.031 
+iteration : 16400 loss : 11.550 NLL : -10.714 KLD : 0.000 KLD_attention : 0.836 
+---------- Training loss 9.268 updated ! and save the model! (step:16485) ----------
+iteration : 16600 loss : 13.651 NLL : -11.957 KLD : 0.001 KLD_attention : 1.693 
+iteration : 16800 loss : 13.406 NLL : -12.536 KLD : 0.001 KLD_attention : 0.868 
+iteration : 17000 loss : 15.120 NLL : -12.966 KLD : 0.003 KLD_attention : 2.152 
+iteration : 17200 loss : 19.085 NLL : -18.305 KLD : 0.001 KLD_attention : 0.780 
+iteration : 17400 loss : 23.123 NLL : -22.053 KLD : 0.000 KLD_attention : 1.069 
+iteration : 17600 loss : 12.310 NLL : -11.475 KLD : 0.000 KLD_attention : 0.834 
+iteration : 17800 loss : 18.037 NLL : -17.107 KLD : 0.000 KLD_attention : 0.930 
+iteration : 18000 loss : 9.767 NLL : -8.548 KLD : 0.000 KLD_attention : 1.219 
+iteration : 18200 loss : 7.885 NLL : -6.664 KLD : 0.000 KLD_attention : 1.221 
+iteration : 18400 loss : 11.591 NLL : -9.937 KLD : 0.000 KLD_attention : 1.653 
+---------- Training loss 8.626 updated ! and save the model! (step:18595) ----------
+iteration : 18600 loss : 18.131 NLL : -17.133 KLD : 0.002 KLD_attention : 0.996 
+iteration : 18800 loss : 8.958 NLL : -7.085 KLD : 0.008 KLD_attention : 1.865 
+iteration : 19000 loss : 20.193 NLL : -19.133 KLD : 0.001 KLD_attention : 1.058 
+iteration : 19200 loss : 9.525 NLL : -8.656 KLD : 0.000 KLD_attention : 0.869 
+iteration : 19400 loss : 11.186 NLL : -10.281 KLD : 0.000 KLD_attention : 0.905 
+iteration : 19600 loss : 14.080 NLL : -13.305 KLD : 0.000 KLD_attention : 0.775 
+iteration : 19800 loss : 8.565 NLL : -7.472 KLD : 0.001 KLD_attention : 1.093 
+iteration : 20000 loss : 12.634 NLL : -11.819 KLD : 0.000 KLD_attention : 0.814 
+---------- Training loss 12.173 updated ! and save the model! (step:20000) ----------
+---------- Training loss 9.718 updated ! and save the model! (step:20125) ----------
+---------- Training loss 9.494 updated ! and save the model! (step:20160) ----------
+iteration : 20200 loss : 8.083 NLL : -6.511 KLD : 0.000 KLD_attention : 1.572 
+---------- Training loss 9.294 updated ! and save the model! (step:20375) ----------
+iteration : 20400 loss : 8.511 NLL : -7.489 KLD : 0.001 KLD_attention : 1.022 
+iteration : 20600 loss : 14.393 NLL : -13.674 KLD : 0.001 KLD_attention : 0.718 
+iteration : 20800 loss : 16.993 NLL : -15.927 KLD : 0.000 KLD_attention : 1.066 
+---------- Training loss 8.547 updated ! and save the model! (step:20995) ----------
+iteration : 21000 loss : 20.991 NLL : -20.095 KLD : 0.000 KLD_attention : 0.896 
+iteration : 21200 loss : 19.101 NLL : -17.821 KLD : 0.005 KLD_attention : 1.276 
+iteration : 21400 loss : 12.641 NLL : -10.610 KLD : 0.001 KLD_attention : 2.030 
+iteration : 21600 loss : 21.471 NLL : -20.485 KLD : 0.000 KLD_attention : 0.986 
+iteration : 21800 loss : 7.480 NLL : -5.381 KLD : 0.010 KLD_attention : 2.088 
+iteration : 22000 loss : 15.497 NLL : -14.774 KLD : 0.000 KLD_attention : 0.722 
+iteration : 22200 loss : 14.963 NLL : -13.971 KLD : 0.000 KLD_attention : 0.991 
+iteration : 22400 loss : 21.997 NLL : -19.336 KLD : 0.004 KLD_attention : 2.658 
+---------- Training loss 8.008 updated ! and save the model! (step:22520) ----------
+iteration : 22600 loss : 11.941 NLL : -10.897 KLD : 0.000 KLD_attention : 1.044 
+iteration : 22800 loss : 11.228 NLL : -10.376 KLD : 0.000 KLD_attention : 0.851 
+iteration : 23000 loss : 6.324 NLL : -5.330 KLD : 0.001 KLD_attention : 0.994 
+iteration : 23200 loss : 13.073 NLL : -12.296 KLD : 0.000 KLD_attention : 0.777 
+iteration : 23400 loss : 18.322 NLL : -17.159 KLD : 0.016 KLD_attention : 1.148 
+iteration : 23600 loss : 15.057 NLL : -12.976 KLD : 0.004 KLD_attention : 2.077 
+iteration : 23800 loss : 13.144 NLL : -10.551 KLD : 0.002 KLD_attention : 2.590 
+iteration : 24000 loss : 25.957 NLL : -23.573 KLD : 0.005 KLD_attention : 2.379 
+iteration : 24200 loss : 9.389 NLL : -8.478 KLD : 0.000 KLD_attention : 0.911 
+iteration : 24400 loss : 11.225 NLL : -10.386 KLD : 0.000 KLD_attention : 0.838 
+iteration : 24600 loss : 9.905 NLL : -9.080 KLD : 0.000 KLD_attention : 0.825 
+iteration : 24800 loss : 11.210 NLL : -10.230 KLD : 0.001 KLD_attention : 0.978 
+iteration : 25000 loss : 6.430 NLL : -4.578 KLD : 0.000 KLD_attention : 1.851 
+iteration : 25200 loss : 19.743 NLL : -18.834 KLD : 0.001 KLD_attention : 0.908 
+iteration : 25400 loss : 6.685 NLL : -5.812 KLD : 0.000 KLD_attention : 0.873 
+iteration : 25600 loss : 15.621 NLL : -13.756 KLD : 0.007 KLD_attention : 1.858 
+iteration : 25800 loss : 7.523 NLL : -6.528 KLD : 0.000 KLD_attention : 0.994 
+iteration : 26000 loss : 12.979 NLL : -11.939 KLD : 0.001 KLD_attention : 1.038 
+iteration : 26200 loss : 6.996 NLL : -5.546 KLD : 0.000 KLD_attention : 1.450 
+iteration : 26400 loss : 8.997 NLL : -7.535 KLD : 0.001 KLD_attention : 1.460 
+iteration : 26600 loss : 21.588 NLL : -20.261 KLD : 0.004 KLD_attention : 1.322 
+iteration : 26800 loss : 8.835 NLL : -8.065 KLD : 0.000 KLD_attention : 0.769 
+iteration : 27000 loss : 17.103 NLL : -16.000 KLD : 0.000 KLD_attention : 1.102 
+iteration : 27200 loss : 10.466 NLL : -9.078 KLD : 0.005 KLD_attention : 1.382 
+iteration : 27400 loss : 13.191 NLL : -12.085 KLD : 0.000 KLD_attention : 1.106 
+iteration : 27600 loss : 12.764 NLL : -11.888 KLD : 0.001 KLD_attention : 0.874 
+iteration : 27800 loss : 14.552 NLL : -13.748 KLD : 0.001 KLD_attention : 0.803 
+iteration : 28000 loss : 14.602 NLL : -13.770 KLD : 0.001 KLD_attention : 0.832 
+iteration : 28200 loss : 14.508 NLL : -13.729 KLD : 0.001 KLD_attention : 0.779 
+iteration : 28400 loss : 11.847 NLL : -11.052 KLD : 0.001 KLD_attention : 0.794 
+iteration : 28600 loss : 15.272 NLL : -14.320 KLD : 0.000 KLD_attention : 0.952 
+iteration : 28800 loss : 10.907 NLL : -10.051 KLD : 0.001 KLD_attention : 0.855 
+iteration : 29000 loss : 13.509 NLL : -12.650 KLD : 0.000 KLD_attention : 0.859 
+iteration : 29200 loss : 18.485 NLL : -17.658 KLD : 0.003 KLD_attention : 0.824 
+iteration : 29400 loss : 18.775 NLL : -17.932 KLD : 0.007 KLD_attention : 0.836 
+iteration : 29600 loss : 15.251 NLL : -13.732 KLD : 0.004 KLD_attention : 1.514 
+iteration : 29800 loss : 18.070 NLL : -17.427 KLD : 0.000 KLD_attention : 0.642 
+iteration : 30000 loss : 7.565 NLL : -6.229 KLD : 0.005 KLD_attention : 1.331 
+---------- Training loss 16.012 updated ! and save the model! (step:30000) ----------
+---------- Training loss 14.884 updated ! and save the model! (step:30005) ----------
+---------- Training loss 14.058 updated ! and save the model! (step:30010) ----------
+---------- Training loss 10.838 updated ! and save the model! (step:30015) ----------
+---------- Training loss 9.435 updated ! and save the model! (step:30020) ----------
+---------- Training loss 9.066 updated ! and save the model! (step:30055) ----------
+---------- Training loss 7.936 updated ! and save the model! (step:30160) ----------
+iteration : 30200 loss : 17.427 NLL : -16.127 KLD : 0.002 KLD_attention : 1.298 
+iteration : 30400 loss : 17.874 NLL : -15.590 KLD : 0.028 KLD_attention : 2.256 
+iteration : 30600 loss : 14.970 NLL : -14.153 KLD : 0.001 KLD_attention : 0.816 
+iteration : 30800 loss : 6.267 NLL : -5.435 KLD : 0.000 KLD_attention : 0.831 
+iteration : 31000 loss : 18.028 NLL : -17.197 KLD : 0.001 KLD_attention : 0.830 
+iteration : 31200 loss : 16.680 NLL : -14.886 KLD : 0.014 KLD_attention : 1.780 
+iteration : 31400 loss : 7.528 NLL : -6.684 KLD : 0.000 KLD_attention : 0.844 
+iteration : 31600 loss : 9.549 NLL : -8.212 KLD : 0.002 KLD_attention : 1.334 
+---------- Training loss 7.563 updated ! and save the model! (step:31655) ----------
+iteration : 31800 loss : 8.507 NLL : -7.721 KLD : 0.000 KLD_attention : 0.785 
+iteration : 32000 loss : 21.080 NLL : -19.246 KLD : 0.010 KLD_attention : 1.824 
+iteration : 32200 loss : 10.603 NLL : -7.850 KLD : 0.003 KLD_attention : 2.750 
+iteration : 32400 loss : 19.074 NLL : -17.934 KLD : 0.001 KLD_attention : 1.140 
+iteration : 32600 loss : 12.248 NLL : -11.489 KLD : 0.001 KLD_attention : 0.758 
+iteration : 32800 loss : 7.925 NLL : -4.866 KLD : 0.005 KLD_attention : 3.053 
+iteration : 33000 loss : 23.484 NLL : -21.063 KLD : 0.079 KLD_attention : 2.342 
+iteration : 33200 loss : 14.346 NLL : -13.552 KLD : 0.000 KLD_attention : 0.794 
+iteration : 33400 loss : 17.758 NLL : -16.225 KLD : 0.003 KLD_attention : 1.530 
+iteration : 33600 loss : 7.202 NLL : -6.373 KLD : 0.000 KLD_attention : 0.829 
+iteration : 33800 loss : 16.180 NLL : -13.853 KLD : 0.005 KLD_attention : 2.321 
+iteration : 34000 loss : 7.515 NLL : -6.615 KLD : 0.001 KLD_attention : 0.900 
+iteration : 34200 loss : 14.211 NLL : -11.600 KLD : 0.005 KLD_attention : 2.606 
+iteration : 34400 loss : 8.981 NLL : -7.216 KLD : 0.003 KLD_attention : 1.762 
+iteration : 34600 loss : 11.212 NLL : -10.427 KLD : 0.001 KLD_attention : 0.784 
+iteration : 34800 loss : 15.378 NLL : -14.210 KLD : 0.002 KLD_attention : 1.166 
+iteration : 35000 loss : 10.936 NLL : -9.642 KLD : 0.001 KLD_attention : 1.292 
+iteration : 35200 loss : 20.291 NLL : -17.667 KLD : 0.023 KLD_attention : 2.601 
+iteration : 35400 loss : 22.388 NLL : -21.008 KLD : 0.003 KLD_attention : 1.377 
+iteration : 35600 loss : 14.532 NLL : -13.592 KLD : 0.001 KLD_attention : 0.939 
+iteration : 35800 loss : 14.278 NLL : -13.089 KLD : 0.002 KLD_attention : 1.187 
+iteration : 36000 loss : 11.870 NLL : -10.906 KLD : 0.002 KLD_attention : 0.961 
+iteration : 36200 loss : 10.706 NLL : -8.191 KLD : 0.008 KLD_attention : 2.507 
+iteration : 36400 loss : 11.034 NLL : -10.024 KLD : 0.002 KLD_attention : 1.007 
+iteration : 36600 loss : 11.709 NLL : -11.007 KLD : 0.005 KLD_attention : 0.697 
+iteration : 36800 loss : 19.997 NLL : -18.620 KLD : 0.001 KLD_attention : 1.376 
+iteration : 37000 loss : 7.001 NLL : -5.988 KLD : 0.003 KLD_attention : 1.010 
+iteration : 37200 loss : 24.739 NLL : -22.779 KLD : 0.009 KLD_attention : 1.951 
+iteration : 37400 loss : 9.336 NLL : -8.428 KLD : 0.001 KLD_attention : 0.908 
+iteration : 37600 loss : 9.961 NLL : -7.350 KLD : 0.012 KLD_attention : 2.599 
+iteration : 37800 loss : 21.183 NLL : -19.371 KLD : 0.005 KLD_attention : 1.808 
+iteration : 38000 loss : 17.222 NLL : -16.453 KLD : 0.001 KLD_attention : 0.768 
+iteration : 38200 loss : 10.153 NLL : -8.524 KLD : 0.002 KLD_attention : 1.628 
+iteration : 38400 loss : 13.315 NLL : -12.479 KLD : 0.001 KLD_attention : 0.835 
+iteration : 38600 loss : 7.726 NLL : -6.715 KLD : 0.006 KLD_attention : 1.004 
+iteration : 38800 loss : 16.415 NLL : -13.618 KLD : 0.008 KLD_attention : 2.790 
+iteration : 39000 loss : 7.318 NLL : -6.362 KLD : 0.001 KLD_attention : 0.956 
+iteration : 39200 loss : 14.982 NLL : -14.264 KLD : 0.001 KLD_attention : 0.718 
+iteration : 39400 loss : 9.727 NLL : -8.894 KLD : 0.002 KLD_attention : 0.831 
+iteration : 39600 loss : 11.954 NLL : -11.251 KLD : 0.001 KLD_attention : 0.702 
+iteration : 39800 loss : 10.187 NLL : -9.448 KLD : 0.001 KLD_attention : 0.739 
+iteration : 40000 loss : 5.641 NLL : -4.542 KLD : 0.002 KLD_attention : 1.098 
+---------- Training loss 15.409 updated ! and save the model! (step:40000) ----------
+---------- Training loss 14.807 updated ! and save the model! (step:40005) ----------
+---------- Training loss 12.167 updated ! and save the model! (step:40010) ----------
+---------- Training loss 11.855 updated ! and save the model! (step:40020) ----------
+---------- Training loss 9.995 updated ! and save the model! (step:40035) ----------
+---------- Training loss 9.169 updated ! and save the model! (step:40185) ----------
+iteration : 40200 loss : 24.666 NLL : -22.162 KLD : 0.006 KLD_attention : 2.498 
+---------- Training loss 9.026 updated ! and save the model! (step:40330) ----------
+---------- Training loss 7.774 updated ! and save the model! (step:40340) ----------
+iteration : 40400 loss : 10.739 NLL : -9.978 KLD : 0.003 KLD_attention : 0.758 
+iteration : 40600 loss : 21.313 NLL : -18.721 KLD : 0.002 KLD_attention : 2.591 
+iteration : 40800 loss : 12.105 NLL : -11.088 KLD : 0.002 KLD_attention : 1.015 
+iteration : 41000 loss : 9.016 NLL : -8.187 KLD : 0.002 KLD_attention : 0.827 
+iteration : 41200 loss : 21.179 NLL : -19.419 KLD : 0.004 KLD_attention : 1.756 
+iteration : 41400 loss : 22.307 NLL : -20.908 KLD : 0.011 KLD_attention : 1.388 
+iteration : 41600 loss : 23.232 NLL : -20.924 KLD : 0.003 KLD_attention : 2.304 
+iteration : 41800 loss : 10.415 NLL : -9.380 KLD : 0.002 KLD_attention : 1.033 
+iteration : 42000 loss : 18.104 NLL : -17.206 KLD : 0.003 KLD_attention : 0.895 
+iteration : 42200 loss : 17.870 NLL : -16.738 KLD : 0.003 KLD_attention : 1.129 
+---------- Training loss 7.624 updated ! and save the model! (step:42325) ----------
+iteration : 42400 loss : 16.947 NLL : -14.573 KLD : 0.019 KLD_attention : 2.355 
+iteration : 42600 loss : 20.983 NLL : -18.461 KLD : 0.018 KLD_attention : 2.504 
+iteration : 42800 loss : 11.437 NLL : -10.436 KLD : 0.002 KLD_attention : 0.999 
+iteration : 43000 loss : 8.713 NLL : -7.842 KLD : 0.001 KLD_attention : 0.870 
+iteration : 43200 loss : 13.943 NLL : -12.402 KLD : 0.009 KLD_attention : 1.533 
+iteration : 43400 loss : 19.867 NLL : -19.013 KLD : 0.003 KLD_attention : 0.850 
+---------- Training loss 6.410 updated ! and save the model! (step:43510) ----------
+iteration : 43600 loss : 8.426 NLL : -7.545 KLD : 0.001 KLD_attention : 0.880 
+iteration : 43800 loss : 10.901 NLL : -10.114 KLD : 0.001 KLD_attention : 0.787 
+iteration : 44000 loss : 16.514 NLL : -15.468 KLD : 0.003 KLD_attention : 1.043 
+iteration : 44200 loss : 16.128 NLL : -15.238 KLD : 0.002 KLD_attention : 0.888 
+iteration : 44400 loss : 6.150 NLL : -5.044 KLD : 0.014 KLD_attention : 1.093 
+iteration : 44600 loss : 6.883 NLL : -6.046 KLD : 0.001 KLD_attention : 0.837 
+iteration : 44800 loss : 7.516 NLL : -6.816 KLD : 0.000 KLD_attention : 0.700 
+iteration : 45000 loss : 22.777 NLL : -20.073 KLD : 0.007 KLD_attention : 2.696 
+iteration : 45200 loss : 11.215 NLL : -10.138 KLD : 0.002 KLD_attention : 1.075 
+iteration : 45400 loss : 14.159 NLL : -12.461 KLD : 0.003 KLD_attention : 1.696 
+iteration : 45600 loss : 12.894 NLL : -11.038 KLD : 0.045 KLD_attention : 1.811 
+iteration : 45800 loss : 5.570 NLL : -4.666 KLD : 0.002 KLD_attention : 0.903 
+iteration : 46000 loss : 13.928 NLL : -12.592 KLD : 0.044 KLD_attention : 1.292 
+iteration : 46200 loss : 20.826 NLL : -19.660 KLD : 0.004 KLD_attention : 1.163 
+iteration : 46400 loss : 20.380 NLL : -19.222 KLD : 0.008 KLD_attention : 1.151 
+iteration : 46600 loss : 9.772 NLL : -8.829 KLD : 0.002 KLD_attention : 0.941 
+iteration : 46800 loss : 7.502 NLL : -6.437 KLD : 0.001 KLD_attention : 1.065 
+iteration : 47000 loss : 13.043 NLL : -12.077 KLD : 0.003 KLD_attention : 0.963 
+iteration : 47200 loss : 15.201 NLL : -13.139 KLD : 0.024 KLD_attention : 2.039 
+iteration : 47400 loss : 13.919 NLL : -12.604 KLD : 0.004 KLD_attention : 1.310 
+iteration : 47600 loss : 13.825 NLL : -12.977 KLD : 0.001 KLD_attention : 0.847 
+iteration : 47800 loss : 15.488 NLL : -14.327 KLD : 0.004 KLD_attention : 1.157 
+iteration : 48000 loss : 7.193 NLL : -6.250 KLD : 0.004 KLD_attention : 0.938 
+iteration : 48200 loss : 18.660 NLL : -17.921 KLD : 0.002 KLD_attention : 0.737 
+iteration : 48400 loss : 19.418 NLL : -18.333 KLD : 0.002 KLD_attention : 1.083 
+iteration : 48600 loss : 13.147 NLL : -12.360 KLD : 0.001 KLD_attention : 0.786 
+iteration : 48800 loss : 19.996 NLL : -19.056 KLD : 0.002 KLD_attention : 0.937 
+iteration : 49000 loss : 7.148 NLL : -6.099 KLD : 0.001 KLD_attention : 1.048 
+iteration : 49200 loss : 14.262 NLL : -13.375 KLD : 0.003 KLD_attention : 0.884 
+iteration : 49400 loss : 9.890 NLL : -9.157 KLD : 0.001 KLD_attention : 0.731 
+iteration : 49600 loss : 4.746 NLL : -3.985 KLD : 0.001 KLD_attention : 0.760 
+iteration : 49800 loss : 7.688 NLL : -5.714 KLD : 0.002 KLD_attention : 1.972 
+iteration : 50000 loss : 9.758 NLL : -9.077 KLD : 0.002 KLD_attention : 0.678 
+---------- Training loss 14.589 updated ! and save the model! (step:50000) ----------
+---------- Training loss 12.972 updated ! and save the model! (step:50005) ----------
+---------- Training loss 12.684 updated ! and save the model! (step:50010) ----------
+---------- Training loss 9.235 updated ! and save the model! (step:50015) ----------
+---------- Training loss 8.101 updated ! and save the model! (step:50020) ----------
+iteration : 50200 loss : 22.071 NLL : -20.843 KLD : 0.008 KLD_attention : 1.220 
+iteration : 50400 loss : 17.002 NLL : -14.199 KLD : 0.009 KLD_attention : 2.794 
+---------- Training loss 7.428 updated ! and save the model! (step:50475) ----------
+iteration : 50600 loss : 22.318 NLL : -20.629 KLD : 0.038 KLD_attention : 1.651 
+iteration : 50800 loss : 9.011 NLL : -8.165 KLD : 0.001 KLD_attention : 0.845 
+iteration : 51000 loss : 15.844 NLL : -13.186 KLD : 0.009 KLD_attention : 2.648 
+iteration : 51200 loss : 16.805 NLL : -14.972 KLD : 0.013 KLD_attention : 1.820 
+iteration : 51400 loss : 11.257 NLL : -10.257 KLD : 0.002 KLD_attention : 0.998 
+iteration : 51600 loss : 8.802 NLL : -7.995 KLD : 0.001 KLD_attention : 0.807 
+iteration : 51800 loss : 9.415 NLL : -8.655 KLD : 0.001 KLD_attention : 0.760 
+iteration : 52000 loss : 19.110 NLL : -16.449 KLD : 0.007 KLD_attention : 2.654 
+iteration : 52200 loss : 7.413 NLL : -6.630 KLD : 0.002 KLD_attention : 0.781 
+iteration : 52400 loss : 19.448 NLL : -18.399 KLD : 0.001 KLD_attention : 1.048 
+iteration : 52600 loss : 17.131 NLL : -15.323 KLD : 0.015 KLD_attention : 1.793 
+---------- Training loss 7.390 updated ! and save the model! (step:52660) ----------
+iteration : 52800 loss : 5.993 NLL : -5.212 KLD : 0.001 KLD_attention : 0.780 
+iteration : 53000 loss : 7.913 NLL : -7.040 KLD : 0.002 KLD_attention : 0.871 
+---------- Training loss 6.679 updated ! and save the model! (step:53190) ----------
+iteration : 53200 loss : 9.969 NLL : -7.966 KLD : 0.003 KLD_attention : 2.001 
+iteration : 53400 loss : 14.313 NLL : -13.628 KLD : 0.002 KLD_attention : 0.682 
+iteration : 53600 loss : 9.705 NLL : -8.921 KLD : 0.001 KLD_attention : 0.782 
+iteration : 53800 loss : 12.085 NLL : -11.370 KLD : 0.001 KLD_attention : 0.714 
+iteration : 54000 loss : 6.831 NLL : -5.967 KLD : 0.001 KLD_attention : 0.862 
+iteration : 54200 loss : 6.091 NLL : -4.260 KLD : 0.002 KLD_attention : 1.829 
+iteration : 54400 loss : 14.211 NLL : -13.363 KLD : 0.001 KLD_attention : 0.846 
+iteration : 54600 loss : 13.482 NLL : -12.671 KLD : 0.001 KLD_attention : 0.810 
+iteration : 54800 loss : 10.497 NLL : -9.474 KLD : 0.003 KLD_attention : 1.020 
+iteration : 55000 loss : 18.998 NLL : -18.201 KLD : 0.002 KLD_attention : 0.794 
+iteration : 55200 loss : 16.599 NLL : -14.879 KLD : 0.006 KLD_attention : 1.714 
+iteration : 55400 loss : 17.384 NLL : -16.027 KLD : 0.003 KLD_attention : 1.353 
+iteration : 55600 loss : 14.949 NLL : -14.187 KLD : 0.003 KLD_attention : 0.760 
+iteration : 55800 loss : 23.558 NLL : -21.942 KLD : 0.011 KLD_attention : 1.605 
+iteration : 56000 loss : 22.898 NLL : -21.171 KLD : 0.006 KLD_attention : 1.721 
+iteration : 56200 loss : 12.466 NLL : -10.810 KLD : 0.014 KLD_attention : 1.643 
+iteration : 56400 loss : 9.259 NLL : -8.482 KLD : 0.001 KLD_attention : 0.775 
+iteration : 56600 loss : 7.485 NLL : -5.017 KLD : 0.076 KLD_attention : 2.393 
+iteration : 56800 loss : 10.813 NLL : -9.017 KLD : 0.014 KLD_attention : 1.783 
+iteration : 57000 loss : 16.983 NLL : -16.181 KLD : 0.006 KLD_attention : 0.795 
+iteration : 57200 loss : 10.228 NLL : -8.832 KLD : 0.002 KLD_attention : 1.394 
+iteration : 57400 loss : 16.016 NLL : -14.943 KLD : 0.003 KLD_attention : 1.070 
+iteration : 57600 loss : 14.515 NLL : -13.665 KLD : 0.005 KLD_attention : 0.845 
+iteration : 57800 loss : 5.622 NLL : -4.504 KLD : 0.002 KLD_attention : 1.116 
+iteration : 58000 loss : 17.000 NLL : -14.403 KLD : 0.051 KLD_attention : 2.547 
+iteration : 58200 loss : 14.997 NLL : -13.717 KLD : 0.016 KLD_attention : 1.264 
+iteration : 58400 loss : 23.168 NLL : -21.477 KLD : 0.016 KLD_attention : 1.675 
+iteration : 58600 loss : 8.309 NLL : -6.851 KLD : 0.003 KLD_attention : 1.456 
+iteration : 58800 loss : 17.140 NLL : -15.629 KLD : 0.015 KLD_attention : 1.495 
+iteration : 59000 loss : 8.909 NLL : -7.308 KLD : 0.012 KLD_attention : 1.588 
+iteration : 59200 loss : 9.735 NLL : -9.023 KLD : 0.001 KLD_attention : 0.711 
+iteration : 59400 loss : 10.487 NLL : -9.288 KLD : 0.009 KLD_attention : 1.190 
+iteration : 59600 loss : 22.487 NLL : -20.695 KLD : 0.005 KLD_attention : 1.787 
+iteration : 59800 loss : 10.725 NLL : -9.892 KLD : 0.001 KLD_attention : 0.831 
+iteration : 60000 loss : 14.560 NLL : -12.108 KLD : 0.013 KLD_attention : 2.440 
+---------- Training loss 11.035 updated ! and save the model! (step:60000) ----------
+---------- Training loss 9.128 updated ! and save the model! (step:60005) ----------
+---------- Training loss 8.269 updated ! and save the model! (step:60050) ----------
+---------- Training loss 7.933 updated ! and save the model! (step:60185) ----------
+iteration : 60200 loss : 15.038 NLL : -14.012 KLD : 0.007 KLD_attention : 1.019 
+---------- Training loss 6.080 updated ! and save the model! (step:60270) ----------
+iteration : 60400 loss : 7.986 NLL : -6.403 KLD : 0.003 KLD_attention : 1.580 
+iteration : 60600 loss : 13.083 NLL : -12.388 KLD : 0.002 KLD_attention : 0.693 
+iteration : 60800 loss : 9.266 NLL : -8.520 KLD : 0.001 KLD_attention : 0.745 
+iteration : 61000 loss : 19.774 NLL : -18.689 KLD : 0.017 KLD_attention : 1.067 
+iteration : 61200 loss : 16.855 NLL : -15.983 KLD : 0.006 KLD_attention : 0.867 
+iteration : 61400 loss : 11.404 NLL : -9.171 KLD : 0.007 KLD_attention : 2.226 
+iteration : 61600 loss : 16.373 NLL : -15.163 KLD : 0.006 KLD_attention : 1.204 
+iteration : 61800 loss : 9.775 NLL : -8.994 KLD : 0.004 KLD_attention : 0.777 
+iteration : 62000 loss : 11.627 NLL : -9.966 KLD : 0.007 KLD_attention : 1.653 
+iteration : 62200 loss : 8.329 NLL : -7.523 KLD : 0.002 KLD_attention : 0.804 
+iteration : 62400 loss : 10.416 NLL : -8.661 KLD : 0.036 KLD_attention : 1.718 
+iteration : 62600 loss : 6.401 NLL : -5.624 KLD : 0.002 KLD_attention : 0.776 
+iteration : 62800 loss : 12.734 NLL : -10.935 KLD : 0.022 KLD_attention : 1.778 
+iteration : 63000 loss : 7.980 NLL : -6.544 KLD : 0.021 KLD_attention : 1.415 
+iteration : 63200 loss : 10.030 NLL : -9.308 KLD : 0.002 KLD_attention : 0.721 
+iteration : 63400 loss : 15.093 NLL : -13.556 KLD : 0.007 KLD_attention : 1.530 
+iteration : 63600 loss : 13.102 NLL : -11.433 KLD : 0.007 KLD_attention : 1.663 
+iteration : 63800 loss : 10.272 NLL : -9.446 KLD : 0.001 KLD_attention : 0.825 
+iteration : 64000 loss : 15.929 NLL : -15.157 KLD : 0.004 KLD_attention : 0.768 
+iteration : 64200 loss : 11.033 NLL : -10.310 KLD : 0.002 KLD_attention : 0.721 
+iteration : 64400 loss : 6.976 NLL : -6.136 KLD : 0.001 KLD_attention : 0.839 
+iteration : 64600 loss : 6.491 NLL : -4.910 KLD : 0.002 KLD_attention : 1.579 
+iteration : 64800 loss : 8.358 NLL : -7.611 KLD : 0.005 KLD_attention : 0.742 
+iteration : 65000 loss : 19.514 NLL : -18.293 KLD : 0.007 KLD_attention : 1.214 
+iteration : 65200 loss : 9.980 NLL : -9.279 KLD : 0.002 KLD_attention : 0.699 
+iteration : 65400 loss : 9.071 NLL : -8.303 KLD : 0.001 KLD_attention : 0.766 
+iteration : 65600 loss : 8.368 NLL : -7.558 KLD : 0.002 KLD_attention : 0.808 
+iteration : 65800 loss : 9.577 NLL : -8.929 KLD : 0.006 KLD_attention : 0.642 
+iteration : 66000 loss : 16.779 NLL : -15.748 KLD : 0.010 KLD_attention : 1.021 
+iteration : 66200 loss : 9.553 NLL : -8.801 KLD : 0.002 KLD_attention : 0.749 
+iteration : 66400 loss : 13.339 NLL : -12.055 KLD : 0.008 KLD_attention : 1.277 
+iteration : 66600 loss : 11.446 NLL : -10.629 KLD : 0.006 KLD_attention : 0.811 
+iteration : 66800 loss : 15.165 NLL : -14.275 KLD : 0.007 KLD_attention : 0.883 
+iteration : 67000 loss : 5.973 NLL : -5.104 KLD : 0.002 KLD_attention : 0.867 
+iteration : 67200 loss : 15.384 NLL : -14.578 KLD : 0.009 KLD_attention : 0.796 
+iteration : 67400 loss : 6.346 NLL : -5.516 KLD : 0.002 KLD_attention : 0.828 
+iteration : 67600 loss : 9.945 NLL : -9.046 KLD : 0.001 KLD_attention : 0.898 
+iteration : 67800 loss : 6.740 NLL : -5.068 KLD : 0.004 KLD_attention : 1.668 
+iteration : 68000 loss : 12.235 NLL : -10.999 KLD : 0.014 KLD_attention : 1.222 
+iteration : 68200 loss : 8.655 NLL : -7.740 KLD : 0.002 KLD_attention : 0.913 
+iteration : 68400 loss : 12.706 NLL : -10.789 KLD : 0.025 KLD_attention : 1.892 
+iteration : 68600 loss : 19.680 NLL : -18.043 KLD : 0.007 KLD_attention : 1.630 
+iteration : 68800 loss : 6.497 NLL : -5.499 KLD : 0.006 KLD_attention : 0.993 
+iteration : 69000 loss : 13.749 NLL : -12.633 KLD : 0.007 KLD_attention : 1.109 
+iteration : 69200 loss : 6.722 NLL : -5.025 KLD : 0.007 KLD_attention : 1.689 
+iteration : 69400 loss : 21.411 NLL : -19.117 KLD : 0.054 KLD_attention : 2.240 
+iteration : 69600 loss : 13.361 NLL : -12.574 KLD : 0.006 KLD_attention : 0.780 
+iteration : 69800 loss : 23.984 NLL : -22.097 KLD : 0.012 KLD_attention : 1.875 
+iteration : 70000 loss : 9.228 NLL : -7.619 KLD : 0.008 KLD_attention : 1.602 
+---------- Training loss 12.280 updated ! and save the model! (step:70000) ----------
+---------- Training loss 9.953 updated ! and save the model! (step:70005) ----------
+---------- Training loss 9.325 updated ! and save the model! (step:70055) ----------
+---------- Training loss 8.957 updated ! and save the model! (step:70150) ----------
+---------- Training loss 8.710 updated ! and save the model! (step:70165) ----------
+---------- Training loss 7.978 updated ! and save the model! (step:70195) ----------
+iteration : 70200 loss : 11.322 NLL : -10.610 KLD : 0.001 KLD_attention : 0.711 
+---------- Training loss 7.899 updated ! and save the model! (step:70295) ----------
+---------- Training loss 5.267 updated ! and save the model! (step:70305) ----------
+iteration : 70400 loss : 12.990 NLL : -12.264 KLD : 0.003 KLD_attention : 0.723 
+iteration : 70600 loss : 7.841 NLL : -6.981 KLD : 0.002 KLD_attention : 0.858 
+iteration : 70800 loss : 6.308 NLL : -5.626 KLD : 0.002 KLD_attention : 0.680 
+iteration : 71000 loss : 9.610 NLL : -8.720 KLD : 0.003 KLD_attention : 0.887 
+iteration : 71200 loss : 9.786 NLL : -8.611 KLD : 0.005 KLD_attention : 1.171 
+iteration : 71400 loss : 11.950 NLL : -10.117 KLD : 0.008 KLD_attention : 1.826 
+iteration : 71600 loss : 20.604 NLL : -19.855 KLD : 0.004 KLD_attention : 0.745 
+iteration : 71800 loss : 13.813 NLL : -13.020 KLD : 0.009 KLD_attention : 0.784 
+iteration : 72000 loss : 15.679 NLL : -14.871 KLD : 0.003 KLD_attention : 0.805 
+iteration : 72200 loss : 10.161 NLL : -7.374 KLD : 0.014 KLD_attention : 2.773 
+iteration : 72400 loss : 7.644 NLL : -6.132 KLD : 0.013 KLD_attention : 1.499 
+iteration : 72600 loss : 7.531 NLL : -6.653 KLD : 0.003 KLD_attention : 0.876 
+iteration : 72800 loss : 12.381 NLL : -11.646 KLD : 0.002 KLD_attention : 0.734 
+iteration : 73000 loss : 14.997 NLL : -13.065 KLD : 0.029 KLD_attention : 1.904 
+iteration : 73200 loss : 10.274 NLL : -9.474 KLD : 0.001 KLD_attention : 0.798 
+iteration : 73400 loss : 9.259 NLL : -8.355 KLD : 0.006 KLD_attention : 0.899 
+iteration : 73600 loss : 8.636 NLL : -7.824 KLD : 0.006 KLD_attention : 0.805 
+iteration : 73800 loss : 9.144 NLL : -8.326 KLD : 0.004 KLD_attention : 0.814 
+iteration : 74000 loss : 7.383 NLL : -6.613 KLD : 0.002 KLD_attention : 0.769 
+iteration : 74200 loss : 21.094 NLL : -19.972 KLD : 0.012 KLD_attention : 1.110 
+iteration : 74400 loss : 9.657 NLL : -8.547 KLD : 0.005 KLD_attention : 1.105 
+iteration : 74600 loss : 10.368 NLL : -9.447 KLD : 0.004 KLD_attention : 0.917 
+iteration : 74800 loss : 8.229 NLL : -7.470 KLD : 0.002 KLD_attention : 0.757 
+iteration : 75000 loss : 20.217 NLL : -18.591 KLD : 0.013 KLD_attention : 1.613 
+iteration : 75200 loss : 13.287 NLL : -12.306 KLD : 0.004 KLD_attention : 0.977 
+iteration : 75400 loss : 20.636 NLL : -19.707 KLD : 0.010 KLD_attention : 0.920 
+iteration : 75600 loss : 13.161 NLL : -12.294 KLD : 0.003 KLD_attention : 0.863 
+iteration : 75800 loss : 21.709 NLL : -19.933 KLD : 0.007 KLD_attention : 1.769 
+iteration : 76000 loss : 8.281 NLL : -5.503 KLD : 0.045 KLD_attention : 2.733 
+iteration : 76200 loss : 7.270 NLL : -6.426 KLD : 0.001 KLD_attention : 0.843 
+iteration : 76400 loss : 19.078 NLL : -17.752 KLD : 0.012 KLD_attention : 1.314 
+iteration : 76600 loss : 12.950 NLL : -11.922 KLD : 0.005 KLD_attention : 1.023 
+iteration : 76800 loss : 26.663 NLL : -24.273 KLD : 0.007 KLD_attention : 2.382 
+iteration : 77000 loss : 14.973 NLL : -13.494 KLD : 0.010 KLD_attention : 1.470 
+iteration : 77200 loss : 11.998 NLL : -11.271 KLD : 0.005 KLD_attention : 0.722 
+iteration : 77400 loss : 16.991 NLL : -16.093 KLD : 0.007 KLD_attention : 0.891 
+iteration : 77600 loss : 13.180 NLL : -12.461 KLD : 0.010 KLD_attention : 0.709 
+iteration : 77800 loss : 7.299 NLL : -4.541 KLD : 0.009 KLD_attention : 2.748 
+iteration : 78000 loss : 13.990 NLL : -13.198 KLD : 0.005 KLD_attention : 0.786 
+iteration : 78200 loss : 18.581 NLL : -17.258 KLD : 0.009 KLD_attention : 1.314 
+iteration : 78400 loss : 5.871 NLL : -5.079 KLD : 0.002 KLD_attention : 0.789 
+iteration : 78600 loss : 10.877 NLL : -9.757 KLD : 0.011 KLD_attention : 1.110 
+iteration : 78800 loss : 14.782 NLL : -13.932 KLD : 0.006 KLD_attention : 0.845 
+iteration : 79000 loss : 6.343 NLL : -5.552 KLD : 0.003 KLD_attention : 0.789 
+iteration : 79200 loss : 7.104 NLL : -6.385 KLD : 0.002 KLD_attention : 0.717 
+iteration : 79400 loss : 5.283 NLL : -4.530 KLD : 0.002 KLD_attention : 0.751 
+iteration : 79600 loss : 6.733 NLL : -4.707 KLD : 0.007 KLD_attention : 2.018 
+iteration : 79800 loss : 8.729 NLL : -5.845 KLD : 0.035 KLD_attention : 2.850 
+iteration : 80000 loss : 13.185 NLL : -12.268 KLD : 0.016 KLD_attention : 0.902 
+---------- Training loss 7.927 updated ! and save the model! (step:80000) ----------
+iteration : 80200 loss : 9.389 NLL : -6.743 KLD : 0.051 KLD_attention : 2.594 
+iteration : 80400 loss : 7.238 NLL : -6.419 KLD : 0.006 KLD_attention : 0.814 
+iteration : 80600 loss : 10.075 NLL : -8.663 KLD : 0.011 KLD_attention : 1.401 
+---------- Training loss 6.639 updated ! and save the model! (step:80645) ----------
+iteration : 80800 loss : 8.987 NLL : -8.175 KLD : 0.004 KLD_attention : 0.809 
+iteration : 81000 loss : 25.722 NLL : -23.771 KLD : 0.008 KLD_attention : 1.943 
+iteration : 81200 loss : 10.812 NLL : -9.381 KLD : 0.007 KLD_attention : 1.424 
+iteration : 81400 loss : 5.069 NLL : -4.246 KLD : 0.001 KLD_attention : 0.822 
+iteration : 81600 loss : 10.039 NLL : -9.000 KLD : 0.004 KLD_attention : 1.035 
+iteration : 81800 loss : 8.148 NLL : -7.341 KLD : 0.003 KLD_attention : 0.804 
+iteration : 82000 loss : 4.494 NLL : -3.602 KLD : 0.003 KLD_attention : 0.889 
+iteration : 82200 loss : 12.039 NLL : -11.264 KLD : 0.003 KLD_attention : 0.772 
+iteration : 82400 loss : 18.807 NLL : -17.951 KLD : 0.010 KLD_attention : 0.845 
+iteration : 82600 loss : 6.541 NLL : -5.797 KLD : 0.004 KLD_attention : 0.740 
+iteration : 82800 loss : 16.372 NLL : -14.888 KLD : 0.003 KLD_attention : 1.481 
+iteration : 83000 loss : 14.426 NLL : -13.693 KLD : 0.003 KLD_attention : 0.731 
+iteration : 83200 loss : 11.856 NLL : -9.766 KLD : 0.018 KLD_attention : 2.072 
+iteration : 83400 loss : 17.565 NLL : -16.775 KLD : 0.009 KLD_attention : 0.781 
+iteration : 83600 loss : 22.274 NLL : -21.247 KLD : 0.013 KLD_attention : 1.014 
+iteration : 83800 loss : 11.546 NLL : -10.615 KLD : 0.002 KLD_attention : 0.928 
+iteration : 84000 loss : 12.027 NLL : -9.371 KLD : 0.016 KLD_attention : 2.640 
+iteration : 84200 loss : 14.212 NLL : -13.444 KLD : 0.004 KLD_attention : 0.763 
+iteration : 84400 loss : 20.087 NLL : -18.916 KLD : 0.011 KLD_attention : 1.160 
+iteration : 84600 loss : 14.442 NLL : -13.515 KLD : 0.017 KLD_attention : 0.911 
+iteration : 84800 loss : 8.548 NLL : -5.877 KLD : 0.017 KLD_attention : 2.653 
+iteration : 85000 loss : 11.335 NLL : -10.118 KLD : 0.015 KLD_attention : 1.202 
+iteration : 85200 loss : 9.520 NLL : -8.463 KLD : 0.013 KLD_attention : 1.044 
+iteration : 85400 loss : 6.593 NLL : -5.641 KLD : 0.002 KLD_attention : 0.951 
+iteration : 85600 loss : 9.194 NLL : -8.374 KLD : 0.006 KLD_attention : 0.814 
+iteration : 85800 loss : 18.123 NLL : -16.837 KLD : 0.022 KLD_attention : 1.264 
+iteration : 86000 loss : 22.343 NLL : -20.984 KLD : 0.023 KLD_attention : 1.336 
+iteration : 86200 loss : 25.581 NLL : -23.356 KLD : 0.018 KLD_attention : 2.207 
+iteration : 86400 loss : 24.574 NLL : -22.076 KLD : 0.032 KLD_attention : 2.466 
+iteration : 86600 loss : 8.286 NLL : -7.467 KLD : 0.004 KLD_attention : 0.814 
+iteration : 86800 loss : 10.708 NLL : -9.800 KLD : 0.014 KLD_attention : 0.894 
+iteration : 87000 loss : 16.851 NLL : -15.876 KLD : 0.003 KLD_attention : 0.973 
+iteration : 87200 loss : 24.806 NLL : -22.409 KLD : 0.016 KLD_attention : 2.381 
+iteration : 87400 loss : 18.881 NLL : -17.289 KLD : 0.008 KLD_attention : 1.584 
+iteration : 87600 loss : 17.659 NLL : -16.735 KLD : 0.006 KLD_attention : 0.918 
+---------- Training loss 6.569 updated ! and save the model! (step:87715) ----------
+iteration : 87800 loss : 12.457 NLL : -11.479 KLD : 0.009 KLD_attention : 0.968 
+iteration : 88000 loss : 25.005 NLL : -22.743 KLD : 0.024 KLD_attention : 2.238 
+---------- Training loss 6.356 updated ! and save the model! (step:88175) ----------
+iteration : 88200 loss : 9.098 NLL : -7.006 KLD : 0.008 KLD_attention : 2.084 
+iteration : 88400 loss : 22.077 NLL : -19.591 KLD : 0.034 KLD_attention : 2.453 
+iteration : 88600 loss : 7.394 NLL : -6.640 KLD : 0.002 KLD_attention : 0.752 
+iteration : 88800 loss : 15.308 NLL : -14.112 KLD : 0.003 KLD_attention : 1.193 
+iteration : 89000 loss : 22.576 NLL : -21.221 KLD : 0.029 KLD_attention : 1.326 
+iteration : 89200 loss : 23.078 NLL : -20.800 KLD : 0.012 KLD_attention : 2.266 
+iteration : 89400 loss : 11.121 NLL : -10.353 KLD : 0.005 KLD_attention : 0.763 
+---------- Training loss 5.603 updated ! and save the model! (step:89475) ----------
+iteration : 89600 loss : 12.791 NLL : -12.096 KLD : 0.006 KLD_attention : 0.689 
+iteration : 89800 loss : 7.565 NLL : -6.866 KLD : 0.001 KLD_attention : 0.698 
+iteration : 90000 loss : 11.731 NLL : -10.672 KLD : 0.011 KLD_attention : 1.048 
+---------- Training loss 9.524 updated ! and save the model! (step:90000) ----------
+---------- Training loss 8.648 updated ! and save the model! (step:90040) ----------
+---------- Training loss 8.538 updated ! and save the model! (step:90195) ----------
+iteration : 90200 loss : 7.719 NLL : -6.945 KLD : 0.004 KLD_attention : 0.771 
+---------- Training loss 8.379 updated ! and save the model! (step:90375) ----------
+---------- Training loss 7.112 updated ! and save the model! (step:90390) ----------
+iteration : 90400 loss : 8.897 NLL : -8.194 KLD : 0.003 KLD_attention : 0.700 
+iteration : 90600 loss : 18.763 NLL : -16.180 KLD : 0.027 KLD_attention : 2.555 
+iteration : 90800 loss : 17.099 NLL : -15.735 KLD : 0.008 KLD_attention : 1.357 
+iteration : 91000 loss : 13.138 NLL : -11.787 KLD : 0.053 KLD_attention : 1.297 
+iteration : 91200 loss : 5.104 NLL : -4.401 KLD : 0.003 KLD_attention : 0.700 
+---------- Training loss 6.525 updated ! and save the model! (step:91200) ----------
+iteration : 91400 loss : 9.069 NLL : -8.334 KLD : 0.002 KLD_attention : 0.733 
+iteration : 91600 loss : 9.698 NLL : -8.730 KLD : 0.007 KLD_attention : 0.961 
+iteration : 91800 loss : 15.698 NLL : -14.080 KLD : 0.011 KLD_attention : 1.607 
+iteration : 92000 loss : 21.597 NLL : -19.073 KLD : 0.009 KLD_attention : 2.514 
+iteration : 92200 loss : 7.734 NLL : -6.856 KLD : 0.002 KLD_attention : 0.876 
+iteration : 92400 loss : 6.154 NLL : -5.185 KLD : 0.007 KLD_attention : 0.962 
+iteration : 92600 loss : 8.288 NLL : -5.515 KLD : 0.043 KLD_attention : 2.730 
+iteration : 92800 loss : 5.356 NLL : -4.562 KLD : 0.001 KLD_attention : 0.793 
+iteration : 93000 loss : 15.276 NLL : -14.269 KLD : 0.014 KLD_attention : 0.993 
+iteration : 93200 loss : 9.474 NLL : -8.678 KLD : 0.007 KLD_attention : 0.790 
+iteration : 93400 loss : 9.825 NLL : -8.943 KLD : 0.005 KLD_attention : 0.876 
+iteration : 93600 loss : 11.698 NLL : -10.202 KLD : 0.053 KLD_attention : 1.443 
+iteration : 93800 loss : 18.305 NLL : -17.367 KLD : 0.009 KLD_attention : 0.930 
+iteration : 94000 loss : 5.397 NLL : -4.640 KLD : 0.002 KLD_attention : 0.756 
+iteration : 94200 loss : 11.062 NLL : -9.774 KLD : 0.012 KLD_attention : 1.275 
+iteration : 94400 loss : 9.894 NLL : -8.605 KLD : 0.007 KLD_attention : 1.281 
+iteration : 94600 loss : 5.862 NLL : -4.557 KLD : 0.003 KLD_attention : 1.303 
+iteration : 94800 loss : 16.863 NLL : -15.973 KLD : 0.004 KLD_attention : 0.886 
+iteration : 95000 loss : 7.019 NLL : -5.387 KLD : 0.007 KLD_attention : 1.625 
+iteration : 95200 loss : 20.612 NLL : -19.099 KLD : 0.040 KLD_attention : 1.473 
+---------- Training loss 6.234 updated ! and save the model! (step:95360) ----------
+iteration : 95400 loss : 12.633 NLL : -11.641 KLD : 0.020 KLD_attention : 0.972 
+iteration : 95600 loss : 16.770 NLL : -15.871 KLD : 0.020 KLD_attention : 0.879 
+iteration : 95800 loss : 22.246 NLL : -20.816 KLD : 0.013 KLD_attention : 1.417 
+iteration : 96000 loss : 15.145 NLL : -12.691 KLD : 0.024 KLD_attention : 2.430 
+iteration : 96200 loss : 21.840 NLL : -20.376 KLD : 0.021 KLD_attention : 1.443 
+iteration : 96400 loss : 18.734 NLL : -17.410 KLD : 0.023 KLD_attention : 1.302 
+iteration : 96600 loss : 12.334 NLL : -10.568 KLD : 0.023 KLD_attention : 1.743 
+iteration : 96800 loss : 13.353 NLL : -12.644 KLD : 0.009 KLD_attention : 0.701 
+iteration : 97000 loss : 21.942 NLL : -19.597 KLD : 0.025 KLD_attention : 2.320 
+---------- Training loss 5.645 updated ! and save the model! (step:97020) ----------
+iteration : 97200 loss : 9.071 NLL : -8.431 KLD : 0.001 KLD_attention : 0.639 
+iteration : 97400 loss : 10.272 NLL : -9.376 KLD : 0.007 KLD_attention : 0.889 
+iteration : 97600 loss : 5.387 NLL : -4.470 KLD : 0.018 KLD_attention : 0.899 
+iteration : 97800 loss : 14.609 NLL : -13.850 KLD : 0.013 KLD_attention : 0.745 
+iteration : 98000 loss : 17.394 NLL : -14.737 KLD : 0.069 KLD_attention : 2.588 
+iteration : 98200 loss : 10.155 NLL : -9.449 KLD : 0.005 KLD_attention : 0.700 
+iteration : 98400 loss : 11.664 NLL : -10.891 KLD : 0.002 KLD_attention : 0.772 
+---------- Training loss 5.550 updated ! and save the model! (step:98445) ----------
+iteration : 98600 loss : 20.861 NLL : -19.163 KLD : 0.042 KLD_attention : 1.657 
+iteration : 98800 loss : 26.177 NLL : -23.920 KLD : 0.011 KLD_attention : 2.246 
+iteration : 99000 loss : 12.256 NLL : -11.583 KLD : 0.007 KLD_attention : 0.666 
+iteration : 99200 loss : 19.024 NLL : -16.865 KLD : 0.010 KLD_attention : 2.148 
+iteration : 99400 loss : 13.774 NLL : -12.891 KLD : 0.014 KLD_attention : 0.870 
+iteration : 99600 loss : 12.831 NLL : -11.792 KLD : 0.020 KLD_attention : 1.018 
+iteration : 99800 loss : 5.955 NLL : -4.223 KLD : 0.017 KLD_attention : 1.715 
+iteration : 100000 loss : 12.879 NLL : -11.973 KLD : 0.016 KLD_attention : 0.890 
+---------- Training loss 8.981 updated ! and save the model! (step:100000) ----------
+---------- Training loss 8.622 updated ! and save the model! (step:100060) ----------
+---------- Training loss 7.732 updated ! and save the model! (step:100085) ----------
+iteration : 100200 loss : 13.186 NLL : -12.531 KLD : 0.002 KLD_attention : 0.652 
+---------- Training loss 7.499 updated ! and save the model! (step:100220) ----------
+iteration : 100400 loss : 6.848 NLL : -5.732 KLD : 0.005 KLD_attention : 1.112 
+iteration : 100600 loss : 14.883 NLL : -13.721 KLD : 0.006 KLD_attention : 1.156 
+---------- Training loss 6.833 updated ! and save the model! (step:100720) ----------
+---------- Training loss 6.499 updated ! and save the model! (step:100760) ----------
+iteration : 100800 loss : 9.889 NLL : -9.164 KLD : 0.003 KLD_attention : 0.721 
+iteration : 101000 loss : 6.561 NLL : -4.944 KLD : 0.018 KLD_attention : 1.598 
+---------- Training loss 6.309 updated ! and save the model! (step:101005) ----------
+iteration : 101200 loss : 6.247 NLL : -4.871 KLD : 0.003 KLD_attention : 1.372 
+iteration : 101400 loss : 14.624 NLL : -13.191 KLD : 0.011 KLD_attention : 1.422 
+iteration : 101600 loss : 7.758 NLL : -6.007 KLD : 0.008 KLD_attention : 1.743 
+iteration : 101800 loss : 7.107 NLL : -6.253 KLD : 0.002 KLD_attention : 0.853 
+iteration : 102000 loss : 7.769 NLL : -5.865 KLD : 0.006 KLD_attention : 1.898 
+iteration : 102200 loss : 10.989 NLL : -10.092 KLD : 0.011 KLD_attention : 0.886 
+iteration : 102400 loss : 9.059 NLL : -8.249 KLD : 0.012 KLD_attention : 0.798 
+iteration : 102600 loss : 7.609 NLL : -6.822 KLD : 0.004 KLD_attention : 0.783 
+---------- Training loss 6.097 updated ! and save the model! (step:102680) ----------
+iteration : 102800 loss : 18.419 NLL : -17.571 KLD : 0.005 KLD_attention : 0.843 
+iteration : 103000 loss : 8.389 NLL : -7.578 KLD : 0.002 KLD_attention : 0.808 
+iteration : 103200 loss : 14.297 NLL : -13.407 KLD : 0.006 KLD_attention : 0.885 
+iteration : 103400 loss : 9.183 NLL : -8.012 KLD : 0.014 KLD_attention : 1.156 
+iteration : 103600 loss : 6.451 NLL : -5.094 KLD : 0.004 KLD_attention : 1.353 
+iteration : 103800 loss : 12.125 NLL : -11.089 KLD : 0.005 KLD_attention : 1.031 
+iteration : 104000 loss : 13.007 NLL : -12.267 KLD : 0.010 KLD_attention : 0.730 
+iteration : 104200 loss : 9.678 NLL : -8.959 KLD : 0.008 KLD_attention : 0.711 
+iteration : 104400 loss : 17.745 NLL : -16.816 KLD : 0.011 KLD_attention : 0.918 
+iteration : 104600 loss : 9.346 NLL : -8.577 KLD : 0.007 KLD_attention : 0.762 
+iteration : 104800 loss : 25.135 NLL : -23.418 KLD : 0.035 KLD_attention : 1.682 
+iteration : 105000 loss : 7.233 NLL : -6.403 KLD : 0.006 KLD_attention : 0.824 
+iteration : 105200 loss : 7.644 NLL : -6.661 KLD : 0.006 KLD_attention : 0.977 
+iteration : 105400 loss : 15.378 NLL : -14.499 KLD : 0.018 KLD_attention : 0.861 
+iteration : 105600 loss : 6.691 NLL : -5.826 KLD : 0.005 KLD_attention : 0.860 
+iteration : 105800 loss : 8.163 NLL : -7.410 KLD : 0.010 KLD_attention : 0.742 
+iteration : 106000 loss : 15.532 NLL : -14.764 KLD : 0.011 KLD_attention : 0.757 
+iteration : 106200 loss : 8.400 NLL : -7.677 KLD : 0.008 KLD_attention : 0.716 
+iteration : 106400 loss : 5.078 NLL : -4.328 KLD : 0.003 KLD_attention : 0.747 
+---------- Training loss 6.044 updated ! and save the model! (step:106535) ----------
+iteration : 106600 loss : 24.848 NLL : -22.155 KLD : 0.092 KLD_attention : 2.601 
+iteration : 106800 loss : 11.596 NLL : -10.178 KLD : 0.021 KLD_attention : 1.396 
+iteration : 107000 loss : 14.016 NLL : -12.966 KLD : 0.004 KLD_attention : 1.046 
+iteration : 107200 loss : 23.399 NLL : -21.172 KLD : 0.023 KLD_attention : 2.204 
+iteration : 107400 loss : 11.687 NLL : -11.059 KLD : 0.006 KLD_attention : 0.623 
+iteration : 107600 loss : 19.162 NLL : -17.606 KLD : 0.014 KLD_attention : 1.542 
+iteration : 107800 loss : 10.945 NLL : -9.545 KLD : 0.011 KLD_attention : 1.390 
+iteration : 108000 loss : 18.072 NLL : -17.057 KLD : 0.006 KLD_attention : 1.009 
+iteration : 108200 loss : 3.109 NLL : -2.371 KLD : 0.001 KLD_attention : 0.736 
+iteration : 108400 loss : 5.406 NLL : -4.274 KLD : 0.005 KLD_attention : 1.127 
+iteration : 108600 loss : 5.186 NLL : -4.353 KLD : 0.008 KLD_attention : 0.825 
+iteration : 108800 loss : 19.549 NLL : -17.799 KLD : 0.039 KLD_attention : 1.710 
+iteration : 109000 loss : 8.313 NLL : -6.398 KLD : 0.034 KLD_attention : 1.881 
+iteration : 109200 loss : 15.487 NLL : -14.759 KLD : 0.014 KLD_attention : 0.713 
+iteration : 109400 loss : 20.801 NLL : -18.252 KLD : 0.052 KLD_attention : 2.496 
+iteration : 109600 loss : 16.748 NLL : -14.895 KLD : 0.177 KLD_attention : 1.675 
+iteration : 109800 loss : 7.947 NLL : -7.134 KLD : 0.006 KLD_attention : 0.807 
+iteration : 110000 loss : 21.160 NLL : -19.988 KLD : 0.005 KLD_attention : 1.167 
+---------- Training loss 15.311 updated ! and save the model! (step:110000) ----------
+---------- Training loss 15.133 updated ! and save the model! (step:110005) ----------
+---------- Training loss 14.308 updated ! and save the model! (step:110010) ----------
+---------- Training loss 13.249 updated ! and save the model! (step:110015) ----------
+---------- Training loss 11.961 updated ! and save the model! (step:110035) ----------
+---------- Training loss 10.962 updated ! and save the model! (step:110045) ----------
+---------- Training loss 8.995 updated ! and save the model! (step:110060) ----------
+---------- Training loss 8.021 updated ! and save the model! (step:110120) ----------
+---------- Training loss 7.863 updated ! and save the model! (step:110180) ----------
+iteration : 110200 loss : 14.160 NLL : -13.297 KLD : 0.016 KLD_attention : 0.846 
+---------- Training loss 7.476 updated ! and save the model! (step:110265) ----------
+---------- Training loss 7.152 updated ! and save the model! (step:110335) ----------
+iteration : 110400 loss : 18.166 NLL : -17.048 KLD : 0.054 KLD_attention : 1.065 
+iteration : 110600 loss : 8.231 NLL : -7.286 KLD : 0.004 KLD_attention : 0.942 
+iteration : 110800 loss : 8.126 NLL : -7.371 KLD : 0.003 KLD_attention : 0.752 
+iteration : 111000 loss : 13.420 NLL : -12.690 KLD : 0.006 KLD_attention : 0.724 
+iteration : 111200 loss : 8.454 NLL : -6.456 KLD : 0.021 KLD_attention : 1.976 
+---------- Training loss 6.369 updated ! and save the model! (step:111280) ----------
+iteration : 111400 loss : 13.665 NLL : -12.781 KLD : 0.003 KLD_attention : 0.881 
+iteration : 111600 loss : 15.493 NLL : -14.677 KLD : 0.017 KLD_attention : 0.799 
+iteration : 111800 loss : 12.152 NLL : -10.897 KLD : 0.016 KLD_attention : 1.238 
+iteration : 112000 loss : 5.430 NLL : -4.644 KLD : 0.005 KLD_attention : 0.781 
+iteration : 112200 loss : 8.162 NLL : -7.386 KLD : 0.016 KLD_attention : 0.760 
+---------- Training loss 6.231 updated ! and save the model! (step:112235) ----------
+iteration : 112400 loss : 26.868 NLL : -24.324 KLD : 0.048 KLD_attention : 2.496 
+iteration : 112600 loss : 11.142 NLL : -10.479 KLD : 0.004 KLD_attention : 0.659 
+iteration : 112800 loss : 9.394 NLL : -6.736 KLD : 0.015 KLD_attention : 2.643 
+iteration : 113000 loss : 11.718 NLL : -10.983 KLD : 0.006 KLD_attention : 0.729 
+iteration : 113200 loss : 7.739 NLL : -6.709 KLD : 0.004 KLD_attention : 1.027 
+---------- Training loss 6.112 updated ! and save the model! (step:113315) ----------
+iteration : 113400 loss : 17.401 NLL : -15.941 KLD : 0.026 KLD_attention : 1.434 
+iteration : 113600 loss : 11.105 NLL : -9.701 KLD : 0.009 KLD_attention : 1.395 
+iteration : 113800 loss : 8.033 NLL : -7.178 KLD : 0.009 KLD_attention : 0.846 
+---------- Training loss 6.041 updated ! and save the model! (step:113905) ----------
+iteration : 114000 loss : 21.299 NLL : -19.530 KLD : 0.012 KLD_attention : 1.758 
+iteration : 114200 loss : 18.648 NLL : -17.368 KLD : 0.010 KLD_attention : 1.270 
+iteration : 114400 loss : 6.559 NLL : -5.569 KLD : 0.013 KLD_attention : 0.977 
+iteration : 114600 loss : 23.928 NLL : -22.344 KLD : 0.035 KLD_attention : 1.549 
+iteration : 114800 loss : 6.934 NLL : -6.049 KLD : 0.002 KLD_attention : 0.883 
+iteration : 115000 loss : 9.474 NLL : -8.815 KLD : 0.001 KLD_attention : 0.658 
+iteration : 115200 loss : 4.375 NLL : -3.476 KLD : 0.004 KLD_attention : 0.896 
+iteration : 115400 loss : 8.645 NLL : -7.444 KLD : 0.013 KLD_attention : 1.188 
+iteration : 115600 loss : 8.296 NLL : -7.602 KLD : 0.001 KLD_attention : 0.694 
+iteration : 115800 loss : 12.513 NLL : -10.732 KLD : 0.017 KLD_attention : 1.764 
+iteration : 116000 loss : 23.358 NLL : -21.446 KLD : 0.031 KLD_attention : 1.881 
+iteration : 116200 loss : 12.746 NLL : -11.646 KLD : 0.017 KLD_attention : 1.082 
+iteration : 116400 loss : 6.456 NLL : -4.776 KLD : 0.012 KLD_attention : 1.667 
+---------- Training loss 5.935 updated ! and save the model! (step:116585) ----------
+iteration : 116600 loss : 5.518 NLL : -4.834 KLD : 0.002 KLD_attention : 0.682 
+iteration : 116800 loss : 14.344 NLL : -11.743 KLD : 0.021 KLD_attention : 2.580 
+---------- Training loss 5.712 updated ! and save the model! (step:116865) ----------
+iteration : 117000 loss : 13.658 NLL : -12.784 KLD : 0.009 KLD_attention : 0.864 
+iteration : 117200 loss : 7.595 NLL : -6.671 KLD : 0.015 KLD_attention : 0.909 
+iteration : 117400 loss : 15.172 NLL : -13.703 KLD : 0.020 KLD_attention : 1.449 
+iteration : 117600 loss : 10.398 NLL : -9.719 KLD : 0.004 KLD_attention : 0.675 
+iteration : 117800 loss : 9.542 NLL : -8.821 KLD : 0.011 KLD_attention : 0.710 
+iteration : 118000 loss : 6.091 NLL : -5.349 KLD : 0.002 KLD_attention : 0.740 
+iteration : 118200 loss : 5.878 NLL : -4.233 KLD : 0.014 KLD_attention : 1.631 
+iteration : 118400 loss : 15.227 NLL : -14.310 KLD : 0.009 KLD_attention : 0.908 
+iteration : 118600 loss : 16.201 NLL : -14.061 KLD : 0.073 KLD_attention : 2.067 
+iteration : 118800 loss : 16.874 NLL : -15.635 KLD : 0.036 KLD_attention : 1.204 
+iteration : 119000 loss : 8.445 NLL : -7.712 KLD : 0.006 KLD_attention : 0.728 
+iteration : 119200 loss : 15.227 NLL : -12.625 KLD : 0.127 KLD_attention : 2.475 
+iteration : 119400 loss : 12.036 NLL : -10.664 KLD : 0.010 KLD_attention : 1.362 
+iteration : 119600 loss : 17.384 NLL : -16.681 KLD : 0.009 KLD_attention : 0.695 
+iteration : 119800 loss : 19.430 NLL : -16.860 KLD : 0.079 KLD_attention : 2.492 
+---------- Training loss 5.581 updated ! and save the model! (step:119915) ----------
+iteration : 120000 loss : 6.877 NLL : -6.082 KLD : 0.001 KLD_attention : 0.793 
+---------- Training loss 7.738 updated ! and save the model! (step:120000) ----------
+---------- Training loss 7.407 updated ! and save the model! (step:120030) ----------
+---------- Training loss 6.110 updated ! and save the model! (step:120055) ----------
+iteration : 120200 loss : 5.476 NLL : -3.982 KLD : 0.005 KLD_attention : 1.490 
+iteration : 120400 loss : 9.639 NLL : -8.712 KLD : 0.005 KLD_attention : 0.922 
+---------- Training loss 5.301 updated ! and save the model! (step:120495) ----------
+iteration : 120600 loss : 7.854 NLL : -7.017 KLD : 0.009 KLD_attention : 0.828 
+iteration : 120800 loss : 21.022 NLL : -19.339 KLD : 0.065 KLD_attention : 1.617 
+iteration : 121000 loss : 7.232 NLL : -4.459 KLD : 0.029 KLD_attention : 2.743 
+iteration : 121200 loss : 7.121 NLL : -6.411 KLD : 0.001 KLD_attention : 0.709 
+iteration : 121400 loss : 9.608 NLL : -8.715 KLD : 0.036 KLD_attention : 0.857 
+iteration : 121600 loss : 19.742 NLL : -18.054 KLD : 0.042 KLD_attention : 1.645 
+iteration : 121800 loss : 16.373 NLL : -14.685 KLD : 0.046 KLD_attention : 1.641 
+iteration : 122000 loss : 19.109 NLL : -17.300 KLD : 0.037 KLD_attention : 1.771 
+iteration : 122200 loss : 4.972 NLL : -4.302 KLD : 0.002 KLD_attention : 0.669 
+iteration : 122400 loss : 8.424 NLL : -7.030 KLD : 0.037 KLD_attention : 1.358 
+iteration : 122600 loss : 7.813 NLL : -6.442 KLD : 0.018 KLD_attention : 1.352 
+iteration : 122800 loss : 13.146 NLL : -12.366 KLD : 0.020 KLD_attention : 0.760 
+iteration : 123000 loss : 6.670 NLL : -5.982 KLD : 0.003 KLD_attention : 0.685 
+iteration : 123200 loss : 12.552 NLL : -11.640 KLD : 0.008 KLD_attention : 0.904 
+iteration : 123400 loss : 6.147 NLL : -5.414 KLD : 0.003 KLD_attention : 0.730 
+iteration : 123600 loss : 12.993 NLL : -12.029 KLD : 0.009 KLD_attention : 0.955 
+iteration : 123800 loss : 15.015 NLL : -14.085 KLD : 0.018 KLD_attention : 0.913 
+iteration : 124000 loss : 6.574 NLL : -5.735 KLD : 0.007 KLD_attention : 0.833 
+iteration : 124200 loss : 11.827 NLL : -10.936 KLD : 0.013 KLD_attention : 0.878 
+iteration : 124400 loss : 10.017 NLL : -8.014 KLD : 0.017 KLD_attention : 1.985 
+iteration : 124600 loss : 6.833 NLL : -6.016 KLD : 0.003 KLD_attention : 0.814 
+iteration : 124800 loss : 11.516 NLL : -10.343 KLD : 0.018 KLD_attention : 1.155 
+iteration : 125000 loss : 5.790 NLL : -4.924 KLD : 0.006 KLD_attention : 0.860 
+iteration : 125200 loss : 23.691 NLL : -22.183 KLD : 0.029 KLD_attention : 1.480 
+iteration : 125400 loss : 20.359 NLL : -19.194 KLD : 0.027 KLD_attention : 1.139 
+iteration : 125600 loss : 9.459 NLL : -8.580 KLD : 0.005 KLD_attention : 0.874 
+iteration : 125800 loss : 6.698 NLL : -5.032 KLD : 0.023 KLD_attention : 1.642 
+iteration : 126000 loss : 6.141 NLL : -4.405 KLD : 0.028 KLD_attention : 1.708 
+iteration : 126200 loss : 5.115 NLL : -4.319 KLD : 0.005 KLD_attention : 0.791 
+iteration : 126400 loss : 6.586 NLL : -5.706 KLD : 0.007 KLD_attention : 0.873 
+iteration : 126600 loss : 11.761 NLL : -10.905 KLD : 0.003 KLD_attention : 0.853 
+iteration : 126800 loss : 8.982 NLL : -8.258 KLD : 0.005 KLD_attention : 0.719 
+iteration : 127000 loss : 12.680 NLL : -11.822 KLD : 0.003 KLD_attention : 0.854 
+iteration : 127200 loss : 21.166 NLL : -18.651 KLD : 0.106 KLD_attention : 2.410 
+iteration : 127400 loss : 13.213 NLL : -12.400 KLD : 0.007 KLD_attention : 0.807 
+iteration : 127600 loss : 17.691 NLL : -16.443 KLD : 0.027 KLD_attention : 1.221 
+iteration : 127800 loss : 5.606 NLL : -4.781 KLD : 0.001 KLD_attention : 0.824 
+iteration : 128000 loss : 6.919 NLL : -5.634 KLD : 0.009 KLD_attention : 1.275 
+iteration : 128200 loss : 6.828 NLL : -6.047 KLD : 0.003 KLD_attention : 0.778 
+iteration : 128400 loss : 15.165 NLL : -13.598 KLD : 0.018 KLD_attention : 1.548 
+iteration : 128600 loss : 7.231 NLL : -6.083 KLD : 0.004 KLD_attention : 1.144 
+iteration : 128800 loss : 7.700 NLL : -6.737 KLD : 0.010 KLD_attention : 0.953 
+iteration : 129000 loss : 12.138 NLL : -11.362 KLD : 0.005 KLD_attention : 0.771 
+iteration : 129200 loss : 12.954 NLL : -12.170 KLD : 0.018 KLD_attention : 0.766 
+iteration : 129400 loss : 5.162 NLL : -4.411 KLD : 0.003 KLD_attention : 0.747 
+iteration : 129600 loss : 4.798 NLL : -3.145 KLD : 0.009 KLD_attention : 1.644 
+iteration : 129800 loss : 13.722 NLL : -12.943 KLD : 0.023 KLD_attention : 0.756 
+iteration : 130000 loss : 6.364 NLL : -5.560 KLD : 0.040 KLD_attention : 0.764 
+---------- Training loss 11.350 updated ! and save the model! (step:130000) ----------
+---------- Training loss 8.991 updated ! and save the model! (step:130005) ----------
+---------- Training loss 7.909 updated ! and save the model! (step:130040) ----------
+---------- Training loss 6.433 updated ! and save the model! (step:130075) ----------
+iteration : 130200 loss : 11.142 NLL : -9.040 KLD : 0.041 KLD_attention : 2.060 
+iteration : 130400 loss : 12.034 NLL : -11.316 KLD : 0.011 KLD_attention : 0.706 
+iteration : 130600 loss : 24.060 NLL : -21.633 KLD : 0.122 KLD_attention : 2.306 
+iteration : 130800 loss : 15.657 NLL : -14.536 KLD : 0.044 KLD_attention : 1.077 
+---------- Training loss 6.424 updated ! and save the model! (step:130950) ----------
+iteration : 131000 loss : 18.821 NLL : -17.951 KLD : 0.012 KLD_attention : 0.858 
+---------- Training loss 6.092 updated ! and save the model! (step:131060) ----------
+iteration : 131200 loss : 6.078 NLL : -5.345 KLD : 0.007 KLD_attention : 0.726 
+iteration : 131400 loss : 13.025 NLL : -12.355 KLD : 0.009 KLD_attention : 0.662 
+iteration : 131600 loss : 21.510 NLL : -19.285 KLD : 0.019 KLD_attention : 2.206 
+iteration : 131800 loss : 5.645 NLL : -4.771 KLD : 0.004 KLD_attention : 0.869 
+iteration : 132000 loss : 13.746 NLL : -12.150 KLD : 0.015 KLD_attention : 1.581 
+iteration : 132200 loss : 6.724 NLL : -5.933 KLD : 0.004 KLD_attention : 0.787 
+---------- Training loss 5.622 updated ! and save the model! (step:132250) ----------
+iteration : 132400 loss : 8.704 NLL : -7.995 KLD : 0.003 KLD_attention : 0.707 
+iteration : 132600 loss : 11.992 NLL : -10.948 KLD : 0.011 KLD_attention : 1.033 
+iteration : 132800 loss : 8.921 NLL : -7.000 KLD : 0.018 KLD_attention : 1.903 
+iteration : 133000 loss : 7.389 NLL : -5.999 KLD : 0.021 KLD_attention : 1.370 
+iteration : 133200 loss : 10.009 NLL : -8.733 KLD : 0.008 KLD_attention : 1.268 
+iteration : 133400 loss : 4.023 NLL : -3.187 KLD : 0.003 KLD_attention : 0.832 
+iteration : 133600 loss : 7.579 NLL : -6.880 KLD : 0.005 KLD_attention : 0.694 
+iteration : 133800 loss : 7.262 NLL : -6.566 KLD : 0.006 KLD_attention : 0.689 
+iteration : 134000 loss : 7.860 NLL : -5.171 KLD : 0.046 KLD_attention : 2.642 
+iteration : 134200 loss : 10.893 NLL : -10.124 KLD : 0.016 KLD_attention : 0.753 
+iteration : 134400 loss : 21.183 NLL : -19.491 KLD : 0.013 KLD_attention : 1.679 
+iteration : 134600 loss : 5.934 NLL : -5.148 KLD : 0.003 KLD_attention : 0.783 
+iteration : 134800 loss : 14.284 NLL : -13.106 KLD : 0.011 KLD_attention : 1.168 
+iteration : 135000 loss : 8.183 NLL : -5.619 KLD : 0.273 KLD_attention : 2.290 
+iteration : 135200 loss : 13.901 NLL : -12.881 KLD : 0.006 KLD_attention : 1.014 
+iteration : 135400 loss : 18.106 NLL : -16.997 KLD : 0.017 KLD_attention : 1.093 
+iteration : 135600 loss : 4.794 NLL : -3.899 KLD : 0.003 KLD_attention : 0.891 
+iteration : 135800 loss : 10.816 NLL : -10.116 KLD : 0.004 KLD_attention : 0.696 
+iteration : 136000 loss : 9.398 NLL : -8.423 KLD : 0.010 KLD_attention : 0.965 
+iteration : 136200 loss : 12.240 NLL : -11.403 KLD : 0.015 KLD_attention : 0.822 
+iteration : 136400 loss : 11.465 NLL : -10.474 KLD : 0.019 KLD_attention : 0.973 
+iteration : 136600 loss : 11.879 NLL : -11.086 KLD : 0.009 KLD_attention : 0.784 
+iteration : 136800 loss : 13.630 NLL : -12.721 KLD : 0.008 KLD_attention : 0.901 
+iteration : 137000 loss : 12.419 NLL : -11.638 KLD : 0.011 KLD_attention : 0.770 
+---------- Training loss 4.782 updated ! and save the model! (step:137100) ----------
+iteration : 137200 loss : 11.190 NLL : -10.322 KLD : 0.020 KLD_attention : 0.848 
+iteration : 137400 loss : 16.890 NLL : -15.795 KLD : 0.025 KLD_attention : 1.070 
+iteration : 137600 loss : 13.597 NLL : -12.477 KLD : 0.016 KLD_attention : 1.105 
+iteration : 137800 loss : 14.504 NLL : -13.634 KLD : 0.029 KLD_attention : 0.842 
+iteration : 138000 loss : 3.954 NLL : -3.305 KLD : 0.006 KLD_attention : 0.643 
+iteration : 138200 loss : 11.637 NLL : -10.219 KLD : 0.014 KLD_attention : 1.404 
+iteration : 138400 loss : 20.576 NLL : -19.470 KLD : 0.028 KLD_attention : 1.078 
+iteration : 138600 loss : 15.706 NLL : -13.895 KLD : 0.061 KLD_attention : 1.750 
+iteration : 138800 loss : 10.170 NLL : -9.294 KLD : 0.014 KLD_attention : 0.863 
+iteration : 139000 loss : 14.766 NLL : -12.144 KLD : 0.052 KLD_attention : 2.570 
+iteration : 139200 loss : 5.515 NLL : -4.722 KLD : 0.005 KLD_attention : 0.787 
+iteration : 139400 loss : 8.300 NLL : -7.529 KLD : 0.008 KLD_attention : 0.763 
+iteration : 139600 loss : 22.540 NLL : -20.379 KLD : 0.034 KLD_attention : 2.126 
+iteration : 139800 loss : 9.436 NLL : -8.036 KLD : 0.010 KLD_attention : 1.390 
+iteration : 140000 loss : 18.845 NLL : -17.456 KLD : 0.020 KLD_attention : 1.369 
+---------- Training loss 13.952 updated ! and save the model! (step:140000) ----------
+---------- Training loss 7.896 updated ! and save the model! (step:140005) ----------
+---------- Training loss 6.129 updated ! and save the model! (step:140090) ----------
+iteration : 140200 loss : 17.144 NLL : -15.941 KLD : 0.012 KLD_attention : 1.191 
+iteration : 140400 loss : 5.480 NLL : -4.614 KLD : 0.006 KLD_attention : 0.860 
+iteration : 140600 loss : 5.726 NLL : -4.435 KLD : 0.036 KLD_attention : 1.255 
+iteration : 140800 loss : 11.214 NLL : -10.508 KLD : 0.013 KLD_attention : 0.693 
+iteration : 141000 loss : 19.579 NLL : -17.279 KLD : 0.073 KLD_attention : 2.226 
+iteration : 141200 loss : 4.608 NLL : -3.930 KLD : 0.003 KLD_attention : 0.675 
+---------- Training loss 5.717 updated ! and save the model! (step:141265) ----------
+iteration : 141400 loss : 24.293 NLL : -21.883 KLD : 0.203 KLD_attention : 2.207 
+iteration : 141600 loss : 5.490 NLL : -4.053 KLD : 0.016 KLD_attention : 1.420 
+iteration : 141800 loss : 20.564 NLL : -18.966 KLD : 0.031 KLD_attention : 1.567 
+iteration : 142000 loss : 8.373 NLL : -7.588 KLD : 0.008 KLD_attention : 0.777 
+iteration : 142200 loss : 5.864 NLL : -3.775 KLD : 0.027 KLD_attention : 2.063 
+iteration : 142400 loss : 11.508 NLL : -8.873 KLD : 0.047 KLD_attention : 2.587 
+iteration : 142600 loss : 9.308 NLL : -8.482 KLD : 0.011 KLD_attention : 0.815 
+iteration : 142800 loss : 20.144 NLL : -17.388 KLD : 0.027 KLD_attention : 2.729 
+iteration : 143000 loss : 6.377 NLL : -5.460 KLD : 0.012 KLD_attention : 0.904 
+iteration : 143200 loss : 3.922 NLL : -3.061 KLD : 0.004 KLD_attention : 0.857 
+iteration : 143400 loss : 17.274 NLL : -16.319 KLD : 0.036 KLD_attention : 0.919 
+iteration : 143600 loss : 8.277 NLL : -7.519 KLD : 0.017 KLD_attention : 0.740 
+iteration : 143800 loss : 10.073 NLL : -9.342 KLD : 0.009 KLD_attention : 0.723 
+iteration : 144000 loss : 6.938 NLL : -6.259 KLD : 0.003 KLD_attention : 0.677 
+iteration : 144200 loss : 8.068 NLL : -7.254 KLD : 0.005 KLD_attention : 0.809 
+iteration : 144400 loss : 16.947 NLL : -15.901 KLD : 0.026 KLD_attention : 1.021 
+iteration : 144600 loss : 16.029 NLL : -15.157 KLD : 0.023 KLD_attention : 0.850 
+iteration : 144800 loss : 8.299 NLL : -6.153 KLD : 0.062 KLD_attention : 2.083 
+iteration : 145000 loss : 7.936 NLL : -7.167 KLD : 0.008 KLD_attention : 0.761 
+iteration : 145200 loss : 17.560 NLL : -16.823 KLD : 0.006 KLD_attention : 0.731 
+---------- Training loss 5.011 updated ! and save the model! (step:145305) ----------
+iteration : 145400 loss : 17.062 NLL : -16.213 KLD : 0.050 KLD_attention : 0.799 
+iteration : 145600 loss : 6.748 NLL : -5.874 KLD : 0.003 KLD_attention : 0.871 
+iteration : 145800 loss : 8.109 NLL : -7.150 KLD : 0.013 KLD_attention : 0.946 
+iteration : 146000 loss : 5.177 NLL : -4.372 KLD : 0.003 KLD_attention : 0.802 
+iteration : 146200 loss : 11.888 NLL : -9.319 KLD : 0.031 KLD_attention : 2.537 
+iteration : 146400 loss : 16.423 NLL : -14.554 KLD : 0.086 KLD_attention : 1.783 
+iteration : 146600 loss : 3.658 NLL : -2.788 KLD : 0.007 KLD_attention : 0.863 
+iteration : 146800 loss : 4.965 NLL : -3.752 KLD : 0.003 KLD_attention : 1.209 
+iteration : 147000 loss : 12.562 NLL : -10.506 KLD : 0.025 KLD_attention : 2.030 
+iteration : 147200 loss : 13.326 NLL : -10.768 KLD : 0.067 KLD_attention : 2.491 
+iteration : 147400 loss : 7.175 NLL : -5.895 KLD : 0.014 KLD_attention : 1.266 
+iteration : 147600 loss : 8.864 NLL : -8.167 KLD : 0.009 KLD_attention : 0.688 
+iteration : 147800 loss : 15.280 NLL : -13.462 KLD : 0.075 KLD_attention : 1.743 
+iteration : 148000 loss : 17.202 NLL : -16.232 KLD : 0.028 KLD_attention : 0.942 
+iteration : 148200 loss : 15.736 NLL : -13.607 KLD : 0.060 KLD_attention : 2.070 
+iteration : 148400 loss : 13.186 NLL : -12.178 KLD : 0.007 KLD_attention : 1.001 
+iteration : 148600 loss : 4.936 NLL : -4.126 KLD : 0.006 KLD_attention : 0.804 
+iteration : 148800 loss : 15.066 NLL : -12.296 KLD : 0.072 KLD_attention : 2.698 
+iteration : 149000 loss : 9.681 NLL : -8.904 KLD : 0.021 KLD_attention : 0.756 
+iteration : 149200 loss : 11.839 NLL : -9.224 KLD : 0.092 KLD_attention : 2.523 
+iteration : 149400 loss : 16.928 NLL : -15.031 KLD : 0.067 KLD_attention : 1.830 
+iteration : 149600 loss : 9.704 NLL : -7.107 KLD : 0.043 KLD_attention : 2.555 
+iteration : 149800 loss : 13.734 NLL : -10.651 KLD : 0.147 KLD_attention : 2.936 
+iteration : 150000 loss : 22.489 NLL : -21.033 KLD : 0.024 KLD_attention : 1.432 
+---------- Training loss 14.610 updated ! and save the model! (step:150000) ----------
+---------- Training loss 13.404 updated ! and save the model! (step:150010) ----------
+---------- Training loss 10.143 updated ! and save the model! (step:150015) ----------
+---------- Training loss 9.022 updated ! and save the model! (step:150035) ----------
+---------- Training loss 8.841 updated ! and save the model! (step:150070) ----------
+---------- Training loss 6.860 updated ! and save the model! (step:150090) ----------
+iteration : 150200 loss : 19.996 NLL : -18.626 KLD : 0.013 KLD_attention : 1.356 
+---------- Training loss 6.654 updated ! and save the model! (step:150360) ----------
+iteration : 150400 loss : 4.790 NLL : -4.056 KLD : 0.003 KLD_attention : 0.731 
+---------- Training loss 6.516 updated ! and save the model! (step:150535) ----------
+iteration : 150600 loss : 11.362 NLL : -10.408 KLD : 0.008 KLD_attention : 0.946 
+iteration : 150800 loss : 14.291 NLL : -13.183 KLD : 0.026 KLD_attention : 1.081 
+iteration : 151000 loss : 5.321 NLL : -4.191 KLD : 0.005 KLD_attention : 1.126 
+iteration : 151200 loss : 16.948 NLL : -15.432 KLD : 0.049 KLD_attention : 1.468 
+iteration : 151400 loss : 12.600 NLL : -11.741 KLD : 0.004 KLD_attention : 0.856 
+iteration : 151600 loss : 6.292 NLL : -5.537 KLD : 0.004 KLD_attention : 0.751 
+---------- Training loss 6.222 updated ! and save the model! (step:151745) ----------
+---------- Training loss 6.182 updated ! and save the model! (step:151790) ----------
+iteration : 151800 loss : 5.147 NLL : -4.379 KLD : 0.008 KLD_attention : 0.760 
+iteration : 152000 loss : 12.523 NLL : -11.747 KLD : 0.007 KLD_attention : 0.769 
+iteration : 152200 loss : 14.930 NLL : -13.257 KLD : 0.019 KLD_attention : 1.654 
+iteration : 152400 loss : 9.142 NLL : -8.125 KLD : 0.007 KLD_attention : 1.010 
+iteration : 152600 loss : 12.965 NLL : -11.484 KLD : 0.011 KLD_attention : 1.470 
+iteration : 152800 loss : 17.145 NLL : -14.204 KLD : 0.031 KLD_attention : 2.910 
+---------- Training loss 6.145 updated ! and save the model! (step:152895) ----------
+iteration : 153000 loss : 13.440 NLL : -12.560 KLD : 0.020 KLD_attention : 0.860 
+iteration : 153200 loss : 4.756 NLL : -3.740 KLD : 0.002 KLD_attention : 1.013 
+iteration : 153400 loss : 13.606 NLL : -12.716 KLD : 0.011 KLD_attention : 0.879 
+iteration : 153600 loss : 21.311 NLL : -19.922 KLD : 0.023 KLD_attention : 1.366 
+---------- Training loss 5.494 updated ! and save the model! (step:153690) ----------
+iteration : 153800 loss : 13.396 NLL : -12.557 KLD : 0.007 KLD_attention : 0.831 
+iteration : 154000 loss : 11.659 NLL : -10.729 KLD : 0.008 KLD_attention : 0.922 
+iteration : 154200 loss : 19.904 NLL : -17.736 KLD : 0.035 KLD_attention : 2.132 
+iteration : 154400 loss : 7.000 NLL : -4.901 KLD : 0.024 KLD_attention : 2.075 
+iteration : 154600 loss : 15.607 NLL : -14.693 KLD : 0.029 KLD_attention : 0.885 
+iteration : 154800 loss : 8.226 NLL : -7.240 KLD : 0.026 KLD_attention : 0.961 
+iteration : 155000 loss : 3.587 NLL : -2.791 KLD : 0.003 KLD_attention : 0.793 
+iteration : 155200 loss : 3.033 NLL : -2.280 KLD : 0.001 KLD_attention : 0.751 
+iteration : 155400 loss : 25.410 NLL : -22.735 KLD : 0.245 KLD_attention : 2.431 
+iteration : 155600 loss : 4.659 NLL : -3.696 KLD : 0.027 KLD_attention : 0.935 
+iteration : 155800 loss : 9.670 NLL : -8.830 KLD : 0.006 KLD_attention : 0.835 
+iteration : 156000 loss : 10.481 NLL : -9.626 KLD : 0.010 KLD_attention : 0.846 
+iteration : 156200 loss : 4.752 NLL : -4.007 KLD : 0.001 KLD_attention : 0.744 
+iteration : 156400 loss : 6.995 NLL : -4.121 KLD : 0.045 KLD_attention : 2.829 
+iteration : 156600 loss : 20.631 NLL : -19.094 KLD : 0.060 KLD_attention : 1.477 
+iteration : 156800 loss : 14.249 NLL : -13.491 KLD : 0.004 KLD_attention : 0.753 
+iteration : 157000 loss : 13.417 NLL : -12.327 KLD : 0.027 KLD_attention : 1.062 
+iteration : 157200 loss : 17.590 NLL : -16.504 KLD : 0.026 KLD_attention : 1.060 
+iteration : 157400 loss : 3.883 NLL : -3.195 KLD : 0.003 KLD_attention : 0.685 
+iteration : 157600 loss : 14.672 NLL : -12.866 KLD : 0.037 KLD_attention : 1.770 
+iteration : 157800 loss : 10.793 NLL : -10.136 KLD : 0.008 KLD_attention : 0.649 
+iteration : 158000 loss : 6.606 NLL : -5.901 KLD : 0.006 KLD_attention : 0.699 
+iteration : 158200 loss : 12.023 NLL : -10.570 KLD : 0.012 KLD_attention : 1.441 
+iteration : 158400 loss : 8.368 NLL : -7.716 KLD : 0.006 KLD_attention : 0.647 
+iteration : 158600 loss : 11.201 NLL : -10.425 KLD : 0.016 KLD_attention : 0.760 
+iteration : 158800 loss : 14.694 NLL : -12.894 KLD : 0.103 KLD_attention : 1.697 
+iteration : 159000 loss : 9.693 NLL : -9.046 KLD : 0.004 KLD_attention : 0.643 
+iteration : 159200 loss : 14.775 NLL : -13.695 KLD : 0.014 KLD_attention : 1.065 
+iteration : 159400 loss : 13.818 NLL : -12.800 KLD : 0.010 KLD_attention : 1.008 
+iteration : 159600 loss : 15.309 NLL : -13.917 KLD : 0.014 KLD_attention : 1.378 
+iteration : 159800 loss : 14.737 NLL : -12.718 KLD : 0.032 KLD_attention : 1.987 
+iteration : 160000 loss : 25.717 NLL : -22.824 KLD : 0.057 KLD_attention : 2.836 
+---------- Training loss 15.191 updated ! and save the model! (step:160000) ----------
+---------- Training loss 11.115 updated ! and save the model! (step:160005) ----------
+---------- Training loss 11.002 updated ! and save the model! (step:160015) ----------
+---------- Training loss 10.441 updated ! and save the model! (step:160025) ----------
+---------- Training loss 8.670 updated ! and save the model! (step:160040) ----------
+---------- Training loss 7.907 updated ! and save the model! (step:160055) ----------
+---------- Training loss 6.892 updated ! and save the model! (step:160175) ----------
+iteration : 160200 loss : 12.396 NLL : -10.028 KLD : 0.126 KLD_attention : 2.241 
+iteration : 160400 loss : 5.541 NLL : -3.763 KLD : 0.014 KLD_attention : 1.764 
+---------- Training loss 6.778 updated ! and save the model! (step:160410) ----------
+iteration : 160600 loss : 7.519 NLL : -6.678 KLD : 0.015 KLD_attention : 0.825 
+iteration : 160800 loss : 9.113 NLL : -8.210 KLD : 0.031 KLD_attention : 0.871 
+iteration : 161000 loss : 6.692 NLL : -5.702 KLD : 0.005 KLD_attention : 0.985 
+---------- Training loss 6.356 updated ! and save the model! (step:161025) ----------
+iteration : 161200 loss : 2.401 NLL : -1.664 KLD : 0.002 KLD_attention : 0.735 
+iteration : 161400 loss : 5.365 NLL : -4.359 KLD : 0.006 KLD_attention : 1.000 
+iteration : 161600 loss : 20.077 NLL : -17.817 KLD : 0.080 KLD_attention : 2.180 
+iteration : 161800 loss : 9.864 NLL : -9.087 KLD : 0.008 KLD_attention : 0.770 
+iteration : 162000 loss : 11.949 NLL : -8.815 KLD : 0.034 KLD_attention : 3.100 
+iteration : 162200 loss : 9.220 NLL : -8.292 KLD : 0.029 KLD_attention : 0.900 
+iteration : 162400 loss : 7.126 NLL : -5.106 KLD : 0.026 KLD_attention : 1.994 
+iteration : 162600 loss : 15.067 NLL : -14.287 KLD : 0.027 KLD_attention : 0.753 
+iteration : 162800 loss : 6.020 NLL : -4.931 KLD : 0.010 KLD_attention : 1.079 
+iteration : 163000 loss : 5.274 NLL : -4.240 KLD : 0.003 KLD_attention : 1.030 
+iteration : 163200 loss : 5.517 NLL : -4.726 KLD : 0.002 KLD_attention : 0.789 
+iteration : 163400 loss : 20.629 NLL : -19.297 KLD : 0.036 KLD_attention : 1.296 
+iteration : 163600 loss : 9.861 NLL : -9.034 KLD : 0.004 KLD_attention : 0.823 
+iteration : 163800 loss : 6.414 NLL : -5.616 KLD : 0.012 KLD_attention : 0.786 
+iteration : 164000 loss : 12.129 NLL : -11.282 KLD : 0.013 KLD_attention : 0.834 
+iteration : 164200 loss : 19.359 NLL : -18.272 KLD : 0.005 KLD_attention : 1.082 
+iteration : 164400 loss : 14.832 NLL : -13.878 KLD : 0.022 KLD_attention : 0.932 
+iteration : 164600 loss : 24.742 NLL : -22.424 KLD : 0.077 KLD_attention : 2.241 
+iteration : 164800 loss : 17.688 NLL : -16.251 KLD : 0.055 KLD_attention : 1.382 
+---------- Training loss 6.288 updated ! and save the model! (step:164875) ----------
+iteration : 165000 loss : 9.727 NLL : -9.017 KLD : 0.006 KLD_attention : 0.704 
+iteration : 165200 loss : 13.029 NLL : -12.151 KLD : 0.016 KLD_attention : 0.861 
+iteration : 165400 loss : 15.051 NLL : -14.272 KLD : 0.013 KLD_attention : 0.766 
+---------- Training loss 6.255 updated ! and save the model! (step:165495) ----------
+iteration : 165600 loss : 15.052 NLL : -13.942 KLD : 0.028 KLD_attention : 1.082 
+iteration : 165800 loss : 12.246 NLL : -11.400 KLD : 0.010 KLD_attention : 0.835 
+---------- Training loss 6.126 updated ! and save the model! (step:165865) ----------
+iteration : 166000 loss : 14.955 NLL : -14.018 KLD : 0.011 KLD_attention : 0.927 
+iteration : 166200 loss : 8.530 NLL : -7.250 KLD : 0.053 KLD_attention : 1.227 
+iteration : 166400 loss : 5.662 NLL : -5.041 KLD : 0.004 KLD_attention : 0.617 
+iteration : 166600 loss : 14.128 NLL : -13.252 KLD : 0.013 KLD_attention : 0.864 
+iteration : 166800 loss : 19.004 NLL : -16.404 KLD : 0.042 KLD_attention : 2.559 
+iteration : 167000 loss : 23.543 NLL : -21.821 KLD : 0.047 KLD_attention : 1.675 
+iteration : 167200 loss : 13.514 NLL : -12.544 KLD : 0.016 KLD_attention : 0.954 
+iteration : 167400 loss : 3.772 NLL : -2.901 KLD : 0.003 KLD_attention : 0.868 
+iteration : 167600 loss : 12.307 NLL : -11.273 KLD : 0.014 KLD_attention : 1.020 
+iteration : 167800 loss : 7.155 NLL : -6.303 KLD : 0.003 KLD_attention : 0.849 
+iteration : 168000 loss : 13.785 NLL : -11.629 KLD : 0.068 KLD_attention : 2.088 
+iteration : 168200 loss : 10.378 NLL : -9.322 KLD : 0.030 KLD_attention : 1.026 
+iteration : 168400 loss : 9.629 NLL : -8.717 KLD : 0.014 KLD_attention : 0.898 
+iteration : 168600 loss : 6.167 NLL : -4.687 KLD : 0.015 KLD_attention : 1.464 
+iteration : 168800 loss : 11.601 NLL : -10.877 KLD : 0.009 KLD_attention : 0.714 
+iteration : 169000 loss : 22.593 NLL : -21.124 KLD : 0.119 KLD_attention : 1.350 
+iteration : 169200 loss : 10.410 NLL : -9.483 KLD : 0.026 KLD_attention : 0.901 
+---------- Training loss 5.953 updated ! and save the model! (step:169270) ----------
+iteration : 169400 loss : 8.933 NLL : -6.114 KLD : 0.046 KLD_attention : 2.773 
+---------- Training loss 5.630 updated ! and save the model! (step:169570) ----------
+iteration : 169600 loss : 20.460 NLL : -19.111 KLD : 0.032 KLD_attention : 1.316 
+iteration : 169800 loss : 7.927 NLL : -7.034 KLD : 0.004 KLD_attention : 0.889 
+iteration : 170000 loss : 16.829 NLL : -15.031 KLD : 0.049 KLD_attention : 1.749 
+---------- Training loss 14.059 updated ! and save the model! (step:170000) ----------
+---------- Training loss 13.664 updated ! and save the model! (step:170005) ----------
+---------- Training loss 12.283 updated ! and save the model! (step:170010) ----------
+---------- Training loss 9.877 updated ! and save the model! (step:170020) ----------
+---------- Training loss 9.628 updated ! and save the model! (step:170075) ----------
+---------- Training loss 9.011 updated ! and save the model! (step:170135) ----------
+---------- Training loss 8.957 updated ! and save the model! (step:170155) ----------
+---------- Training loss 7.531 updated ! and save the model! (step:170165) ----------
+iteration : 170200 loss : 9.068 NLL : -7.670 KLD : 0.037 KLD_attention : 1.361 
+iteration : 170400 loss : 17.330 NLL : -16.059 KLD : 0.043 KLD_attention : 1.229 
+---------- Training loss 6.617 updated ! and save the model! (step:170445) ----------
+iteration : 170600 loss : 9.638 NLL : -8.713 KLD : 0.019 KLD_attention : 0.906 
+---------- Training loss 4.844 updated ! and save the model! (step:170690) ----------
+iteration : 170800 loss : 5.535 NLL : -4.271 KLD : 0.022 KLD_attention : 1.243 
+iteration : 171000 loss : 9.583 NLL : -8.848 KLD : 0.009 KLD_attention : 0.726 
+iteration : 171200 loss : 9.092 NLL : -8.314 KLD : 0.011 KLD_attention : 0.768 
+iteration : 171400 loss : 4.555 NLL : -3.490 KLD : 0.046 KLD_attention : 1.020 
+iteration : 171600 loss : 10.093 NLL : -9.310 KLD : 0.010 KLD_attention : 0.774 
+iteration : 171800 loss : 4.892 NLL : -3.823 KLD : 0.043 KLD_attention : 1.026 
+iteration : 172000 loss : 14.546 NLL : -12.532 KLD : 0.039 KLD_attention : 1.975 
+iteration : 172200 loss : 17.559 NLL : -16.212 KLD : 0.035 KLD_attention : 1.311 
+iteration : 172400 loss : 15.823 NLL : -14.967 KLD : 0.023 KLD_attention : 0.832 
+iteration : 172600 loss : 10.334 NLL : -9.382 KLD : 0.016 KLD_attention : 0.936 
+iteration : 172800 loss : 5.457 NLL : -3.958 KLD : 0.012 KLD_attention : 1.487 
+iteration : 173000 loss : 4.169 NLL : -3.419 KLD : 0.001 KLD_attention : 0.749 
+iteration : 173200 loss : 10.628 NLL : -9.706 KLD : 0.015 KLD_attention : 0.908 
+iteration : 173400 loss : 7.877 NLL : -6.777 KLD : 0.005 KLD_attention : 1.095 
+iteration : 173600 loss : 10.361 NLL : -8.934 KLD : 0.016 KLD_attention : 1.411 
+iteration : 173800 loss : 16.793 NLL : -15.740 KLD : 0.017 KLD_attention : 1.036 
+iteration : 174000 loss : 13.325 NLL : -12.602 KLD : 0.009 KLD_attention : 0.714 
+iteration : 174200 loss : 6.603 NLL : -5.630 KLD : 0.005 KLD_attention : 0.968 
+iteration : 174400 loss : 5.464 NLL : -4.709 KLD : 0.008 KLD_attention : 0.746 
+iteration : 174600 loss : 6.037 NLL : -4.993 KLD : 0.011 KLD_attention : 1.033 
+iteration : 174800 loss : 6.085 NLL : -4.886 KLD : 0.020 KLD_attention : 1.179 
+iteration : 175000 loss : 4.806 NLL : -3.712 KLD : 0.016 KLD_attention : 1.079 
+iteration : 175200 loss : 10.772 NLL : -7.403 KLD : 0.143 KLD_attention : 3.225 
+iteration : 175400 loss : 10.599 NLL : -9.009 KLD : 0.038 KLD_attention : 1.552 
+iteration : 175600 loss : 3.819 NLL : -2.980 KLD : 0.005 KLD_attention : 0.835 
+iteration : 175800 loss : 12.737 NLL : -11.966 KLD : 0.026 KLD_attention : 0.745 
+iteration : 176000 loss : 10.058 NLL : -8.583 KLD : 0.013 KLD_attention : 1.462 
+iteration : 176200 loss : 8.479 NLL : -7.016 KLD : 0.011 KLD_attention : 1.453 
+iteration : 176400 loss : 7.973 NLL : -7.142 KLD : 0.013 KLD_attention : 0.818 
+iteration : 176600 loss : 6.744 NLL : -4.130 KLD : 0.025 KLD_attention : 2.588 
+iteration : 176800 loss : 12.087 NLL : -11.377 KLD : 0.023 KLD_attention : 0.687 
+iteration : 177000 loss : 8.391 NLL : -7.712 KLD : 0.005 KLD_attention : 0.674 
+iteration : 177200 loss : 9.590 NLL : -8.786 KLD : 0.020 KLD_attention : 0.783 
+iteration : 177400 loss : 9.827 NLL : -8.722 KLD : 0.056 KLD_attention : 1.050 
+iteration : 177600 loss : 8.975 NLL : -8.178 KLD : 0.006 KLD_attention : 0.790 
+iteration : 177800 loss : 5.100 NLL : -4.238 KLD : 0.007 KLD_attention : 0.855 
+iteration : 178000 loss : 9.944 NLL : -8.663 KLD : 0.024 KLD_attention : 1.257 
+iteration : 178200 loss : 21.484 NLL : -20.477 KLD : 0.028 KLD_attention : 0.979 
+iteration : 178400 loss : 5.990 NLL : -5.208 KLD : 0.003 KLD_attention : 0.780 
+---------- Training loss 4.343 updated ! and save the model! (step:178505) ----------
+iteration : 178600 loss : 7.189 NLL : -6.303 KLD : 0.015 KLD_attention : 0.871 
+iteration : 178800 loss : 14.693 NLL : -13.832 KLD : 0.009 KLD_attention : 0.852 
+iteration : 179000 loss : 22.752 NLL : -20.221 KLD : 0.076 KLD_attention : 2.455 
+iteration : 179200 loss : 16.821 NLL : -15.971 KLD : 0.039 KLD_attention : 0.811 
+iteration : 179400 loss : 6.056 NLL : -4.987 KLD : 0.008 KLD_attention : 1.060 
+iteration : 179600 loss : 6.133 NLL : -3.932 KLD : 0.145 KLD_attention : 2.055 
+iteration : 179800 loss : 7.820 NLL : -5.237 KLD : 0.025 KLD_attention : 2.558 
+iteration : 180000 loss : 11.125 NLL : -10.262 KLD : 0.034 KLD_attention : 0.829 
+---------- Training loss 9.135 updated ! and save the model! (step:180000) ----------
+---------- Training loss 7.616 updated ! and save the model! (step:180010) ----------
+iteration : 180200 loss : 11.600 NLL : -9.407 KLD : 0.279 KLD_attention : 1.914 
+---------- Training loss 7.269 updated ! and save the model! (step:180320) ----------
+---------- Training loss 6.498 updated ! and save the model! (step:180335) ----------
+iteration : 180400 loss : 18.107 NLL : -17.155 KLD : 0.027 KLD_attention : 0.925 
+iteration : 180600 loss : 7.026 NLL : -6.286 KLD : 0.003 KLD_attention : 0.736 
+---------- Training loss 6.264 updated ! and save the model! (step:180660) ----------
+iteration : 180800 loss : 4.635 NLL : -3.894 KLD : 0.002 KLD_attention : 0.739 
+---------- Training loss 5.924 updated ! and save the model! (step:180890) ----------
+iteration : 181000 loss : 9.011 NLL : -8.000 KLD : 0.020 KLD_attention : 0.991 
+iteration : 181200 loss : 5.653 NLL : -4.940 KLD : 0.007 KLD_attention : 0.706 
+iteration : 181400 loss : 4.910 NLL : -3.058 KLD : 0.010 KLD_attention : 1.841 
+iteration : 181600 loss : 16.602 NLL : -15.450 KLD : 0.027 KLD_attention : 1.125 
+iteration : 181800 loss : 20.692 NLL : -19.577 KLD : 0.046 KLD_attention : 1.069 
+---------- Training loss 5.349 updated ! and save the model! (step:181845) ----------
+iteration : 182000 loss : 13.564 NLL : -11.728 KLD : 0.049 KLD_attention : 1.787 
+iteration : 182200 loss : 7.260 NLL : -6.519 KLD : 0.008 KLD_attention : 0.732 
+iteration : 182400 loss : 8.193 NLL : -6.848 KLD : 0.011 KLD_attention : 1.334 
+iteration : 182600 loss : 17.433 NLL : -16.321 KLD : 0.016 KLD_attention : 1.095 
+iteration : 182800 loss : 21.294 NLL : -19.349 KLD : 0.051 KLD_attention : 1.894 
+iteration : 183000 loss : 12.207 NLL : -11.288 KLD : 0.012 KLD_attention : 0.907 
+iteration : 183200 loss : 10.518 NLL : -9.267 KLD : 0.009 KLD_attention : 1.242 
+iteration : 183400 loss : 11.822 NLL : -10.874 KLD : 0.023 KLD_attention : 0.924 
+iteration : 183600 loss : 7.102 NLL : -6.288 KLD : 0.017 KLD_attention : 0.797 
+iteration : 183800 loss : 9.923 NLL : -7.174 KLD : 0.016 KLD_attention : 2.733 
+---------- Training loss 5.019 updated ! and save the model! (step:183835) ----------
+iteration : 184000 loss : 3.639 NLL : -2.808 KLD : 0.003 KLD_attention : 0.828 
+iteration : 184200 loss : 9.902 NLL : -8.944 KLD : 0.023 KLD_attention : 0.934 /home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+ /home/mgyukim/workspaces/AI701/recommend_sys/models/parts/attention.py:585: UserWarning:Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+ /home/mgyukim/workspaces/AI701/recommend_sys/models/parts/attention.py:619: UserWarning:Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+
+iteration : 184400 loss : 13.890 NLL : -11.208 KLD : 0.148 KLD_attention : 2.534 
+iteration : 184600 loss : 10.770 NLL : -9.578 KLD : 0.021 KLD_attention : 1.171 
+iteration : 184800 loss : 11.166 NLL : -10.040 KLD : 0.024 KLD_attention : 1.102 
+iteration : 185000 loss : 11.084 NLL : -9.817 KLD : 0.034 KLD_attention : 1.233 
+iteration : 185200 loss : 22.252 NLL : -20.887 KLD : 0.129 KLD_attention : 1.236 
+iteration : 185400 loss : 4.048 NLL : -3.168 KLD : 0.012 KLD_attention : 0.867 
+iteration : 185600 loss : 12.613 NLL : -11.375 KLD : 0.020 KLD_attention : 1.219 
+iteration : 185800 loss : 10.822 NLL : -9.366 KLD : 0.016 KLD_attention : 1.439 
+iteration : 186000 loss : 4.882 NLL : -4.190 KLD : 0.002 KLD_attention : 0.690 
+iteration : 186200 loss : 5.210 NLL : -3.676 KLD : 0.012 KLD_attention : 1.522 
+iteration : 186400 loss : 20.383 NLL : -18.154 KLD : 0.025 KLD_attention : 2.204 
+iteration : 186600 loss : 10.203 NLL : -9.308 KLD : 0.024 KLD_attention : 0.871 
+iteration : 186800 loss : 10.630 NLL : -7.724 KLD : 0.063 KLD_attention : 2.844 
+iteration : 187000 loss : 7.660 NLL : -6.310 KLD : 0.018 KLD_attention : 1.332 
+iteration : 187200 loss : 14.885 NLL : -12.083 KLD : 0.102 KLD_attention : 2.699 
+iteration : 187400 loss : 9.062 NLL : -8.273 KLD : 0.003 KLD_attention : 0.786 
+iteration : 187600 loss : 13.334 NLL : -12.409 KLD : 0.023 KLD_attention : 0.902 
+iteration : 187800 loss : 13.007 NLL : -12.234 KLD : 0.021 KLD_attention : 0.752 
+iteration : 188000 loss : 20.962 NLL : -18.665 KLD : 0.036 KLD_attention : 2.261 
+iteration : 188200 loss : 9.863 NLL : -7.738 KLD : 0.100 KLD_attention : 2.025 
+iteration : 188400 loss : 9.184 NLL : -8.449 KLD : 0.013 KLD_attention : 0.723 
+iteration : 188600 loss : 12.606 NLL : -11.751 KLD : 0.005 KLD_attention : 0.849 
+iteration : 188800 loss : 7.482 NLL : -6.723 KLD : 0.030 KLD_attention : 0.729 
+iteration : 189000 loss : 8.128 NLL : -6.885 KLD : 0.024 KLD_attention : 1.219 
+iteration : 189200 loss : 5.090 NLL : -3.693 KLD : 0.004 KLD_attention : 1.393 
+iteration : 189400 loss : 8.125 NLL : -7.315 KLD : 0.023 KLD_attention : 0.786 
+iteration : 189600 loss : 6.634 NLL : -4.653 KLD : 0.025 KLD_attention : 1.956 
+iteration : 189800 loss : 8.688 NLL : -7.684 KLD : 0.044 KLD_attention : 0.959 
+iteration : 190000 loss : 3.095 NLL : -2.193 KLD : 0.010 KLD_attention : 0.893 
+---------- Training loss 10.285 updated ! and save the model! (step:190000) ----------
+---------- Training loss 7.963 updated ! and save the model! (step:190005) ----------
+iteration : 190200 loss : 11.372 NLL : -10.470 KLD : 0.011 KLD_attention : 0.890 
+---------- Training loss 7.651 updated ! and save the model! (step:190200) ----------
+iteration : 190400 loss : 10.061 NLL : -9.169 KLD : 0.033 KLD_attention : 0.859 
+---------- Training loss 6.675 updated ! and save the model! (step:190530) ----------
+---------- Training loss 6.111 updated ! and save the model! (step:190535) ----------
+---------- Training loss 5.699 updated ! and save the model! (step:190555) ----------
+iteration : 190600 loss : 14.666 NLL : -13.979 KLD : 0.015 KLD_attention : 0.671 
+iteration : 190800 loss : 9.462 NLL : -8.774 KLD : 0.006 KLD_attention : 0.682 
+iteration : 191000 loss : 7.349 NLL : -6.614 KLD : 0.011 KLD_attention : 0.725 
+iteration : 191200 loss : 13.045 NLL : -12.162 KLD : 0.007 KLD_attention : 0.876 
+iteration : 191400 loss : 9.360 NLL : -8.086 KLD : 0.021 KLD_attention : 1.254 
+iteration : 191600 loss : 7.734 NLL : -6.844 KLD : 0.007 KLD_attention : 0.883 
+iteration : 191800 loss : 6.586 NLL : -5.642 KLD : 0.015 KLD_attention : 0.929 
+iteration : 192000 loss : 8.673 NLL : -5.389 KLD : 0.060 KLD_attention : 3.224 
+iteration : 192200 loss : 10.958 NLL : -10.151 KLD : 0.004 KLD_attention : 0.803 
+iteration : 192400 loss : 16.611 NLL : -15.705 KLD : 0.008 KLD_attention : 0.898 
+iteration : 192600 loss : 14.615 NLL : -13.156 KLD : 0.035 KLD_attention : 1.424 
+iteration : 192800 loss : 10.787 NLL : -9.250 KLD : 0.022 KLD_attention : 1.515 
+---------- Training loss 5.271 updated ! and save the model! (step:192990) ----------
+iteration : 193000 loss : 15.348 NLL : -14.411 KLD : 0.007 KLD_attention : 0.930 
+iteration : 193200 loss : 14.311 NLL : -12.876 KLD : 0.051 KLD_attention : 1.384 
+iteration : 193400 loss : 11.569 NLL : -10.875 KLD : 0.008 KLD_attention : 0.686 
+iteration : 193600 loss : 12.816 NLL : -11.353 KLD : 0.023 KLD_attention : 1.440 
+iteration : 193800 loss : 11.499 NLL : -10.777 KLD : 0.010 KLD_attention : 0.712 
+---------- Training loss 5.082 updated ! and save the model! (step:193855) ----------
+iteration : 194000 loss : 14.529 NLL : -11.980 KLD : 0.043 KLD_attention : 2.506 
+iteration : 194200 loss : 13.956 NLL : -12.972 KLD : 0.017 KLD_attention : 0.967 
+iteration : 194400 loss : 20.894 NLL : -19.804 KLD : 0.067 KLD_attention : 1.023 
+iteration : 194600 loss : 18.737 NLL : -17.372 KLD : 0.031 KLD_attention : 1.334 
+iteration : 194800 loss : 10.403 NLL : -8.604 KLD : 0.049 KLD_attention : 1.749 
+iteration : 195000 loss : 11.635 NLL : -9.748 KLD : 0.088 KLD_attention : 1.800 
+iteration : 195200 loss : 8.038 NLL : -7.064 KLD : 0.010 KLD_attention : 0.964 
+iteration : 195400 loss : 13.452 NLL : -12.007 KLD : 0.046 KLD_attention : 1.399 
+iteration : 195600 loss : 7.945 NLL : -6.723 KLD : 0.016 KLD_attention : 1.206 
+iteration : 195800 loss : 15.130 NLL : -13.539 KLD : 0.049 KLD_attention : 1.543 
+iteration : 196000 loss : 12.566 NLL : -9.481 KLD : 0.474 KLD_attention : 2.611 
+iteration : 196200 loss : 6.961 NLL : -6.141 KLD : 0.023 KLD_attention : 0.797 
+iteration : 196400 loss : 11.401 NLL : -10.556 KLD : 0.014 KLD_attention : 0.831 
+iteration : 196600 loss : 13.997 NLL : -10.275 KLD : 1.070 KLD_attention : 2.652 
+iteration : 196800 loss : 6.763 NLL : -4.915 KLD : 0.043 KLD_attention : 1.805 
+---------- Training loss 4.817 updated ! and save the model! (step:196895) ----------
+iteration : 197000 loss : 16.522 NLL : -15.741 KLD : 0.007 KLD_attention : 0.774 
+iteration : 197200 loss : 8.177 NLL : -7.390 KLD : 0.008 KLD_attention : 0.779 
+iteration : 197400 loss : 9.528 NLL : -8.818 KLD : 0.009 KLD_attention : 0.702 
+iteration : 197600 loss : 5.633 NLL : -4.464 KLD : 0.017 KLD_attention : 1.153 
+iteration : 197800 loss : 17.219 NLL : -15.581 KLD : 0.025 KLD_attention : 1.612 
+iteration : 198000 loss : 17.148 NLL : -14.622 KLD : 0.266 KLD_attention : 2.260 
+iteration : 198200 loss : 10.855 NLL : -10.153 KLD : 0.021 KLD_attention : 0.681 
+iteration : 198400 loss : 6.817 NLL : -4.150 KLD : 0.022 KLD_attention : 2.645 
+iteration : 198600 loss : 20.823 NLL : -18.683 KLD : 0.129 KLD_attention : 2.011 
+iteration : 198800 loss : 5.588 NLL : -4.484 KLD : 0.008 KLD_attention : 1.096 
+iteration : 199000 loss : 13.134 NLL : -12.443 KLD : 0.007 KLD_attention : 0.684 
+iteration : 199200 loss : 16.955 NLL : -15.442 KLD : 0.047 KLD_attention : 1.466 
+iteration : 199400 loss : 8.162 NLL : -7.076 KLD : 0.004 KLD_attention : 1.081 
+iteration : 199600 loss : 6.916 NLL : -6.176 KLD : 0.006 KLD_attention : 0.733 
+iteration : 199800 loss : 13.335 NLL : -12.233 KLD : 0.010 KLD_attention : 1.092 
+iteration : 200000 loss : 7.023 NLL : -5.988 KLD : 0.018 KLD_attention : 1.018 
+---------- Training loss 8.728 updated ! and save the model! (step:200000) ----------
+---------- Save the model! (step:None) ----------

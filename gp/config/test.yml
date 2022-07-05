@@ -1,0 +1,26 @@
+
+# Save path
+model_save_dir: "./save_models"
+
+# Load path
+# model_names: ["CNP", "NP", "ANP", "ANP_variational", "ANP_log_normal", "ANP_weibull"]
+model_names: ["ANP_weibull_100",
+              "ANP_weibull_300"]
+
+# model_path: [
+#               "./save_models/CNP/test/model.pt"
+#             ]
+  
+# model_path: [
+#               "./save_models/CNP/test/model.pt",
+#               "./save_models/NP/test/model.pt", 
+#               "./save_models/ANP/test/model.pt",
+#               "./save_models/ANP_variational/test/model.pt", 
+#               "./save_models/ANP_log_normal/test/model.pt", 
+#               "./save_models/ANP_weibull/test/model.pt", 
+#             ]
+
+model_path: [
+              "./save_models/ANP_weibull_100/best_model200000.pt", 
+              "./save_models/ANP_weibull_300/best_model200000.pt" 
+            ]

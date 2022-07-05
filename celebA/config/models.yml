@@ -1,0 +1,236 @@
+Base:
+  INPUT_DIM : 2 # IF DROP_USER_ID, INPUT_DIM = 44, ELSE, INPUT_DIM = 45
+  OUTPUT_DIM : 3
+  NUM_CONTEXT_POINTS: 100
+  NUM_EXTRA_TARGET_POINTS: 100
+  TRAIN_TASK_SIZE: 8
+  TEST_TASK_SIZE: 4
+  TRAIN_NUM_POINTS : 500 # For training (Boostrapped NPs)
+  TEST_NUM_POINTS: 500 # For plotting
+  IS_AVERAGE_BY_POINTS : True
+  IS_IWAE : True
+  IW_SAMPLES : 5
+
+  # For celebA
+  IMG_SIZE : [3, 32, 32]
+  CENTER_CROP_PIXEL : 95
+  ATTR_TRAIN : 'Bald'
+  ATTR_TEST : 'Blad'
+  IS_RGB : True
+  
+  
+CNP:
+  # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+  # WEIGHT_DECAY : 1.0e-3
+
+NP:
+  # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+  # WEIGHT_DECAY : 1.0e-3
+
+ANP:
+  # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'multihead'
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+  # WEIGHT_DECAY : 1.0e-3
+
+ANP_variational:
+  # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead
+  ATTENTION_TYPE: 'multihead'
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+
+ANP_log_normal_1:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_log_normal'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  SIGMA_NORMAL_POSTERIOR: 1
+  SIGMA_NORMAL_PRIOR : 1
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+ANP_log_normal_0_5:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_log_normal'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  SIGMA_NORMAL_POSTERIOR: 0.5
+  SIGMA_NORMAL_PRIOR : 0.5
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+ANP_log_normal_0_1:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_log_normal'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  SIGMA_NORMAL_POSTERIOR: 0.1
+  SIGMA_NORMAL_PRIOR : 0.1
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+ANP_weibull_1000:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_weibull'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  K_WEIBULL: 1000
+    
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+ANP_weibull_300:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_weibull'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  K_WEIBULL: 300
+    
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+ANP_weibull_100:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_weibull'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  K_WEIBULL: 100
+    
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+
+ANP_log_normal_dot:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_attention_log_normal'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  SIGMA_NORMAL_POSTERIOR: 0.5
+  SIGMA_NORMAL_PRIOR : 0.5
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+
+ANP_weibull_dot:
+    # Model
+  HIDDEN_SIZE: 512
+  NUM_LATENT: 512
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_attention_weibull'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  K_WEIBULL: 100
+    
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3

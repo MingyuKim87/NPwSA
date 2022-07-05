@@ -1,0 +1,26 @@
+
+# Plot
+IS_PLOT : True
+
+# Save path
+model_save_dir: "./test_save_models"
+
+# Load path (original)
+model_names: [
+  "CNP",
+  "NP",
+  "ANP",
+  "ANP_IWAE",
+  "ANP_variational",
+  "ANP_weibull_300",
+]
+  
+#trained by only bald set
+model_path: [
+              "./test_save_models/CNP/test/CNP_last_step_model200200.pt",
+              "./test_save_models/NP/test/NP_last_step_model200200.pt",
+              "./test_save_models/ANP/test/ANP_last_step_model200200.pt",
+              "./test_save_models/ANP_IWAE/test/ANP_IWAE_last_step_model200070.pt",
+              "./test_save_models/ANP_variational/test/ANP_variational_last_step_model200070.pt",              
+              "./test_save_models/ANP_weibull_300/test/ANP_weibull_300_last_step_model200200.pt",
+              ]

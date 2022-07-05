@@ -1,0 +1,32 @@
+
+# Save path
+model_save_dir: "./save_models"
+
+# Trained LV-models
+model_names: [
+  "CNP",
+  "NP",
+  "ANP", 
+  "ANP_variational", 
+  "ANP_weibull_300"
+]
+  
+# Load path : basic
+model_path: [
+              "./test_save_models/basic/CNP/test/best_model200000.pt",
+              "./test_save_models/basic/NP/test/best_model200000.pt",
+              "./test_save_models/basic/ANP/test/best_model200000.pt",
+              "./test_save_models/basic/ANP_variational/test/best_model200000.pt",
+              "./test_save_models/basic/ANP_weibull_300/test/best_model200000.pt"
+]
+
+# # Load path : periodic noise
+# model_path: [
+#               "./test_save_models/with_periodic_noises/CNP/test/CNP_best_model200000.pt",
+#               "./test_save_models/with_periodic_noises/NP/test/NP_best_model200000.pt",
+#               "./test_save_models/with_periodic_noises/ANP/test/ANP_best_model200000.pt",
+#               "./test_save_models/with_periodic_noises/ANP_variational/test/ANP_variational_best_model200000.pt",
+#               "./test_save_models/with_periodic_noises/ANP_weibull_300/test/ANP_weibull_300_best_model200000.pt"
+# ]
+
+

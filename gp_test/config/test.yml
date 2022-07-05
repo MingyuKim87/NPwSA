@@ -1,0 +1,38 @@
+# Save path
+model_save_dir: "./save_models"
+
+# Load path (original)
+model_names: [
+  "CNP",
+  "NP",
+  "ANP", 
+  "ANP_weightdecay",
+  "ANP_IWAE",
+  "ANP_variational",
+  "ANP_weibull_300"
+]
+
+# The rbf gp(fixed params) + periodic noises
+model_path: [
+              "./save_models/rbf_gp_fixed_adding_noises/CNP/test/CNP_best_model200000.pt",
+              "./save_models/rbf_gp_fixed_adding_noises/NP/test/NP_best_model200000.pt",
+              "./save_models/rbf_gp_fixed_adding_noises/ANP/test/ANP_best_model200000.pt",
+              "./save_models/rbf_gp_fixed_adding_noises/ANP_weightdecay/test/ANP_weightdecay_best_model200000.pt",
+              "./save_models/rbf_gp_fixed_adding_noises/ANP_IWAE/test/ANP_IWAE_best_model200000.pt",
+              "./save_models/rbf_gp_fixed_adding_noises/ANP_variational/test/ANP_variational_best_model200000.pt",
+              "./save_models/rbf_gp_fixed_adding_noises/ANP_weibull_300/test/ANP_weibull_300_best_model200000.pt"              
+]
+
+# The rbf gp(fixed params)
+# model_path: [
+#               "./save_models/rbf_gp_fixed/CNP/test/CNP_best_model200000.pt",
+#               "./save_models/rbf_gp_fixed/NP/test/NP_best_model200000.pt",
+#               "./save_models/rbf_gp_fixed/ANP/test/ANP_best_model200000.pt",
+#               "./save_models/rbf_gp_fixed/ANP_weightdecay/test/ANP_weightdecay_best_model200000.pt",
+#               "./save_models/rbf_gp_fixed/ANP_IWAE/test/ANP_IWAE_best_model200000.pt",
+#               "./save_models/rbf_gp_fixed/ANP_variational/test/ANP_variational_best_model200000.pt",
+#               "./save_models/rbf_gp_fixed/ANP_weibull_300/test/ANP_weibull_300_best_model200000.pt"              
+# ]
+
+
+

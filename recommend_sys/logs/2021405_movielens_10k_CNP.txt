@@ -1,0 +1,1200 @@
+---------- Training loss 146.812 updated ! and save the model! (step:5) ----------
+---------- Training loss 47.918 updated ! and save the model! (step:10) ----------
+---------- Training loss 38.346 updated ! and save the model! (step:15) ----------
+---------- Training loss 36.087 updated ! and save the model! (step:20) ----------
+---------- Training loss 34.305 updated ! and save the model! (step:25) ----------
+---------- Training loss 29.530 updated ! and save the model! (step:35) ----------
+---------- Training loss 28.339 updated ! and save the model! (step:50) ----------
+---------- Training loss 27.178 updated ! and save the model! (step:55) ----------
+---------- Training loss 25.302 updated ! and save the model! (step:70) ----------
+---------- Training loss 23.317 updated ! and save the model! (step:90) ----------
+---------- Training loss 17.699 updated ! and save the model! (step:95) ----------
+---------- Training loss 16.953 updated ! and save the model! (step:140) ----------
+---------- Training loss 15.611 updated ! and save the model! (step:185) ----------
+iteration : 200 loss : 19.299 NLL : -19.299 
+iteration : 400 loss : 19.785 NLL : -19.785 
+iteration : 600 loss : 21.386 NLL : -21.386 
+iteration : 800 loss : 28.001 NLL : -28.001 
+iteration : 1000 loss : 22.298 NLL : -22.298 
+---------- Training loss 15.071 updated ! and save the model! (step:1130) ----------
+iteration : 1200 loss : 27.513 NLL : -27.513 
+iteration : 1400 loss : 27.289 NLL : -27.289 
+iteration : 1600 loss : 22.717 NLL : -22.717 
+iteration : 1800 loss : 25.560 NLL : -25.560 
+iteration : 2000 loss : 9.449 NLL : -9.449 
+iteration : 2200 loss : 15.993 NLL : -15.993 
+iteration : 2400 loss : 16.600 NLL : -16.600 
+iteration : 2600 loss : 26.589 NLL : -26.589 
+iteration : 2800 loss : 22.403 NLL : -22.403 
+iteration : 3000 loss : 17.761 NLL : -17.761 
+iteration : 3200 loss : 25.483 NLL : -25.483 
+iteration : 3400 loss : 12.488 NLL : -12.488 
+iteration : 3600 loss : 19.439 NLL : -19.439 
+iteration : 3800 loss : 20.380 NLL : -20.380 
+iteration : 4000 loss : 18.521 NLL : -18.521 
+iteration : 4200 loss : 22.652 NLL : -22.652 
+iteration : 4400 loss : 21.913 NLL : -21.913 
+iteration : 4600 loss : 18.718 NLL : -18.718 
+iteration : 4800 loss : 25.707 NLL : -25.707 
+iteration : 5000 loss : 20.939 NLL : -20.939 
+iteration : 5200 loss : 14.350 NLL : -14.350 
+iteration : 5400 loss : 16.494 NLL : -16.494 
+---------- Training loss 14.261 updated ! and save the model! (step:5560) ----------
+iteration : 5600 loss : 20.531 NLL : -20.531 
+iteration : 5800 loss : 21.108 NLL : -21.108 
+iteration : 6000 loss : 25.824 NLL : -25.824 
+iteration : 6200 loss : 19.756 NLL : -19.756 
+iteration : 6400 loss : 16.421 NLL : -16.421 
+iteration : 6600 loss : 19.993 NLL : -19.993 
+iteration : 6800 loss : 14.780 NLL : -14.780 
+iteration : 7000 loss : 19.437 NLL : -19.437 
+iteration : 7200 loss : 20.735 NLL : -20.735 
+iteration : 7400 loss : 23.074 NLL : -23.074 
+iteration : 7600 loss : 16.821 NLL : -16.821 
+iteration : 7800 loss : 23.332 NLL : -23.332 
+---------- Training loss 13.880 updated ! and save the model! (step:7950) ----------
+iteration : 8000 loss : 24.157 NLL : -24.157 
+iteration : 8200 loss : 25.003 NLL : -25.003 
+iteration : 8400 loss : 13.002 NLL : -13.002 
+iteration : 8600 loss : 24.032 NLL : -24.032 
+iteration : 8800 loss : 23.165 NLL : -23.165 
+iteration : 9000 loss : 18.979 NLL : -18.979 
+iteration : 9200 loss : 13.417 NLL : -13.417 
+iteration : 9400 loss : 16.316 NLL : -16.316 
+iteration : 9600 loss : 19.000 NLL : -19.000 
+---------- Training loss 13.717 updated ! and save the model! (step:9775) ----------
+iteration : 9800 loss : 21.838 NLL : -21.838 
+---------- Training loss 13.669 updated ! and save the model! (step:9985) ----------
+---------- Training loss 13.424 updated ! and save the model! (step:9990) ----------
+iteration : 10000 loss : 18.931 NLL : -18.931 
+---------- Training loss 18.388 updated ! and save the model! (step:10000) ----------
+---------- Training loss 17.509 updated ! and save the model! (step:10005) ----------
+---------- Training loss 15.742 updated ! and save the model! (step:10020) ----------
+---------- Training loss 13.553 updated ! and save the model! (step:10145) ----------
+iteration : 10200 loss : 21.183 NLL : -21.183 
+iteration : 10400 loss : 19.820 NLL : -19.820 
+---------- Training loss 12.961 updated ! and save the model! (step:10515) ----------
+iteration : 10600 loss : 13.153 NLL : -13.153 
+iteration : 10800 loss : 21.255 NLL : -21.255 
+iteration : 11000 loss : 20.254 NLL : -20.254 
+iteration : 11200 loss : 22.090 NLL : -22.090 
+iteration : 11400 loss : 22.307 NLL : -22.307 
+iteration : 11600 loss : 13.873 NLL : -13.873 
+iteration : 11800 loss : 20.816 NLL : -20.816 
+iteration : 12000 loss : 19.310 NLL : -19.310 
+iteration : 12200 loss : 22.833 NLL : -22.833 
+---------- Training loss 12.870 updated ! and save the model! (step:12295) ----------
+iteration : 12400 loss : 21.905 NLL : -21.905 
+iteration : 12600 loss : 20.575 NLL : -20.575 
+---------- Training loss 12.489 updated ! and save the model! (step:12755) ----------
+iteration : 12800 loss : 22.328 NLL : -22.328 
+iteration : 13000 loss : 23.377 NLL : -23.377 
+iteration : 13200 loss : 19.278 NLL : -19.278 
+iteration : 13400 loss : 24.661 NLL : -24.661 
+iteration : 13600 loss : 22.454 NLL : -22.454 
+iteration : 13800 loss : 11.721 NLL : -11.721 
+iteration : 14000 loss : 22.143 NLL : -22.143 
+iteration : 14200 loss : 13.234 NLL : -13.234 
+iteration : 14400 loss : 11.618 NLL : -11.618 
+iteration : 14600 loss : 17.881 NLL : -17.881 
+iteration : 14800 loss : 20.439 NLL : -20.439 
+iteration : 15000 loss : 19.762 NLL : -19.762 
+iteration : 15200 loss : 22.417 NLL : -22.417 
+iteration : 15400 loss : 12.815 NLL : -12.815 
+iteration : 15600 loss : 16.077 NLL : -16.077 
+---------- Training loss 11.498 updated ! and save the model! (step:15675) ----------
+iteration : 15800 loss : 19.175 NLL : -19.175 
+iteration : 16000 loss : 9.877 NLL : -9.877 
+iteration : 16200 loss : 19.045 NLL : -19.045 
+iteration : 16400 loss : 17.140 NLL : -17.140 
+iteration : 16600 loss : 14.423 NLL : -14.423 
+iteration : 16800 loss : 8.924 NLL : -8.924 
+iteration : 17000 loss : 20.395 NLL : -20.395 
+iteration : 17200 loss : 14.982 NLL : -14.982 
+iteration : 17400 loss : 21.084 NLL : -21.084 
+iteration : 17600 loss : 17.087 NLL : -17.087 
+iteration : 17800 loss : 16.649 NLL : -16.649 
+iteration : 18000 loss : 15.832 NLL : -15.832 
+iteration : 18200 loss : 17.353 NLL : -17.353 
+iteration : 18400 loss : 8.369 NLL : -8.369 
+iteration : 18600 loss : 18.408 NLL : -18.408 
+iteration : 18800 loss : 17.677 NLL : -17.677 
+iteration : 19000 loss : 16.865 NLL : -16.865 
+iteration : 19200 loss : 14.238 NLL : -14.238 
+---------- Training loss 11.403 updated ! and save the model! (step:19375) ----------
+iteration : 19400 loss : 14.337 NLL : -14.337 
+iteration : 19600 loss : 14.343 NLL : -14.343 
+iteration : 19800 loss : 21.223 NLL : -21.223 
+iteration : 20000 loss : 15.429 NLL : -15.429 
+---------- Training loss 14.567 updated ! and save the model! (step:20000) ----------
+---------- Training loss 14.295 updated ! and save the model! (step:20090) ----------
+---------- Training loss 14.145 updated ! and save the model! (step:20155) ----------
+---------- Training loss 13.531 updated ! and save the model! (step:20160) ----------
+iteration : 20200 loss : 19.196 NLL : -19.196 
+---------- Training loss 11.004 updated ! and save the model! (step:20285) ----------
+iteration : 20400 loss : 22.131 NLL : -22.131 
+iteration : 20600 loss : 20.843 NLL : -20.843 
+iteration : 20800 loss : 18.651 NLL : -18.651 
+iteration : 21000 loss : 20.768 NLL : -20.768 
+iteration : 21200 loss : 13.519 NLL : -13.519 
+iteration : 21400 loss : 21.310 NLL : -21.310 
+iteration : 21600 loss : 15.226 NLL : -15.226 
+iteration : 21800 loss : 16.972 NLL : -16.972 
+iteration : 22000 loss : 20.048 NLL : -20.048 
+iteration : 22200 loss : 15.423 NLL : -15.423 
+iteration : 22400 loss : 21.805 NLL : -21.805 
+iteration : 22600 loss : 19.366 NLL : -19.366 
+iteration : 22800 loss : 9.352 NLL : -9.352 
+iteration : 23000 loss : 10.757 NLL : -10.757 
+iteration : 23200 loss : 16.820 NLL : -16.820 
+iteration : 23400 loss : 14.269 NLL : -14.269 
+iteration : 23600 loss : 19.071 NLL : -19.071 
+iteration : 23800 loss : 9.716 NLL : -9.716 
+iteration : 24000 loss : 18.960 NLL : -18.960 
+iteration : 24200 loss : 15.948 NLL : -15.948 
+iteration : 24400 loss : 10.055 NLL : -10.055 
+iteration : 24600 loss : 12.401 NLL : -12.401 
+iteration : 24800 loss : 20.012 NLL : -20.012 
+iteration : 25000 loss : 11.500 NLL : -11.500 
+iteration : 25200 loss : 6.070 NLL : -6.070 
+iteration : 25400 loss : 11.597 NLL : -11.597 
+---------- Training loss 10.829 updated ! and save the model! (step:25495) ----------
+iteration : 25600 loss : 17.818 NLL : -17.818 
+---------- Training loss 10.461 updated ! and save the model! (step:25685) ----------
+iteration : 25800 loss : 17.939 NLL : -17.939 
+iteration : 26000 loss : 12.935 NLL : -12.935 
+iteration : 26200 loss : 19.405 NLL : -19.405 
+iteration : 26400 loss : 11.411 NLL : -11.411 
+iteration : 26600 loss : 7.151 NLL : -7.151 
+iteration : 26800 loss : 15.533 NLL : -15.533 
+iteration : 27000 loss : 13.318 NLL : -13.318 
+iteration : 27200 loss : 14.555 NLL : -14.555 
+iteration : 27400 loss : 18.713 NLL : -18.713 
+iteration : 27600 loss : 17.621 NLL : -17.621 
+iteration : 27800 loss : 12.057 NLL : -12.057 
+iteration : 28000 loss : 17.616 NLL : -17.616 
+iteration : 28200 loss : 13.475 NLL : -13.475 
+iteration : 28400 loss : 18.516 NLL : -18.516 
+iteration : 28600 loss : 14.251 NLL : -14.251 
+iteration : 28800 loss : 17.903 NLL : -17.903 
+iteration : 29000 loss : 11.704 NLL : -11.704 
+iteration : 29200 loss : 19.247 NLL : -19.247 
+iteration : 29400 loss : 15.167 NLL : -15.167 
+iteration : 29600 loss : 12.238 NLL : -12.238 
+iteration : 29800 loss : 19.961 NLL : -19.961 
+iteration : 30000 loss : 14.522 NLL : -14.522 
+---------- Training loss 13.478 updated ! and save the model! (step:30000) ----------
+---------- Training loss 12.792 updated ! and save the model! (step:30020) ----------
+---------- Training loss 11.694 updated ! and save the model! (step:30085) ----------
+---------- Training loss 11.677 updated ! and save the model! (step:30175) ----------
+iteration : 30200 loss : 6.421 NLL : -6.421 
+iteration : 30400 loss : 10.922 NLL : -10.922 
+---------- Training loss 10.924 updated ! and save the model! (step:30405) ----------
+iteration : 30600 loss : 15.925 NLL : -15.925 
+---------- Training loss 10.522 updated ! and save the model! (step:30605) ----------
+iteration : 30800 loss : 12.733 NLL : -12.733 
+iteration : 31000 loss : 15.750 NLL : -15.750 
+iteration : 31200 loss : 17.093 NLL : -17.093 
+iteration : 31400 loss : 15.096 NLL : -15.096 
+iteration : 31600 loss : 17.182 NLL : -17.182 
+iteration : 31800 loss : 14.790 NLL : -14.790 
+iteration : 32000 loss : 16.697 NLL : -16.697 
+---------- Training loss 8.473 updated ! and save the model! (step:32155) ----------
+iteration : 32200 loss : 17.509 NLL : -17.509 
+iteration : 32400 loss : 12.609 NLL : -12.609 
+iteration : 32600 loss : 13.227 NLL : -13.227 
+iteration : 32800 loss : 14.473 NLL : -14.473 
+iteration : 33000 loss : 16.721 NLL : -16.721 
+iteration : 33200 loss : 11.104 NLL : -11.104 
+iteration : 33400 loss : 20.346 NLL : -20.346 
+iteration : 33600 loss : 17.107 NLL : -17.107 
+iteration : 33800 loss : 12.643 NLL : -12.643 
+iteration : 34000 loss : 12.778 NLL : -12.778 
+iteration : 34200 loss : 13.405 NLL : -13.405 
+iteration : 34400 loss : 10.599 NLL : -10.599 
+iteration : 34600 loss : 14.432 NLL : -14.432 
+iteration : 34800 loss : 22.818 NLL : -22.818 
+iteration : 35000 loss : 20.956 NLL : -20.956 
+iteration : 35200 loss : 8.625 NLL : -8.625 
+iteration : 35400 loss : 13.106 NLL : -13.106 
+iteration : 35600 loss : 8.323 NLL : -8.323 
+iteration : 35800 loss : 15.821 NLL : -15.821 
+iteration : 36000 loss : 14.672 NLL : -14.672 
+iteration : 36200 loss : 17.589 NLL : -17.589 
+iteration : 36400 loss : 17.169 NLL : -17.169 
+iteration : 36600 loss : 16.525 NLL : -16.525 
+iteration : 36800 loss : 16.906 NLL : -16.906 
+iteration : 37000 loss : 19.433 NLL : -19.433 
+iteration : 37200 loss : 17.108 NLL : -17.108 
+iteration : 37400 loss : 17.242 NLL : -17.242 
+iteration : 37600 loss : 15.744 NLL : -15.744 
+iteration : 37800 loss : 16.938 NLL : -16.938 
+iteration : 38000 loss : 18.861 NLL : -18.861 
+iteration : 38200 loss : 20.871 NLL : -20.871 
+iteration : 38400 loss : 16.482 NLL : -16.482 
+iteration : 38600 loss : 12.935 NLL : -12.935 
+iteration : 38800 loss : 13.137 NLL : -13.137 
+iteration : 39000 loss : 13.341 NLL : -13.341 
+iteration : 39200 loss : 17.500 NLL : -17.500 
+iteration : 39400 loss : 17.390 NLL : -17.390 
+iteration : 39600 loss : 18.560 NLL : -18.560 
+iteration : 39800 loss : 12.806 NLL : -12.806 
+iteration : 40000 loss : 20.484 NLL : -20.484 
+---------- Training loss 16.506 updated ! and save the model! (step:40000) ----------
+---------- Training loss 14.917 updated ! and save the model! (step:40005) ----------
+---------- Training loss 11.832 updated ! and save the model! (step:40010) ----------
+---------- Training loss 11.337 updated ! and save the model! (step:40045) ----------
+---------- Training loss 11.188 updated ! and save the model! (step:40185) ----------
+iteration : 40200 loss : 8.311 NLL : -8.311 
+iteration : 40400 loss : 14.979 NLL : -14.979 
+---------- Training loss 9.832 updated ! and save the model! (step:40435) ----------
+iteration : 40600 loss : 15.763 NLL : -15.763 
+iteration : 40800 loss : 17.619 NLL : -17.619 
+iteration : 41000 loss : 8.827 NLL : -8.827 
+iteration : 41200 loss : 12.156 NLL : -12.156 
+---------- Training loss 9.730 updated ! and save the model! (step:41200) ----------
+iteration : 41400 loss : 17.604 NLL : -17.604 
+iteration : 41600 loss : 11.404 NLL : -11.404 
+iteration : 41800 loss : 10.364 NLL : -10.364 
+iteration : 42000 loss : 10.415 NLL : -10.415 
+iteration : 42200 loss : 12.994 NLL : -12.994 
+iteration : 42400 loss : 17.175 NLL : -17.175 
+---------- Training loss 9.541 updated ! and save the model! (step:42410) ----------
+iteration : 42600 loss : 15.541 NLL : -15.541 
+iteration : 42800 loss : 16.560 NLL : -16.560 
+iteration : 43000 loss : 12.927 NLL : -12.927 
+iteration : 43200 loss : 11.142 NLL : -11.142 
+iteration : 43400 loss : 16.019 NLL : -16.019 
+iteration : 43600 loss : 15.364 NLL : -15.364 
+---------- Training loss 8.987 updated ! and save the model! (step:43620) ----------
+iteration : 43800 loss : 14.964 NLL : -14.964 
+iteration : 44000 loss : 14.374 NLL : -14.374 
+iteration : 44200 loss : 16.937 NLL : -16.937 
+iteration : 44400 loss : 17.676 NLL : -17.676 
+iteration : 44600 loss : 7.919 NLL : -7.919 
+iteration : 44800 loss : 6.972 NLL : -6.972 
+iteration : 45000 loss : 19.501 NLL : -19.501 
+iteration : 45200 loss : 14.812 NLL : -14.812 
+iteration : 45400 loss : 10.862 NLL : -10.862 
+iteration : 45600 loss : 8.309 NLL : -8.309 
+iteration : 45800 loss : 16.634 NLL : -16.634 
+iteration : 46000 loss : 14.621 NLL : -14.621 
+iteration : 46200 loss : 6.065 NLL : -6.065 
+---------- Training loss 8.644 updated ! and save the model! (step:46370) ----------
+iteration : 46400 loss : 16.774 NLL : -16.774 
+iteration : 46600 loss : 10.825 NLL : -10.825 
+iteration : 46800 loss : 16.006 NLL : -16.006 
+iteration : 47000 loss : 11.782 NLL : -11.782 
+iteration : 47200 loss : 14.614 NLL : -14.614 
+iteration : 47400 loss : 9.614 NLL : -9.614 
+iteration : 47600 loss : 15.528 NLL : -15.528 
+iteration : 47800 loss : 15.949 NLL : -15.949 
+iteration : 48000 loss : 7.606 NLL : -7.606 
+iteration : 48200 loss : 12.194 NLL : -12.194 
+iteration : 48400 loss : 15.583 NLL : -15.583 
+iteration : 48600 loss : 9.018 NLL : -9.018 
+iteration : 48800 loss : 15.343 NLL : -15.343 
+iteration : 49000 loss : 15.151 NLL : -15.151 
+iteration : 49200 loss : 16.198 NLL : -16.198 
+iteration : 49400 loss : 14.978 NLL : -14.978 
+iteration : 49600 loss : 12.037 NLL : -12.037 
+iteration : 49800 loss : 14.556 NLL : -14.556 
+iteration : 50000 loss : 12.411 NLL : -12.411 
+---------- Training loss 12.060 updated ! and save the model! (step:50000) ----------
+---------- Training loss 10.382 updated ! and save the model! (step:50045) ----------
+---------- Training loss 10.375 updated ! and save the model! (step:50175) ----------
+iteration : 50200 loss : 15.371 NLL : -15.371 
+iteration : 50400 loss : 12.811 NLL : -12.811 
+---------- Training loss 9.545 updated ! and save the model! (step:50420) ----------
+iteration : 50600 loss : 13.871 NLL : -13.871 
+iteration : 50800 loss : 18.581 NLL : -18.581 
+iteration : 51000 loss : 9.784 NLL : -9.784 
+iteration : 51200 loss : 12.346 NLL : -12.346 
+iteration : 51400 loss : 13.059 NLL : -13.059 
+iteration : 51600 loss : 14.504 NLL : -14.504 
+iteration : 51800 loss : 16.312 NLL : -16.312 
+iteration : 52000 loss : 13.795 NLL : -13.795 
+iteration : 52200 loss : 15.161 NLL : -15.161 
+iteration : 52400 loss : 9.991 NLL : -9.991 
+iteration : 52600 loss : 16.705 NLL : -16.705 
+iteration : 52800 loss : 11.232 NLL : -11.232 
+iteration : 53000 loss : 12.220 NLL : -12.220 
+iteration : 53200 loss : 10.879 NLL : -10.879 
+iteration : 53400 loss : 9.931 NLL : -9.931 
+iteration : 53600 loss : 14.250 NLL : -14.250 
+---------- Training loss 9.437 updated ! and save the model! (step:53750) ----------
+iteration : 53800 loss : 7.486 NLL : -7.486 
+iteration : 54000 loss : 14.434 NLL : -14.434 
+iteration : 54200 loss : 12.803 NLL : -12.803 
+iteration : 54400 loss : 14.396 NLL : -14.396 
+iteration : 54600 loss : 14.066 NLL : -14.066 
+iteration : 54800 loss : 15.739 NLL : -15.739 
+iteration : 55000 loss : 12.317 NLL : -12.317 
+iteration : 55200 loss : 11.635 NLL : -11.635 
+iteration : 55400 loss : 9.720 NLL : -9.720 
+iteration : 55600 loss : 12.391 NLL : -12.391 
+iteration : 55800 loss : 13.410 NLL : -13.410 
+iteration : 56000 loss : 15.476 NLL : -15.476 
+iteration : 56200 loss : 14.146 NLL : -14.146 
+---------- Training loss 9.262 updated ! and save the model! (step:56245) ----------
+iteration : 56400 loss : 15.197 NLL : -15.197 
+iteration : 56600 loss : 17.103 NLL : -17.103 
+iteration : 56800 loss : 12.155 NLL : -12.155 
+iteration : 57000 loss : 21.015 NLL : -21.015 
+---------- Training loss 9.034 updated ! and save the model! (step:57160) ----------
+iteration : 57200 loss : 14.444 NLL : -14.444 
+iteration : 57400 loss : 12.764 NLL : -12.764 
+iteration : 57600 loss : 14.204 NLL : -14.204 
+iteration : 57800 loss : 12.811 NLL : -12.811 
+iteration : 58000 loss : 14.331 NLL : -14.331 
+iteration : 58200 loss : 14.594 NLL : -14.594 
+iteration : 58400 loss : 15.304 NLL : -15.304 
+iteration : 58600 loss : 16.460 NLL : -16.460 
+iteration : 58800 loss : 6.282 NLL : -6.282 
+iteration : 59000 loss : 17.561 NLL : -17.561 
+iteration : 59200 loss : 11.281 NLL : -11.281 
+iteration : 59400 loss : 12.671 NLL : -12.671 
+iteration : 59600 loss : 15.214 NLL : -15.214 
+iteration : 59800 loss : 13.779 NLL : -13.779 
+---------- Training loss 8.372 updated ! and save the model! (step:59950) ----------
+iteration : 60000 loss : 9.622 NLL : -9.622 
+---------- Training loss 13.794 updated ! and save the model! (step:60000) ----------
+---------- Training loss 12.776 updated ! and save the model! (step:60005) ----------
+---------- Training loss 11.493 updated ! and save the model! (step:60035) ----------
+---------- Training loss 10.184 updated ! and save the model! (step:60045) ----------
+iteration : 60200 loss : 16.152 NLL : -16.152 
+---------- Training loss 10.021 updated ! and save the model! (step:60335) ----------
+---------- Training loss 9.891 updated ! and save the model! (step:60350) ----------
+iteration : 60400 loss : 14.069 NLL : -14.069 
+iteration : 60600 loss : 10.138 NLL : -10.138 
+---------- Training loss 9.825 updated ! and save the model! (step:60635) ----------
+---------- Training loss 9.653 updated ! and save the model! (step:60640) ----------
+iteration : 60800 loss : 16.004 NLL : -16.004 
+iteration : 61000 loss : 13.942 NLL : -13.942 
+iteration : 61200 loss : 9.300 NLL : -9.300 
+iteration : 61400 loss : 17.246 NLL : -17.246 
+---------- Training loss 9.209 updated ! and save the model! (step:61495) ----------
+iteration : 61600 loss : 17.879 NLL : -17.879 
+iteration : 61800 loss : 14.889 NLL : -14.889 
+---------- Training loss 8.568 updated ! and save the model! (step:61915) ----------
+iteration : 62000 loss : 13.216 NLL : -13.216 
+iteration : 62200 loss : 15.233 NLL : -15.233 
+iteration : 62400 loss : 8.637 NLL : -8.637 
+iteration : 62600 loss : 17.335 NLL : -17.335 
+iteration : 62800 loss : 9.411 NLL : -9.411 
+iteration : 63000 loss : 9.586 NLL : -9.586 
+iteration : 63200 loss : 10.220 NLL : -10.220 
+iteration : 63400 loss : 11.937 NLL : -11.937 
+iteration : 63600 loss : 10.831 NLL : -10.831 
+iteration : 63800 loss : 11.539 NLL : -11.539 
+iteration : 64000 loss : 15.290 NLL : -15.290 
+iteration : 64200 loss : 14.762 NLL : -14.762 
+---------- Training loss 8.440 updated ! and save the model! (step:64250) ----------
+iteration : 64400 loss : 7.737 NLL : -7.737 
+iteration : 64600 loss : 14.284 NLL : -14.284 
+iteration : 64800 loss : 11.400 NLL : -11.400 
+iteration : 65000 loss : 11.804 NLL : -11.804 
+iteration : 65200 loss : 14.896 NLL : -14.896 
+iteration : 65400 loss : 13.003 NLL : -13.003 
+iteration : 65600 loss : 13.488 NLL : -13.488 
+iteration : 65800 loss : 12.592 NLL : -12.592 
+iteration : 66000 loss : 12.366 NLL : -12.366 
+iteration : 66200 loss : 12.603 NLL : -12.603 
+iteration : 66400 loss : 16.805 NLL : -16.805 
+iteration : 66600 loss : 13.854 NLL : -13.854 
+iteration : 66800 loss : 13.552 NLL : -13.552 
+iteration : 67000 loss : 14.797 NLL : -14.797 
+iteration : 67200 loss : 15.423 NLL : -15.423 
+iteration : 67400 loss : 13.768 NLL : -13.768 
+iteration : 67600 loss : 7.949 NLL : -7.949 
+iteration : 67800 loss : 18.425 NLL : -18.425 
+iteration : 68000 loss : 12.256 NLL : -12.256 
+iteration : 68200 loss : 16.970 NLL : -16.970 
+iteration : 68400 loss : 12.140 NLL : -12.140 
+iteration : 68600 loss : 11.915 NLL : -11.915 
+iteration : 68800 loss : 13.369 NLL : -13.369 
+iteration : 69000 loss : 9.889 NLL : -9.889 
+iteration : 69200 loss : 13.106 NLL : -13.106 
+iteration : 69400 loss : 13.252 NLL : -13.252 
+iteration : 69600 loss : 14.388 NLL : -14.388 
+iteration : 69800 loss : 8.412 NLL : -8.412 
+iteration : 70000 loss : 10.196 NLL : -10.196 
+---------- Training loss 12.775 updated ! and save the model! (step:70000) ----------
+---------- Training loss 11.698 updated ! and save the model! (step:70005) ----------
+---------- Training loss 10.624 updated ! and save the model! (step:70010) ----------
+---------- Training loss 9.361 updated ! and save the model! (step:70030) ----------
+iteration : 70200 loss : 13.698 NLL : -13.698 
+iteration : 70400 loss : 12.265 NLL : -12.265 
+---------- Training loss 9.359 updated ! and save the model! (step:70525) ----------
+iteration : 70600 loss : 7.972 NLL : -7.972 
+---------- Training loss 7.800 updated ! and save the model! (step:70735) ----------
+iteration : 70800 loss : 15.576 NLL : -15.576 
+iteration : 71000 loss : 9.363 NLL : -9.363 
+iteration : 71200 loss : 8.260 NLL : -8.260 
+iteration : 71400 loss : 14.850 NLL : -14.850 
+iteration : 71600 loss : 8.811 NLL : -8.811 
+iteration : 71800 loss : 12.406 NLL : -12.406 
+iteration : 72000 loss : 9.712 NLL : -9.712 
+iteration : 72200 loss : 10.935 NLL : -10.935 
+iteration : 72400 loss : 11.755 NLL : -11.755 
+iteration : 72600 loss : 12.268 NLL : -12.268 
+iteration : 72800 loss : 11.754 NLL : -11.754 
+iteration : 73000 loss : 12.467 NLL : -12.467 
+iteration : 73200 loss : 11.313 NLL : -11.313 
+iteration : 73400 loss : 12.798 NLL : -12.798 
+iteration : 73600 loss : 11.150 NLL : -11.150 
+iteration : 73800 loss : 12.309 NLL : -12.309 
+iteration : 74000 loss : 15.354 NLL : -15.354 
+iteration : 74200 loss : 16.619 NLL : -16.619 
+iteration : 74400 loss : 14.629 NLL : -14.629 
+---------- Training loss 7.245 updated ! and save the model! (step:74445) ----------
+iteration : 74600 loss : 12.665 NLL : -12.665 
+iteration : 74800 loss : 13.781 NLL : -13.781 
+iteration : 75000 loss : 19.777 NLL : -19.777 
+iteration : 75200 loss : 16.443 NLL : -16.443 
+iteration : 75400 loss : 15.928 NLL : -15.928 
+iteration : 75600 loss : 14.172 NLL : -14.172 
+iteration : 75800 loss : 11.505 NLL : -11.505 
+iteration : 76000 loss : 10.231 NLL : -10.231 
+iteration : 76200 loss : 12.922 NLL : -12.922 
+iteration : 76400 loss : 11.254 NLL : -11.254 
+iteration : 76600 loss : 14.139 NLL : -14.139 
+iteration : 76800 loss : 6.317 NLL : -6.317 
+iteration : 77000 loss : 16.382 NLL : -16.382 
+iteration : 77200 loss : 8.131 NLL : -8.131 
+iteration : 77400 loss : 11.968 NLL : -11.968 
+iteration : 77600 loss : 12.452 NLL : -12.452 
+iteration : 77800 loss : 11.165 NLL : -11.165 
+iteration : 78000 loss : 12.705 NLL : -12.705 
+iteration : 78200 loss : 16.605 NLL : -16.605 
+iteration : 78400 loss : 13.108 NLL : -13.108 
+iteration : 78600 loss : 14.059 NLL : -14.059 
+iteration : 78800 loss : 10.396 NLL : -10.396 
+iteration : 79000 loss : 12.873 NLL : -12.873 
+iteration : 79200 loss : 14.130 NLL : -14.130 
+iteration : 79400 loss : 14.203 NLL : -14.203 
+iteration : 79600 loss : 7.688 NLL : -7.688 
+iteration : 79800 loss : 14.098 NLL : -14.098 
+iteration : 80000 loss : 14.171 NLL : -14.171 
+---------- Training loss 12.486 updated ! and save the model! (step:80000) ----------
+---------- Training loss 10.893 updated ! and save the model! (step:80005) ----------
+---------- Training loss 10.170 updated ! and save the model! (step:80020) ----------
+---------- Training loss 9.816 updated ! and save the model! (step:80025) ----------
+---------- Training loss 9.125 updated ! and save the model! (step:80040) ----------
+---------- Training loss 8.343 updated ! and save the model! (step:80045) ----------
+iteration : 80200 loss : 12.478 NLL : -12.478 
+iteration : 80400 loss : 10.379 NLL : -10.379 
+---------- Training loss 8.204 updated ! and save the model! (step:80545) ----------
+iteration : 80600 loss : 13.183 NLL : -13.183 
+iteration : 80800 loss : 11.884 NLL : -11.884 
+iteration : 81000 loss : 14.640 NLL : -14.640 
+iteration : 81200 loss : 12.061 NLL : -12.061 
+iteration : 81400 loss : 12.614 NLL : -12.614 
+iteration : 81600 loss : 13.552 NLL : -13.552 
+iteration : 81800 loss : 12.711 NLL : -12.711 
+---------- Training loss 8.113 updated ! and save the model! (step:81905) ----------
+iteration : 82000 loss : 10.153 NLL : -10.153 
+iteration : 82200 loss : 9.843 NLL : -9.843 
+iteration : 82400 loss : 8.128 NLL : -8.128 
+---------- Training loss 8.056 updated ! and save the model! (step:82400) ----------
+iteration : 82600 loss : 15.174 NLL : -15.174 
+iteration : 82800 loss : 14.296 NLL : -14.296 
+iteration : 83000 loss : 16.332 NLL : -16.332 
+iteration : 83200 loss : 8.868 NLL : -8.868 
+iteration : 83400 loss : 12.785 NLL : -12.785 
+---------- Training loss 7.820 updated ! and save the model! (step:83545) ----------
+iteration : 83600 loss : 11.029 NLL : -11.029 
+iteration : 83800 loss : 15.022 NLL : -15.022 
+iteration : 84000 loss : 12.358 NLL : -12.358 
+iteration : 84200 loss : 12.674 NLL : -12.674 
+iteration : 84400 loss : 8.503 NLL : -8.503 
+iteration : 84600 loss : 9.218 NLL : -9.218 
+iteration : 84800 loss : 14.211 NLL : -14.211 
+iteration : 85000 loss : 9.654 NLL : -9.654 
+iteration : 85200 loss : 5.434 NLL : -5.434 
+iteration : 85400 loss : 12.874 NLL : -12.874 
+iteration : 85600 loss : 6.296 NLL : -6.296 
+iteration : 85800 loss : 13.646 NLL : -13.646 
+---------- Training loss 7.315 updated ! and save the model! (step:85875) ----------
+iteration : 86000 loss : 13.556 NLL : -13.556 
+iteration : 86200 loss : 14.044 NLL : -14.044 
+iteration : 86400 loss : 6.380 NLL : -6.380 
+iteration : 86600 loss : 14.460 NLL : -14.460 
+iteration : 86800 loss : 14.987 NLL : -14.987 
+iteration : 87000 loss : 14.661 NLL : -14.661 
+iteration : 87200 loss : 15.465 NLL : -15.465 
+iteration : 87400 loss : 10.083 NLL : -10.083 
+iteration : 87600 loss : 9.709 NLL : -9.709 
+iteration : 87800 loss : 14.609 NLL : -14.609 
+iteration : 88000 loss : 6.868 NLL : -6.868 
+iteration : 88200 loss : 10.787 NLL : -10.787 
+iteration : 88400 loss : 12.670 NLL : -12.670 
+iteration : 88600 loss : 14.592 NLL : -14.592 
+iteration : 88800 loss : 9.150 NLL : -9.150 
+iteration : 89000 loss : 7.457 NLL : -7.457 
+iteration : 89200 loss : 12.131 NLL : -12.131 
+iteration : 89400 loss : 12.615 NLL : -12.615 
+iteration : 89600 loss : 7.722 NLL : -7.722 
+iteration : 89800 loss : 16.218 NLL : -16.218 
+iteration : 90000 loss : 5.342 NLL : -5.342 
+---------- Training loss 10.770 updated ! and save the model! (step:90000) ----------
+---------- Training loss 10.731 updated ! and save the model! (step:90005) ----------
+---------- Training loss 9.999 updated ! and save the model! (step:90020) ----------
+---------- Training loss 9.872 updated ! and save the model! (step:90035) ----------
+---------- Training loss 9.161 updated ! and save the model! (step:90055) ----------
+---------- Training loss 9.110 updated ! and save the model! (step:90060) ----------
+iteration : 90200 loss : 10.128 NLL : -10.128 
+---------- Training loss 9.054 updated ! and save the model! (step:90220) ----------
+---------- Training loss 8.806 updated ! and save the model! (step:90275) ----------
+---------- Training loss 7.492 updated ! and save the model! (step:90295) ----------
+iteration : 90400 loss : 11.314 NLL : -11.314 
+iteration : 90600 loss : 6.658 NLL : -6.658 
+iteration : 90800 loss : 8.923 NLL : -8.923 
+---------- Training loss 7.219 updated ! and save the model! (step:90800) ----------
+iteration : 91000 loss : 9.262 NLL : -9.262 
+iteration : 91200 loss : 6.487 NLL : -6.487 
+iteration : 91400 loss : 8.507 NLL : -8.507 
+iteration : 91600 loss : 8.242 NLL : -8.242 
+iteration : 91800 loss : 13.731 NLL : -13.731 
+iteration : 92000 loss : 13.683 NLL : -13.683 
+iteration : 92200 loss : 10.660 NLL : -10.660 
+iteration : 92400 loss : 5.336 NLL : -5.336 
+iteration : 92600 loss : 13.194 NLL : -13.194 
+iteration : 92800 loss : 14.084 NLL : -14.084 
+iteration : 93000 loss : 11.554 NLL : -11.554 
+iteration : 93200 loss : 12.553 NLL : -12.553 
+iteration : 93400 loss : 11.185 NLL : -11.185 
+iteration : 93600 loss : 10.158 NLL : -10.158 
+iteration : 93800 loss : 11.120 NLL : -11.120 
+iteration : 94000 loss : 6.832 NLL : -6.832 
+iteration : 94200 loss : 14.151 NLL : -14.151 
+iteration : 94400 loss : 9.013 NLL : -9.013 
+iteration : 94600 loss : 9.107 NLL : -9.107 
+iteration : 94800 loss : 10.072 NLL : -10.072 
+iteration : 95000 loss : 12.173 NLL : -12.173 
+iteration : 95200 loss : 19.548 NLL : -19.548 
+iteration : 95400 loss : 13.858 NLL : -13.858 
+iteration : 95600 loss : 16.792 NLL : -16.792 
+iteration : 95800 loss : 10.836 NLL : -10.836 
+iteration : 96000 loss : 5.219 NLL : -5.219 
+iteration : 96200 loss : 13.721 NLL : -13.721 
+iteration : 96400 loss : 8.592 NLL : -8.592 
+iteration : 96600 loss : 13.722 NLL : -13.722 
+iteration : 96800 loss : 10.710 NLL : -10.710 
+iteration : 97000 loss : 7.637 NLL : -7.637 
+iteration : 97200 loss : 11.927 NLL : -11.927 
+iteration : 97400 loss : 11.805 NLL : -11.805 
+iteration : 97600 loss : 11.127 NLL : -11.127 
+iteration : 97800 loss : 15.761 NLL : -15.761 
+iteration : 98000 loss : 13.674 NLL : -13.674 
+iteration : 98200 loss : 8.614 NLL : -8.614 
+iteration : 98400 loss : 9.518 NLL : -9.518 
+iteration : 98600 loss : 13.354 NLL : -13.354 
+iteration : 98800 loss : 8.775 NLL : -8.775 
+iteration : 99000 loss : 8.853 NLL : -8.853 
+iteration : 99200 loss : 12.595 NLL : -12.595 
+iteration : 99400 loss : 6.326 NLL : -6.326 
+iteration : 99600 loss : 10.813 NLL : -10.813 
+iteration : 99800 loss : 9.619 NLL : -9.619 
+iteration : 100000 loss : 11.212 NLL : -11.212 
+---------- Training loss 11.150 updated ! and save the model! (step:100000) ----------
+---------- Training loss 10.825 updated ! and save the model! (step:100015) ----------
+---------- Training loss 8.854 updated ! and save the model! (step:100020) ----------
+---------- Training loss 8.390 updated ! and save the model! (step:100195) ----------
+iteration : 100200 loss : 12.634 NLL : -12.634 
+---------- Training loss 8.115 updated ! and save the model! (step:100305) ----------
+iteration : 100400 loss : 10.730 NLL : -10.730 
+---------- Training loss 8.109 updated ! and save the model! (step:100540) ----------
+iteration : 100600 loss : 10.923 NLL : -10.923 
+iteration : 100800 loss : 11.370 NLL : -11.370 
+iteration : 101000 loss : 19.361 NLL : -19.361 
+iteration : 101200 loss : 8.079 NLL : -8.079 
+---------- Training loss 7.293 updated ! and save the model! (step:101235) ----------
+iteration : 101400 loss : 10.094 NLL : -10.094 
+iteration : 101600 loss : 12.602 NLL : -12.602 
+iteration : 101800 loss : 12.001 NLL : -12.001 
+iteration : 102000 loss : 12.249 NLL : -12.249 
+iteration : 102200 loss : 8.056 NLL : -8.056 
+iteration : 102400 loss : 13.013 NLL : -13.013 
+iteration : 102600 loss : 8.266 NLL : -8.266 
+iteration : 102800 loss : 8.527 NLL : -8.527 
+iteration : 103000 loss : 7.565 NLL : -7.565 
+iteration : 103200 loss : 11.554 NLL : -11.554 
+iteration : 103400 loss : 9.782 NLL : -9.782 
+iteration : 103600 loss : 11.102 NLL : -11.102 
+iteration : 103800 loss : 12.606 NLL : -12.606 
+iteration : 104000 loss : 13.780 NLL : -13.780 
+iteration : 104200 loss : 10.509 NLL : -10.509 
+iteration : 104400 loss : 11.534 NLL : -11.534 
+iteration : 104600 loss : 10.345 NLL : -10.345 
+iteration : 104800 loss : 11.743 NLL : -11.743 
+iteration : 105000 loss : 13.559 NLL : -13.559 
+iteration : 105200 loss : 11.547 NLL : -11.547 
+iteration : 105400 loss : 13.671 NLL : -13.671 
+iteration : 105600 loss : 7.403 NLL : -7.403 
+iteration : 105800 loss : 9.410 NLL : -9.410 
+iteration : 106000 loss : 12.903 NLL : -12.903 
+iteration : 106200 loss : 6.305 NLL : -6.305 
+iteration : 106400 loss : 14.963 NLL : -14.963 
+iteration : 106600 loss : 10.210 NLL : -10.210 
+iteration : 106800 loss : 7.513 NLL : -7.513 
+iteration : 107000 loss : 11.852 NLL : -11.852 
+iteration : 107200 loss : 14.148 NLL : -14.148 
+iteration : 107400 loss : 14.431 NLL : -14.431 
+iteration : 107600 loss : 8.401 NLL : -8.401 
+iteration : 107800 loss : 11.701 NLL : -11.701 
+iteration : 108000 loss : 10.887 NLL : -10.887 
+iteration : 108200 loss : 11.560 NLL : -11.560 
+iteration : 108400 loss : 11.767 NLL : -11.767 
+---------- Training loss 6.695 updated ! and save the model! (step:108590) ----------
+iteration : 108600 loss : 7.940 NLL : -7.940 
+iteration : 108800 loss : 10.076 NLL : -10.076 
+iteration : 109000 loss : 9.730 NLL : -9.730 
+iteration : 109200 loss : 4.782 NLL : -4.782 
+iteration : 109400 loss : 22.963 NLL : -22.963 
+iteration : 109600 loss : 8.845 NLL : -8.845 
+iteration : 109800 loss : 11.989 NLL : -11.989 
+iteration : 110000 loss : 9.002 NLL : -9.002 
+---------- Training loss 8.196 updated ! and save the model! (step:110000) ----------
+---------- Training loss 7.273 updated ! and save the model! (step:110050) ----------
+iteration : 110200 loss : 9.557 NLL : -9.557 
+---------- Training loss 6.892 updated ! and save the model! (step:110235) ----------
+iteration : 110400 loss : 11.277 NLL : -11.277 
+iteration : 110600 loss : 10.158 NLL : -10.158 
+iteration : 110800 loss : 6.439 NLL : -6.439 
+---------- Training loss 6.817 updated ! and save the model! (step:110800) ----------
+iteration : 111000 loss : 10.895 NLL : -10.895 
+iteration : 111200 loss : 11.850 NLL : -11.850 
+iteration : 111400 loss : 9.794 NLL : -9.794 
+iteration : 111600 loss : 13.553 NLL : -13.553 
+iteration : 111800 loss : 12.938 NLL : -12.938 
+iteration : 112000 loss : 9.744 NLL : -9.744 
+iteration : 112200 loss : 10.037 NLL : -10.037 
+iteration : 112400 loss : 13.213 NLL : -13.213 
+iteration : 112600 loss : 13.413 NLL : -13.413 
+iteration : 112800 loss : 10.563 NLL : -10.563 
+iteration : 113000 loss : 11.261 NLL : -11.261 
+iteration : 113200 loss : 12.374 NLL : -12.374 
+iteration : 113400 loss : 11.921 NLL : -11.921 
+iteration : 113600 loss : 8.776 NLL : -8.776 
+iteration : 113800 loss : 9.128 NLL : -9.128 
+iteration : 114000 loss : 10.677 NLL : -10.677 
+iteration : 114200 loss : 14.708 NLL : -14.708 
+iteration : 114400 loss : 11.669 NLL : -11.669 
+iteration : 114600 loss : 10.689 NLL : -10.689 
+iteration : 114800 loss : 12.148 NLL : -12.148 
+iteration : 115000 loss : 13.126 NLL : -13.126 
+iteration : 115200 loss : 10.285 NLL : -10.285 
+iteration : 115400 loss : 7.715 NLL : -7.715 
+iteration : 115600 loss : 10.073 NLL : -10.073 
+iteration : 115800 loss : 13.242 NLL : -13.242 
+iteration : 116000 loss : 6.194 NLL : -6.194 
+iteration : 116200 loss : 7.664 NLL : -7.664 
+iteration : 116400 loss : 8.427 NLL : -8.427 
+iteration : 116600 loss : 9.200 NLL : -9.200 
+iteration : 116800 loss : 14.898 NLL : -14.898 
+iteration : 117000 loss : 12.362 NLL : -12.362 
+iteration : 117200 loss : 9.791 NLL : -9.791 
+iteration : 117400 loss : 9.308 NLL : -9.308 
+iteration : 117600 loss : 15.628 NLL : -15.628 
+iteration : 117800 loss : 5.362 NLL : -5.362 
+iteration : 118000 loss : 13.914 NLL : -13.914 
+iteration : 118200 loss : 11.860 NLL : -11.860 
+iteration : 118400 loss : 8.844 NLL : -8.844 
+iteration : 118600 loss : 5.924 NLL : -5.924 
+iteration : 118800 loss : 7.485 NLL : -7.485 
+iteration : 119000 loss : 10.258 NLL : -10.258 
+iteration : 119200 loss : 16.065 NLL : -16.065 
+iteration : 119400 loss : 13.685 NLL : -13.685 
+iteration : 119600 loss : 7.465 NLL : -7.465 
+iteration : 119800 loss : 12.100 NLL : -12.100 
+iteration : 120000 loss : 14.148 NLL : -14.148 
+---------- Training loss 10.700 updated ! and save the model! (step:120000) ----------
+---------- Training loss 9.962 updated ! and save the model! (step:120005) ----------
+---------- Training loss 9.072 updated ! and save the model! (step:120015) ----------
+---------- Training loss 8.881 updated ! and save the model! (step:120025) ----------
+---------- Training loss 7.899 updated ! and save the model! (step:120035) ----------
+iteration : 120200 loss : 12.231 NLL : -12.231 
+iteration : 120400 loss : 7.038 NLL : -7.038 
+iteration : 120600 loss : 9.056 NLL : -9.056 
+iteration : 120800 loss : 9.106 NLL : -9.106 
+iteration : 121000 loss : 13.284 NLL : -13.284 
+iteration : 121200 loss : 7.926 NLL : -7.926 
+---------- Training loss 7.127 updated ! and save the model! (step:121380) ----------
+iteration : 121400 loss : 8.554 NLL : -8.554 
+iteration : 121600 loss : 11.820 NLL : -11.820 
+iteration : 121800 loss : 7.120 NLL : -7.120 
+iteration : 122000 loss : 11.318 NLL : -11.318 
+iteration : 122200 loss : 7.100 NLL : -7.100 
+iteration : 122400 loss : 10.577 NLL : -10.577 
+iteration : 122600 loss : 4.754 NLL : -4.754 
+iteration : 122800 loss : 12.507 NLL : -12.507 
+iteration : 123000 loss : 11.223 NLL : -11.223 
+iteration : 123200 loss : 12.564 NLL : -12.564 
+---------- Training loss 7.118 updated ! and save the model! (step:123310) ----------
+iteration : 123400 loss : 9.211 NLL : -9.211 
+iteration : 123600 loss : 11.069 NLL : -11.069 
+iteration : 123800 loss : 8.339 NLL : -8.339 
+---------- Training loss 6.909 updated ! and save the model! (step:123995) ----------
+iteration : 124000 loss : 9.073 NLL : -9.073 
+iteration : 124200 loss : 9.980 NLL : -9.980 
+iteration : 124400 loss : 8.658 NLL : -8.658 
+iteration : 124600 loss : 9.969 NLL : -9.969 
+iteration : 124800 loss : 10.373 NLL : -10.373 
+iteration : 125000 loss : 10.340 NLL : -10.340 
+iteration : 125200 loss : 8.696 NLL : -8.696 
+---------- Training loss 6.851 updated ! and save the model! (step:125320) ----------
+iteration : 125400 loss : 9.962 NLL : -9.962 
+---------- Training loss 6.737 updated ! and save the model! (step:125475) ----------
+iteration : 125600 loss : 9.996 NLL : -9.996 
+iteration : 125800 loss : 14.084 NLL : -14.084 
+iteration : 126000 loss : 9.671 NLL : -9.671 
+iteration : 126200 loss : 13.219 NLL : -13.219 
+iteration : 126400 loss : 8.719 NLL : -8.719 
+iteration : 126600 loss : 9.107 NLL : -9.107 
+iteration : 126800 loss : 6.336 NLL : -6.336 
+iteration : 127000 loss : 11.214 NLL : -11.214 
+iteration : 127200 loss : 8.047 NLL : -8.047 
+iteration : 127400 loss : 10.755 NLL : -10.755 
+iteration : 127600 loss : 6.764 NLL : -6.764 
+iteration : 127800 loss : 11.783 NLL : -11.783 
+---------- Training loss 6.586 updated ! and save the model! (step:127870) ----------
+iteration : 128000 loss : 8.850 NLL : -8.850 
+iteration : 128200 loss : 6.493 NLL : -6.493 
+iteration : 128400 loss : 10.361 NLL : -10.361 
+iteration : 128600 loss : 9.573 NLL : -9.573 
+iteration : 128800 loss : 7.925 NLL : -7.925 
+iteration : 129000 loss : 12.087 NLL : -12.087 
+iteration : 129200 loss : 10.365 NLL : -10.365 
+iteration : 129400 loss : 7.982 NLL : -7.982 
+iteration : 129600 loss : 8.597 NLL : -8.597 
+iteration : 129800 loss : 8.517 NLL : -8.517 
+iteration : 130000 loss : 7.571 NLL : -7.571 
+---------- Training loss 10.592 updated ! and save the model! (step:130000) ----------
+---------- Training loss 9.999 updated ! and save the model! (step:130005) ----------
+---------- Training loss 9.245 updated ! and save the model! (step:130020) ----------
+---------- Training loss 9.122 updated ! and save the model! (step:130070) ----------
+---------- Training loss 8.433 updated ! and save the model! (step:130085) ----------
+---------- Training loss 8.152 updated ! and save the model! (step:130140) ----------
+iteration : 130200 loss : 15.747 NLL : -15.747 
+---------- Training loss 6.789 updated ! and save the model! (step:130215) ----------
+iteration : 130400 loss : 13.203 NLL : -13.203 
+---------- Training loss 6.696 updated ! and save the model! (step:130470) ----------
+iteration : 130600 loss : 9.067 NLL : -9.067 
+iteration : 130800 loss : 13.526 NLL : -13.526 
+iteration : 131000 loss : 12.131 NLL : -12.131 
+iteration : 131200 loss : 8.706 NLL : -8.706 
+iteration : 131400 loss : 8.770 NLL : -8.770 
+iteration : 131600 loss : 7.940 NLL : -7.940 
+iteration : 131800 loss : 8.583 NLL : -8.583 
+---------- Training loss 6.597 updated ! and save the model! (step:131920) ----------
+iteration : 132000 loss : 11.649 NLL : -11.649 
+iteration : 132200 loss : 13.257 NLL : -13.257 
+iteration : 132400 loss : 9.075 NLL : -9.075 
+iteration : 132600 loss : 5.473 NLL : -5.473 
+iteration : 132800 loss : 7.473 NLL : -7.473 
+iteration : 133000 loss : 10.062 NLL : -10.062 
+iteration : 133200 loss : 6.742 NLL : -6.742 
+iteration : 133400 loss : 10.118 NLL : -10.118 
+iteration : 133600 loss : 12.930 NLL : -12.930 
+iteration : 133800 loss : 10.351 NLL : -10.351 
+iteration : 134000 loss : 10.432 NLL : -10.432 
+iteration : 134200 loss : 7.941 NLL : -7.941 
+iteration : 134400 loss : 9.924 NLL : -9.924 
+iteration : 134600 loss : 5.182 NLL : -5.182 
+iteration : 134800 loss : 9.504 NLL : -9.504 
+iteration : 135000 loss : 5.637 NLL : -5.637 
+iteration : 135200 loss : 11.963 NLL : -11.963 
+iteration : 135400 loss : 12.367 NLL : -12.367 
+iteration : 135600 loss : 11.240 NLL : -11.240 
+iteration : 135800 loss : 7.100 NLL : -7.100 
+iteration : 136000 loss : 11.059 NLL : -11.059 
+iteration : 136200 loss : 13.835 NLL : -13.835 
+iteration : 136400 loss : 8.845 NLL : -8.845 
+iteration : 136600 loss : 7.942 NLL : -7.942 
+iteration : 136800 loss : 4.833 NLL : -4.833 
+iteration : 137000 loss : 7.310 NLL : -7.310 
+iteration : 137200 loss : 11.583 NLL : -11.583 
+iteration : 137400 loss : 9.342 NLL : -9.342 
+iteration : 137600 loss : 13.731 NLL : -13.731 
+iteration : 137800 loss : 7.372 NLL : -7.372 
+iteration : 138000 loss : 8.550 NLL : -8.550 
+iteration : 138200 loss : 11.032 NLL : -11.032 
+iteration : 138400 loss : 12.686 NLL : -12.686 
+iteration : 138600 loss : 8.562 NLL : -8.562 
+iteration : 138800 loss : 5.518 NLL : -5.518 
+iteration : 139000 loss : 13.446 NLL : -13.446 
+iteration : 139200 loss : 7.760 NLL : -7.760 
+iteration : 139400 loss : 10.073 NLL : -10.073 
+iteration : 139600 loss : 4.103 NLL : -4.103 
+iteration : 139800 loss : 8.340 NLL : -8.340 
+iteration : 140000 loss : 7.168 NLL : -7.168 
+---------- Training loss 10.718 updated ! and save the model! (step:140000) ----------
+---------- Training loss 9.532 updated ! and save the model! (step:140005) ----------
+---------- Training loss 9.371 updated ! and save the model! (step:140010) ----------
+---------- Training loss 8.422 updated ! and save the model! (step:140015) ----------
+---------- Training loss 8.355 updated ! and save the model! (step:140080) ----------
+---------- Training loss 8.246 updated ! and save the model! (step:140085) ----------
+---------- Training loss 7.665 updated ! and save the model! (step:140090) ----------
+---------- Training loss 7.275 updated ! and save the model! (step:140110) ----------
+iteration : 140200 loss : 7.914 NLL : -7.914 
+---------- Training loss 6.836 updated ! and save the model! (step:140250) ----------
+iteration : 140400 loss : 12.463 NLL : -12.463 
+iteration : 140600 loss : 8.421 NLL : -8.421 
+iteration : 140800 loss : 7.005 NLL : -7.005 
+iteration : 141000 loss : 7.495 NLL : -7.495 
+iteration : 141200 loss : 16.557 NLL : -16.557 
+iteration : 141400 loss : 12.265 NLL : -12.265 
+iteration : 141600 loss : 12.295 NLL : -12.295 
+iteration : 141800 loss : 12.707 NLL : -12.707 
+iteration : 142000 loss : 6.218 NLL : -6.218 
+---------- Training loss 6.600 updated ! and save the model! (step:142015) ----------
+iteration : 142200 loss : 8.506 NLL : -8.506 
+---------- Training loss 6.527 updated ! and save the model! (step:142210) ----------
+iteration : 142400 loss : 14.210 NLL : -14.210 
+iteration : 142600 loss : 11.713 NLL : -11.713 
+iteration : 142800 loss : 7.542 NLL : -7.542 
+iteration : 143000 loss : 8.308 NLL : -8.308 
+iteration : 143200 loss : 9.782 NLL : -9.782 
+iteration : 143400 loss : 11.764 NLL : -11.764 
+iteration : 143600 loss : 6.293 NLL : -6.293 
+iteration : 143800 loss : 9.742 NLL : -9.742 
+iteration : 144000 loss : 13.730 NLL : -13.730 
+---------- Training loss 6.492 updated ! and save the model! (step:144005) ----------
+iteration : 144200 loss : 7.590 NLL : -7.590 
+iteration : 144400 loss : 7.222 NLL : -7.222 
+iteration : 144600 loss : 16.582 NLL : -16.582 
+iteration : 144800 loss : 12.185 NLL : -12.185 
+iteration : 145000 loss : 6.984 NLL : -6.984 
+---------- Training loss 6.247 updated ! and save the model! (step:145065) ----------
+iteration : 145200 loss : 8.153 NLL : -8.153 
+iteration : 145400 loss : 8.856 NLL : -8.856 
+iteration : 145600 loss : 7.098 NLL : -7.098 
+iteration : 145800 loss : 10.693 NLL : -10.693 
+iteration : 146000 loss : 9.967 NLL : -9.967 
+iteration : 146200 loss : 9.129 NLL : -9.129 
+iteration : 146400 loss : 9.855 NLL : -9.855 
+iteration : 146600 loss : 5.602 NLL : -5.602 
+iteration : 146800 loss : 7.139 NLL : -7.139 
+iteration : 147000 loss : 6.502 NLL : -6.502 
+iteration : 147200 loss : 14.290 NLL : -14.290 
+iteration : 147400 loss : 8.836 NLL : -8.836 
+iteration : 147600 loss : 12.380 NLL : -12.380 
+iteration : 147800 loss : 9.304 NLL : -9.304 
+iteration : 148000 loss : 5.756 NLL : -5.756 
+iteration : 148200 loss : 9.086 NLL : -9.086 
+iteration : 148400 loss : 9.349 NLL : -9.349 
+iteration : 148600 loss : 7.496 NLL : -7.496 
+iteration : 148800 loss : 9.391 NLL : -9.391 
+iteration : 149000 loss : 10.829 NLL : -10.829 
+iteration : 149200 loss : 13.475 NLL : -13.475 
+iteration : 149400 loss : 7.730 NLL : -7.730 
+iteration : 149600 loss : 7.884 NLL : -7.884 
+iteration : 149800 loss : 6.470 NLL : -6.470 
+iteration : 150000 loss : 12.044 NLL : -12.044 
+---------- Training loss 9.599 updated ! and save the model! (step:150000) ----------
+---------- Training loss 9.453 updated ! and save the model! (step:150005) ----------
+---------- Training loss 8.571 updated ! and save the model! (step:150010) ----------
+---------- Training loss 8.358 updated ! and save the model! (step:150045) ----------
+---------- Training loss 8.288 updated ! and save the model! (step:150050) ----------
+---------- Training loss 7.530 updated ! and save the model! (step:150055) ----------
+iteration : 150200 loss : 4.805 NLL : -4.805 
+---------- Training loss 6.948 updated ! and save the model! (step:150285) ----------
+---------- Training loss 6.573 updated ! and save the model! (step:150385) ----------
+iteration : 150400 loss : 6.226 NLL : -6.226 
+iteration : 150600 loss : 8.981 NLL : -8.981 
+iteration : 150800 loss : 9.170 NLL : -9.170 
+iteration : 151000 loss : 14.274 NLL : -14.274 
+iteration : 151200 loss : 8.261 NLL : -8.261 
+iteration : 151400 loss : 5.897 NLL : -5.897 
+iteration : 151600 loss : 6.567 NLL : -6.567 
+---------- Training loss 6.372 updated ! and save the model! (step:151730) ----------
+iteration : 151800 loss : 7.238 NLL : -7.238 
+iteration : 152000 loss : 9.496 NLL : -9.496 
+iteration : 152200 loss : 9.304 NLL : -9.304 
+iteration : 152400 loss : 4.967 NLL : -4.967 
+---------- Training loss 5.733 updated ! and save the model! (step:152435) ----------
+iteration : 152600 loss : 12.186 NLL : -12.186 
+iteration : 152800 loss : 20.273 NLL : -20.273 
+iteration : 153000 loss : 9.555 NLL : -9.555 
+iteration : 153200 loss : 9.124 NLL : -9.124 
+iteration : 153400 loss : 13.323 NLL : -13.323 
+iteration : 153600 loss : 9.835 NLL : -9.835 
+iteration : 153800 loss : 12.427 NLL : -12.427 
+iteration : 154000 loss : 12.328 NLL : -12.328 
+iteration : 154200 loss : 10.162 NLL : -10.162 
+iteration : 154400 loss : 10.998 NLL : -10.998 
+iteration : 154600 loss : 9.885 NLL : -9.885 
+iteration : 154800 loss : 13.105 NLL : -13.105 
+iteration : 155000 loss : 13.194 NLL : -13.194 
+iteration : 155200 loss : 7.112 NLL : -7.112 
+iteration : 155400 loss : 7.401 NLL : -7.401 
+---------- Training loss 5.666 updated ! and save the model! (step:155510) ----------
+iteration : 155600 loss : 12.164 NLL : -12.164 
+iteration : 155800 loss : 8.919 NLL : -8.919 
+iteration : 156000 loss : 8.819 NLL : -8.819 
+iteration : 156200 loss : 13.057 NLL : -13.057 
+iteration : 156400 loss : 11.905 NLL : -11.905 
+iteration : 156600 loss : 8.070 NLL : -8.070 
+iteration : 156800 loss : 10.396 NLL : -10.396 
+iteration : 157000 loss : 8.831 NLL : -8.831 
+iteration : 157200 loss : 9.806 NLL : -9.806 
+iteration : 157400 loss : 8.711 NLL : -8.711 
+iteration : 157600 loss : 6.067 NLL : -6.067 
+iteration : 157800 loss : 9.967 NLL : -9.967 
+iteration : 158000 loss : 8.933 NLL : -8.933 
+iteration : 158200 loss : 12.983 NLL : -12.983 
+iteration : 158400 loss : 6.451 NLL : -6.451 
+iteration : 158600 loss : 10.267 NLL : -10.267 
+iteration : 158800 loss : 13.765 NLL : -13.765 
+iteration : 159000 loss : 7.322 NLL : -7.322 
+iteration : 159200 loss : 8.810 NLL : -8.810 
+iteration : 159400 loss : 7.976 NLL : -7.976 
+iteration : 159600 loss : 5.664 NLL : -5.664 
+iteration : 159800 loss : 11.717 NLL : -11.717 
+iteration : 160000 loss : 7.810 NLL : -7.810 
+---------- Training loss 8.545 updated ! and save the model! (step:160000) ----------
+---------- Training loss 8.006 updated ! and save the model! (step:160005) ----------
+---------- Training loss 7.883 updated ! and save the model! (step:160015) ----------
+---------- Training loss 7.328 updated ! and save the model! (step:160025) ----------
+---------- Training loss 7.171 updated ! and save the model! (step:160050) ----------
+---------- Training loss 6.421 updated ! and save the model! (step:160100) ----------
+iteration : 160200 loss : 9.815 NLL : -9.815 
+---------- Training loss 6.404 updated ! and save the model! (step:160385) ----------
+iteration : 160400 loss : 7.969 NLL : -7.969 
+iteration : 160600 loss : 8.825 NLL : -8.825 
+---------- Training loss 6.020 updated ! and save the model! (step:160645) ----------
+iteration : 160800 loss : 10.140 NLL : -10.140 
+iteration : 161000 loss : 9.159 NLL : -9.159 
+iteration : 161200 loss : 9.550 NLL : -9.550 
+iteration : 161400 loss : 8.971 NLL : -8.971 
+iteration : 161600 loss : 7.999 NLL : -7.999 
+iteration : 161800 loss : 9.639 NLL : -9.639 
+iteration : 162000 loss : 9.722 NLL : -9.722 
+iteration : 162200 loss : 10.625 NLL : -10.625 
+iteration : 162400 loss : 9.320 NLL : -9.320 
+iteration : 162600 loss : 9.854 NLL : -9.854 
+iteration : 162800 loss : 7.782 NLL : -7.782 
+iteration : 163000 loss : 11.186 NLL : -11.186 
+iteration : 163200 loss : 10.030 NLL : -10.030 
+iteration : 163400 loss : 13.312 NLL : -13.312 
+iteration : 163600 loss : 8.061 NLL : -8.061 
+iteration : 163800 loss : 8.902 NLL : -8.902 
+---------- Training loss 5.872 updated ! and save the model! (step:163950) ----------
+iteration : 164000 loss : 5.830 NLL : -5.830 
+iteration : 164200 loss : 10.842 NLL : -10.842 
+iteration : 164400 loss : 8.230 NLL : -8.230 
+iteration : 164600 loss : 7.459 NLL : -7.459 
+iteration : 164800 loss : 4.779 NLL : -4.779 
+iteration : 165000 loss : 4.184 NLL : -4.184 
+iteration : 165200 loss : 10.193 NLL : -10.193 
+iteration : 165400 loss : 5.087 NLL : -5.087 
+iteration : 165600 loss : 12.577 NLL : -12.577 
+iteration : 165800 loss : 10.558 NLL : -10.558 
+iteration : 166000 loss : 11.862 NLL : -11.862 
+iteration : 166200 loss : 7.371 NLL : -7.371 
+iteration : 166400 loss : 12.634 NLL : -12.634 
+iteration : 166600 loss : 12.327 NLL : -12.327 
+iteration : 166800 loss : 7.422 NLL : -7.422 
+iteration : 167000 loss : 10.116 NLL : -10.116 
+iteration : 167200 loss : 10.117 NLL : -10.117 
+iteration : 167400 loss : 10.823 NLL : -10.823 
+iteration : 167600 loss : 11.098 NLL : -11.098 
+iteration : 167800 loss : 11.314 NLL : -11.314 
+iteration : 168000 loss : 4.040 NLL : -4.040 
+iteration : 168200 loss : 8.883 NLL : -8.883 
+iteration : 168400 loss : 4.966 NLL : -4.966 
+iteration : 168600 loss : 8.678 NLL : -8.678 
+iteration : 168800 loss : 9.620 NLL : -9.620 
+iteration : 169000 loss : 7.771 NLL : -7.771 
+iteration : 169200 loss : 9.253 NLL : -9.253 
+iteration : 169400 loss : 4.516 NLL : -4.516 
+iteration : 169600 loss : 9.432 NLL : -9.432 
+iteration : 169800 loss : 6.621 NLL : -6.621 
+iteration : 170000 loss : 8.419 NLL : -8.419 
+---------- Training loss 8.797 updated ! and save the model! (step:170000) ----------
+---------- Training loss 8.195 updated ! and save the model! (step:170010) ----------
+---------- Training loss 7.861 updated ! and save the model! (step:170015) ----------
+---------- Training loss 7.527 updated ! and save the model! (step:170020) ----------
+---------- Training loss 6.523 updated ! and save the model! (step:170050) ----------
+---------- Training loss 5.524 updated ! and save the model! (step:170195) ----------
+iteration : 170200 loss : 9.912 NLL : -9.912 
+iteration : 170400 loss : 5.985 NLL : -5.985 
+iteration : 170600 loss : 9.024 NLL : -9.024 
+iteration : 170800 loss : 12.940 NLL : -12.940 
+iteration : 171000 loss : 6.923 NLL : -6.923 
+iteration : 171200 loss : 6.493 NLL : -6.493 
+iteration : 171400 loss : 7.501 NLL : -7.501 
+iteration : 171600 loss : 7.679 NLL : -7.679 
+iteration : 171800 loss : 11.509 NLL : -11.509 
+iteration : 172000 loss : 5.373 NLL : -5.373 
+iteration : 172200 loss : 8.991 NLL : -8.991 
+iteration : 172400 loss : 9.800 NLL : -9.800 
+iteration : 172600 loss : 8.935 NLL : -8.935 
+iteration : 172800 loss : 12.818 NLL : -12.818 
+iteration : 173000 loss : 8.839 NLL : -8.839 
+iteration : 173200 loss : 12.231 NLL : -12.231 
+iteration : 173400 loss : 11.177 NLL : -11.177 
+iteration : 173600 loss : 5.909 NLL : -5.909 
+iteration : 173800 loss : 6.610 NLL : -6.610 
+iteration : 174000 loss : 7.185 NLL : -7.185 
+iteration : 174200 loss : 10.463 NLL : -10.463 
+iteration : 174400 loss : 6.820 NLL : -6.820 
+iteration : 174600 loss : 10.004 NLL : -10.004 
+iteration : 174800 loss : 5.844 NLL : -5.844 
+iteration : 175000 loss : 7.973 NLL : -7.973 
+iteration : 175200 loss : 11.543 NLL : -11.543 
+iteration : 175400 loss : 8.654 NLL : -8.654 
+iteration : 175600 loss : 7.076 NLL : -7.076 
+iteration : 175800 loss : 11.369 NLL : -11.369 
+iteration : 176000 loss : 5.548 NLL : -5.548 
+iteration : 176200 loss : 10.931 NLL : -10.931 
+iteration : 176400 loss : 8.292 NLL : -8.292 
+iteration : 176600 loss : 8.165 NLL : -8.165 
+iteration : 176800 loss : 11.016 NLL : -11.016 
+iteration : 177000 loss : 10.037 NLL : -10.037 
+iteration : 177200 loss : 12.683 NLL : -12.683 
+iteration : 177400 loss : 8.066 NLL : -8.066 
+iteration : 177600 loss : 7.304 NLL : -7.304 
+iteration : 177800 loss : 5.253 NLL : -5.253 
+iteration : 178000 loss : 9.262 NLL : -9.262 
+iteration : 178200 loss : 8.654 NLL : -8.654 
+iteration : 178400 loss : 8.221 NLL : -8.221 
+iteration : 178600 loss : 7.970 NLL : -7.970 
+iteration : 178800 loss : 11.016 NLL : -11.016 
+iteration : 179000 loss : 6.145 NLL : -6.145 
+iteration : 179200 loss : 12.259 NLL : -12.259 
+iteration : 179400 loss : 7.374 NLL : -7.374 
+iteration : 179600 loss : 11.803 NLL : -11.803 
+iteration : 179800 loss : 9.847 NLL : -9.847 
+iteration : 180000 loss : 7.280 NLL : -7.280 
+---------- Training loss 7.196 updated ! and save the model! (step:180000) ----------
+---------- Training loss 6.717 updated ! and save the model! (step:180010) ----------
+---------- Training loss 6.653 updated ! and save the model! (step:180125) ----------
+---------- Training loss 6.631 updated ! and save the model! (step:180160) ----------
+iteration : 180200 loss : 8.263 NLL : -8.263 
+iteration : 180400 loss : 7.080 NLL : -7.080 
+iteration : 180600 loss : 5.687 NLL : -5.687 
+---------- Training loss 5.370 updated ! and save the model! (step:180700) ----------
+iteration : 180800 loss : 10.726 NLL : -10.726 
+iteration : 181000 loss : 4.223 NLL : -4.223 
+iteration : 181200 loss : 8.449 NLL : -8.449 
+iteration : 181400 loss : 7.425 NLL : -7.425 
+iteration : 181600 loss : 5.359 NLL : -5.359 
+iteration : 181800 loss : 7.101 NLL : -7.101 
+iteration : 182000 loss : 11.360 NLL : -11.360 /home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/mgyukim/anaconda3/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+
+iteration : 182200 loss : 9.659 NLL : -9.659 
+iteration : 182400 loss : 4.396 NLL : -4.396 
+iteration : 182600 loss : 7.444 NLL : -7.444 
+iteration : 182800 loss : 8.772 NLL : -8.772 
+iteration : 183000 loss : 5.797 NLL : -5.797 
+iteration : 183200 loss : 9.642 NLL : -9.642 
+iteration : 183400 loss : 8.209 NLL : -8.209 
+iteration : 183600 loss : 9.096 NLL : -9.096 
+iteration : 183800 loss : 11.083 NLL : -11.083 
+iteration : 184000 loss : 9.489 NLL : -9.489 
+iteration : 184200 loss : 7.658 NLL : -7.658 
+iteration : 184400 loss : 9.852 NLL : -9.852 
+iteration : 184600 loss : 14.439 NLL : -14.439 
+iteration : 184800 loss : 10.167 NLL : -10.167 
+iteration : 185000 loss : 8.154 NLL : -8.154 
+iteration : 185200 loss : 9.967 NLL : -9.967 
+iteration : 185400 loss : 9.674 NLL : -9.674 
+iteration : 185600 loss : 12.668 NLL : -12.668 
+iteration : 185800 loss : 10.974 NLL : -10.974 
+iteration : 186000 loss : 4.967 NLL : -4.967 
+iteration : 186200 loss : 24.592 NLL : -24.592 
+iteration : 186400 loss : 6.112 NLL : -6.112 
+iteration : 186600 loss : 10.106 NLL : -10.106 
+iteration : 186800 loss : 8.645 NLL : -8.645 
+iteration : 187000 loss : 6.656 NLL : -6.656 
+iteration : 187200 loss : 4.103 NLL : -4.103 
+iteration : 187400 loss : 6.329 NLL : -6.329 
+iteration : 187600 loss : 6.940 NLL : -6.940 
+iteration : 187800 loss : 16.867 NLL : -16.867 
+iteration : 188000 loss : 7.987 NLL : -7.987 
+iteration : 188200 loss : 7.596 NLL : -7.596 
+iteration : 188400 loss : 11.224 NLL : -11.224 
+---------- Training loss 5.100 updated ! and save the model! (step:188490) ----------
+iteration : 188600 loss : 10.346 NLL : -10.346 
+iteration : 188800 loss : 14.691 NLL : -14.691 
+iteration : 189000 loss : 10.095 NLL : -10.095 
+iteration : 189200 loss : 8.286 NLL : -8.286 
+iteration : 189400 loss : 8.314 NLL : -8.314 
+iteration : 189600 loss : 6.108 NLL : -6.108 
+iteration : 189800 loss : 8.023 NLL : -8.023 
+iteration : 190000 loss : 7.933 NLL : -7.933 
+---------- Training loss 7.970 updated ! and save the model! (step:190000) ----------
+---------- Training loss 7.330 updated ! and save the model! (step:190005) ----------
+---------- Training loss 7.071 updated ! and save the model! (step:190025) ----------
+---------- Training loss 7.036 updated ! and save the model! (step:190045) ----------
+---------- Training loss 6.540 updated ! and save the model! (step:190075) ----------
+---------- Training loss 6.300 updated ! and save the model! (step:190080) ----------
+iteration : 190200 loss : 5.406 NLL : -5.406 
+---------- Training loss 5.583 updated ! and save the model! (step:190235) ----------
+iteration : 190400 loss : 6.903 NLL : -6.903 
+iteration : 190600 loss : 11.927 NLL : -11.927 
+iteration : 190800 loss : 8.114 NLL : -8.114 
+iteration : 191000 loss : 9.421 NLL : -9.421 
+iteration : 191200 loss : 6.507 NLL : -6.507 
+iteration : 191400 loss : 9.103 NLL : -9.103 
+iteration : 191600 loss : 8.604 NLL : -8.604 
+iteration : 191800 loss : 5.843 NLL : -5.843 
+iteration : 192000 loss : 5.099 NLL : -5.099 
+iteration : 192200 loss : 6.073 NLL : -6.073 
+iteration : 192400 loss : 11.423 NLL : -11.423 
+iteration : 192600 loss : 8.616 NLL : -8.616 
+iteration : 192800 loss : 6.983 NLL : -6.983 
+iteration : 193000 loss : 9.397 NLL : -9.397 
+---------- Training loss 5.351 updated ! and save the model! (step:193195) ----------
+iteration : 193200 loss : 7.178 NLL : -7.178 
+iteration : 193400 loss : 6.368 NLL : -6.368 
+iteration : 193600 loss : 10.835 NLL : -10.835 
+iteration : 193800 loss : 8.012 NLL : -8.012 
+iteration : 194000 loss : 5.260 NLL : -5.260 
+---------- Training loss 5.226 updated ! and save the model! (step:194010) ----------
+iteration : 194200 loss : 8.486 NLL : -8.486 
+iteration : 194400 loss : 7.802 NLL : -7.802 
+iteration : 194600 loss : 8.363 NLL : -8.363 
+iteration : 194800 loss : 3.938 NLL : -3.938 
+---------- Training loss 5.114 updated ! and save the model! (step:194800) ----------
+iteration : 195000 loss : 7.649 NLL : -7.649 
+iteration : 195200 loss : 26.296 NLL : -26.296 
+iteration : 195400 loss : 17.763 NLL : -17.763 
+iteration : 195600 loss : 15.436 NLL : -15.436 
+iteration : 195800 loss : 9.024 NLL : -9.024 
+iteration : 196000 loss : 8.970 NLL : -8.970 
+iteration : 196200 loss : 6.025 NLL : -6.025 
+iteration : 196400 loss : 7.626 NLL : -7.626 
+iteration : 196600 loss : 12.739 NLL : -12.739 
+iteration : 196800 loss : 8.191 NLL : -8.191 
+iteration : 197000 loss : 9.482 NLL : -9.482 
+iteration : 197200 loss : 8.797 NLL : -8.797 
+iteration : 197400 loss : 7.629 NLL : -7.629 
+iteration : 197600 loss : 4.505 NLL : -4.505 
+iteration : 197800 loss : 5.529 NLL : -5.529 
+iteration : 198000 loss : 6.952 NLL : -6.952 
+iteration : 198200 loss : 9.697 NLL : -9.697 
+iteration : 198400 loss : 11.096 NLL : -11.096 
+iteration : 198600 loss : 6.902 NLL : -6.902 
+iteration : 198800 loss : 4.626 NLL : -4.626 
+iteration : 199000 loss : 3.014 NLL : -3.014 
+iteration : 199200 loss : 10.902 NLL : -10.902 
+iteration : 199400 loss : 10.495 NLL : -10.495 
+iteration : 199600 loss : 4.827 NLL : -4.827 
+iteration : 199800 loss : 8.437 NLL : -8.437 
+iteration : 200000 loss : 3.143 NLL : -3.143 
+---------- Training loss 7.423 updated ! and save the model! (step:200000) ----------
+---------- Save the model! (step:None) ----------

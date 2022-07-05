@@ -1,0 +1,81 @@
+Base:
+  INPUT_DIM : 1
+  OUTPUT_DIM : 1
+  NUM_CONTEXT_POINTS: 3
+  NUM_EXTRA_TARGET_POINTS: 3
+  TRAIN_TASK_SIZE: 100
+  TEST_TASK_SIZE: 16
+  TRAIN_NUM_POINTS : 50 # For training (Boostrapped NPs)
+  TEST_NUM_POINTS: 100 # For plotting
+  IS_AVERAGE_BY_POINTS : False
+  IS_IWAE : False
+  IW_SAMPLES : 5
+  
+CNP:
+  # Model
+  HIDDEN_SIZE: 128
+  NUM_LATENT: 128
+  DEBUG: True
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+  WEIGHT_DECAY : 1.0e-3
+
+NP:
+  # Model
+  HIDDEN_SIZE: 128
+  NUM_LATENT: 128
+  DEBUG: True
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+  WEIGHT_DECAY : 1.0e-3
+
+ANP:
+  # Model
+  HIDDEN_SIZE: 128
+  NUM_LATENT: 128
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'multihead'
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+  WEIGHT_DECAY : 1.0e-3
+
+ANP_variational:
+  # Model
+  HIDDEN_SIZE: 128
+  NUM_LATENT: 128
+  DEBUG: True
+
+  # Attention type : multihead
+  ATTENTION_TYPE: 'multihead'
+
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3
+
+ANP_weibull_300:
+    # Model
+  HIDDEN_SIZE: 128
+  NUM_LATENT: 128
+  DEBUG: True
+
+  # Attention type : multihead, soft_attention
+  ATTENTION_TYPE: 'soft_multihead_weibull'
+
+  # if soft_attention (Bayesian attention)
+    # option : contextual or else
+  PRIOR_TYPE : "contextual"
+  EPS: 1.0e-20
+  RSAMPLE_TRAINING: 1.0
+  K_WEIBULL: 300
+    
+  # Set training parameters
+  PLOT_AFTER: 11
+  LEARNING_RATE: 1.0e-3

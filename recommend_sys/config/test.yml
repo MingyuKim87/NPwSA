@@ -1,0 +1,22 @@
+
+# Save path
+model_save_dir: "./test_save_models"
+
+# Model name
+model_names: [
+  "CNP",
+  "NP",
+  "ANP",
+  "ANP_variational",
+  "ANP_weibull_300"
+]
+
+# Load path
+model_path: [
+              "./test_save_models/CNP/test/CNP_best_model200000.pt",
+              "./test_save_models/NP/test/NP_last_step_model200004.pt",
+              "./test_save_models/ANP/test/ANP_last_step_model200004.pt",
+              "./test_save_models/ANP_variational/test/ANP_variational_last_step_model200004.pt",
+              "./test_save_models/ANP_weibull_300/test/ANP_weibull_300_last_step_model200004.pt",
+]
+
