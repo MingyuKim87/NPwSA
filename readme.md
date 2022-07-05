@@ -11,9 +11,12 @@ Copyright (c) 2020-2022 the authors : Neural Processes with Stochastic Attention
 
 ### The structure of directory
 * `recommend_sys` / `lv_model` / `celebA` include train, test codes     
-        "./save_models/" : location of model checkpoints in training. 
-        "./test_save_models/" : model path in testing. 
+```shell
+"./save_models/" : location of model checkpoints in training. 
 
+```shell
+        "./test_save_models/" : model path in testing. 
+```
 * In `gp` / `gp_test`, we separate train, test codes. 
         `gp` : train code.  
             "./save_models/" : location of model checkpoints in training.  
