@@ -4,13 +4,13 @@ Copyright (c) 2020-2022 the authors : Neural Processes with Stochastic Attention
 </hr>
 
 ### There are 4 experiments in this code.
-* gp / gp_test : 1D regression task
-* recommend_sys : movieLenz-10k
-* lv_model : predator-prey model
-* celebA : image completion task
+* `gp` / `gp_test` : 1D regression task
+* `recommend_sys` : movieLenz-10k
+* `lv_model` : predator-prey model
+* `celebA` : image completion task
 
 ### The structure of directory
-* recommend_sys / lv_model / celebA include train, test codes 
+* `recommend_sys` / `lv_model` / `celebA` include train, test codes 
         "./save_models/" : location of model checkpoints in training
         "./test_save_models/" : model path in testing
 
